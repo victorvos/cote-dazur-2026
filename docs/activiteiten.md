@@ -1,0 +1,128 @@
+# Activiteiten
+
+Niet alles hoeft met z'n 7'en. Democratisch kiezen, rest strand & terras.
+
+---
+
+## 🎆 Vuurwerkshow Cannes — woensdag 22 juli
+
+**Festival d'Art Pyrotechnique de Cannes 2026** — internationale vuurwerkcompetitie
+in de Baie de Cannes. Onze avond:
+
+- **Datum:** woensdag 22 juli 2026
+- **Tijd:** **22:00** (~30 min, tot ±22:30)
+- **Act:** China Galaxy Pyrotechnics (China)
+- **Locatie:** Baie de Cannes, Bd de la Croisette, 06400 Cannes
+- **Prijs:** **gratis** en voor iedereen toegankelijk
+- **Tip:** vroeg een plek pakken langs de Croisette; eten/drankjes ervoor, drankjes erna
+- Bron: [festival-pyrotechnique-cannes.com](https://www.festival-pyrotechnique-cannes.com/en/program/july-22-fireworks/)
+
+---
+
+
+
+## ⛴️ Monaco — zaterdag 25 juli
+
+Per **ferry** heen (mooiste optie, zie [vervoer](vervoer.md)). Extreem toeristisch,
+maar leuk om een keer doorheen gelopen te hebben.
+
+Te zien:
+
+- Le Rocher (de rots) & Prinselijk Paleis — **wisseling van de wacht 11:55**, Place du Palais
+- Casino de Monte-Carlo
+- Jardin Exotique
+- Oceanografisch Museum
+- De haven met superjachten
+
+---
+
+
+
+## 🍷 Wijntour / dorpsdag — optioneel (vrijdag 24 juli)
+
+Alleen als er genoeg animo is (Victor: hoeft van mij niet per se). We hoeven
+**geen 2 huurauto's** te regelen — er zijn twee prima opties zonder auto.
+
+### 🚌 Optie A (aanrader voor wijn) — Bellet-wijnshuttle, GEEN auto nodig
+
+Grote vondst: de stad rijdt een gratis-instap **wijnshuttle** door de Bellet-heuvels,
+precies langs onze twee huizen. **Geen huurauto's, geen aangewezen bestuurder** —
+je stapt gewoon in en uit.
+
+- **Navette Vignobles de Bellet** — rijdt in juli/aug op **vrijdag én zaterdag**
+(dus **vrijdag 24 juli werkt** ✅), t/m 26 sept 2026.
+- **Route:** vertrek bij tramhalte **Magnan** (tram lijn 2), lus van ~80 min langs
+o.a. Château de Bellet, **Collet de Bovis** (halte "Tennis de Crémat") en
+**Château de Crémat** (eigen halte). Eén bus per ~1u20, tussen **10:00 en 18:00**.
+- **Kosten shuttle:** gewoon een bus/tram-kaartje **€1,70**; slimmer is de
+**dagpas €7 p.p.** (je stapt meerdere keren in/uit).
+- **Proeverijen (ter plekke, reserveren aanrader):**
+  - Château de Bellet — 4 wijnen €10, of tour+proeverij (EN) ~€20
+  - Collet de Bovis — proeverij 4–5 wijnen ~€15 (reserveren verplicht)
+  - Château de Crémat — 3 wijnen €20 / 6 wijnen €25, +€10 kasteelrondleiding
+- **Reken op ~€15–30 p.p.** aan proeverijen + €7 dagpas = **~€25–40 p.p. all-in**
+(fors goedkoper én makkelijker dan 2 huurauto's).
+- Onze huizen: **Collet Bovis** — [maps](https://maps.app.goo.gl/DuL9KqchEk5iP3J86) ·
+**Château Crémat** — [maps](https://maps.app.goo.gl/XUu9mibbemurwS4e9) (Chem. de Crémat).
+
+> Let op: de shuttle rijdt maar ~~elk 1u20, dus plan 1–2 huizen i.p.v. alle drie.
+> Bel de domeinen vooraf voor een proeverij-slot (Collet de Bovis: reservering
+> verplicht). Wil je meer flexibiliteit → taxi/Uber vanuit centrum (~~20 min) kan ook.
+
+
+
+### 🚆 Optie B (dorp + eten i.p.v. wijn) — treinuitje langs de kust
+
+Voor wie meer wil "mooi dorp + goed eten" dan specifiek wijn: pak gewoon de trein
+vanaf **Nice-Ville**. TER/ZOU rijdt ~elke 15 min, kaartje geldt de hele dag.
+Geverifieerde tijden/prijzen (enkele reis):
+
+
+| Bestemming                  | Reistijd     | Prijs p.p. | Waarom                                                                            |
+| --------------------------- | ------------ | ---------- | --------------------------------------------------------------------------------- |
+| **Villefranche-sur-Mer**    | ~5 min (2–8) | **€2,10**  | Schilderachtig havendorp, terrasjes & visrestaurants aan zee — makkelijkste uitje |
+| **Antibes / Juan-les-Pins** | ~25 min      | **€5,20**  | Oude stad + markt (Marché Provençal), stranden                                    |
+| **Menton**                  | ~32–37 min   | **~€7**    | Rustig, mooi, citroen/gastronomie, dicht bij Italië                               |
+| **Èze-sur-Mer**             | ~10 min      | ~€2–3      | Kuststation; hilltop-dorp Èze zelf is steile klim/bus omhoog                      |
+| **Monaco**                  | ~20 min      | €4,40      | (doen we al per ferry op zaterdag)                                                |
+
+
+> **Èze let op:** het beroemde bergdorp Èze ligt bóven het treinstation
+> (Èze-sur-Mer) — vergt de steile "Sentier Nietzsche" (~45 min klimmen) of bus 82.
+> Voor gemak: Villefranche of Menton.
+
+
+
+### 🍷 Belangrijk over "wijn per trein"
+
+De **Bellet-appellatie** (waar Collet de Bovis + Château Crémat liggen) zit in de
+**heuvels ván Nice zelf**, niet aan de treinlijn. Voor de wijn dus **geen trein** →
+gebruik de **Bellet-shuttle (Optie A)** of taxi/Uber. Voor een treindag draait het
+om **dorp + eten** (Optie B), niet om wijnproeven.
+
+### Concreet advies
+
+- **Wil je wijn proeven** → **Optie A: Bellet-shuttle op vrijdag** (geen auto, ~€25–40 p.p.).
+- **Wil je gewoon een mooi dorp + goed eten** → **Optie B: trein naar
+Villefranche-sur-Mer** (5 min, €2,10) of **Menton** (~35 min, ~€7).
+- Alternatief blijft een georganiseerde tour, bv. [wijntour in Defender (TripAdvisor)](https://www.tripadvisor.nl/AttractionProductReview-g187234-d33092771-Nice_Wine_tasting_in_the_hinterland_in_Defender-Nice_French_Riviera_Cote_d_Azur_Pr.html).
+
+**Beslissing nodig (bij animo):** Bellet-shuttle (wijn) óf treindorp (eten)? Zo ja,
+even proeverij-slots bellen. **Huurauto's zijn niet meer nodig.**
+
+---
+
+
+
+## 🏖️ Overig / no-plan
+
+- Strand bakken, terrassen, bier ☀️ (de kern-vibe van deze trip)
+- **BBQ thuis** in het appartement in Nice
+- Lekker eten in de stad (Nice heeft goede restaurants + Vieux Nice)
+- Extra treinuitje overdag mogelijk (bv. Èze, Antibes, Villefranche-sur-Mer)
+
+Extra opgeslagen kaartpunten van Victor:
+
+- [maps link 1](https://maps.app.goo.gl/T8YHZp8xWh4bjSMM7)
+- [maps link 2](https://maps.app.goo.gl/NUNsiJVjfUpeP9Hg8)
+

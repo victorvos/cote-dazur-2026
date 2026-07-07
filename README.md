@@ -1,0 +1,63 @@
+# Côte d'Azur 2026 — Cannes · Nice · Monaco
+
+Reisplanning voor de groep van **7** naar de Franse Rivièra.
+**Woensdag 22 juli t/m zondag 26 juli 2026.**
+
+> Filosofie: geen schoolreisje. Een paar essentiële dingen wél gefixt (slaapplek,
+> treinen, ferry), de rest lekker met de dag invullen — terrassen, strand, bier en zon.
+
+---
+
+## De groep (7)
+
+Victor · Maurice (Mo) · Coen · Theo · Floris · Pim · Leander
+
+**Trekkers deze reis:** Victor & Mo (accommodatie + logistiek).
+
+---
+
+## In één oogopslag
+
+| Dag | Datum | Basis | Highlight |
+|-----|-------|-------|-----------|
+| Woe | 22 jul | **Cannes** | Aankomst NCE → Cannes · **Vuurwerkshow 22:00** · eten & drankjes |
+| Don | 23 jul | **Nice** | Trein Cannes → Nice · inchecken appartement · strand & stad |
+| Vrij | 24 jul | Nice | Vrije dag: strand / evt. wijntour / BBQ thuis · eten in de stad |
+| Zat | 25 jul | Nice | **Ferry naar Monaco** (dag) · 's avonds terug in Nice |
+| Zon | 26 jul | → thuis | Vlucht NCE → AMS 09:40 |
+
+Volledige uitwerking: **[docs/itinerary.md](docs/itinerary.md)**
+
+---
+
+## Documenten
+
+- **[docs/itinerary.md](docs/itinerary.md)** — dag-voor-dag programma
+- **[docs/vervoer.md](docs/vervoer.md)** — vluchten, treinen, ferry
+- **[docs/accommodatie.md](docs/accommodatie.md)** — Cannes (woe) + Nice appartement
+- **[docs/activiteiten.md](docs/activiteiten.md)** — vuurwerk, Monaco, wijntour, strand
+- **[docs/nice-lijst.md](docs/nice-lijst.md)** — Victor's Maps-lijst (wijn, eten, bars, strand)
+- **[docs/kosten.md](docs/kosten.md)** — kosten & wie regelt wat
+- **[docs/checklist.md](docs/checklist.md)** — wat moet er nog geboekt worden
+- **[docs/nice-lijst.md](docs/nice-lijst.md)** — opgeslagen kaartpunten Nice (wijnhuizen, eten, bars, strand)
+
+---
+
+## De twee nachtsituaties (belangrijk!)
+
+1. **Woensdag 22 juli:** GEEN appartement in Nice (dubbele booking kon niet
+   verlengd worden). Daarom **overnachten in Cannes** → mooi combineert met de
+   vuurwerkshow. Nog te boeken. Zie [accommodatie](docs/accommodatie.md).
+2. **Donderdag 23 → zondag 26 juli:** appartement in **Nice**
+   (306 Chemin de la Costière, 06000 Nice).
+
+---
+
+## Nog te regelen (kort)
+
+- [ ] **Cannes woensdagnacht boeken** — koploper: Spacious Apartment (~€79 p.p.)
+- [ ] **Ferry Nice → Monaco** reserveren voor **za 25 jul** (7× €49,50 — nu doen)
+- [ ] **Vrijdag:** wijntour ja/nee — Bellet-shuttle vanaf Magnan (geen auto's) óf treindorp
+- [ ] Treintijden Cannes → Nice op donderdag prikken (TER, ~elke 20 min)
+
+Zie de volledige **[checklist](docs/checklist.md)**.
