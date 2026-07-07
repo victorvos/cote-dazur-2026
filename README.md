@@ -38,10 +38,9 @@ Volledige uitwerking: **[docs/itinerary.md](docs/itinerary.md)**
 - **[docs/vervoer.md](docs/vervoer.md)** — vluchten, treinen, ferry
 - **[docs/accommodatie.md](docs/accommodatie.md)** — Cannes (woe) + Nice appartement
 - **[docs/activiteiten.md](docs/activiteiten.md)** — vuurwerk, Monaco, wijntour, strand
-- **[docs/nice-lijst.md](docs/nice-lijst.md)** — Victor's Maps-lijst (wijn, eten, bars, strand)
+- **[docs/nice-lijst.md](docs/nice-lijst.md)** — Maps-lijst Nice (41 plekken: wijn, eten, bars, vis)
 - **[docs/kosten.md](docs/kosten.md)** — kosten & wie regelt wat
 - **[docs/checklist.md](docs/checklist.md)** — wat moet er nog geboekt worden
-- **[docs/nice-lijst.md](docs/nice-lijst.md)** — opgeslagen kaartpunten Nice (wijnhuizen, eten, bars, strand)
 
 ---
 

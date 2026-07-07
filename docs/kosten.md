@@ -6,15 +6,17 @@ Indicatieve kosten per persoon (7 personen). Prijzen juli 2026, ruwe schatting.
 
 ## Kostenoverzicht (p.p.)
 
-| Post | Indicatie p.p. | Opmerking |
-|------|----------------|-----------|
-| Vlucht AMS ↔ NCE (retour) | ~€243 | ✅ geboekt — direct, KLM/easyJet |
-| Appartement Cannes (1 nacht) | ~€79 | ✅ geboekt — Spacious Apartment (~€549,67 totaal) |
-| Appartement Nice (3 nachten) | n.t.b. | via Mo geregeld — bedrag invullen |
-| Trein Cannes → Nice | ~€10 | TER |
-| Ferry Nice ↔ Monaco (retour) | €49,50 | Trans Côte d'Azur, met stop |
-| Wijntour (optioneel) | ~€60 | incl. 2× autohuur + proeverij, alleen bij animo |
-| Eten / drinken / boodschappen | variabel | terrassen, BBQ, restaurants |
+
+| Post                          | Indicatie p.p. | Opmerking                                        |
+| ----------------------------- | -------------- | ------------------------------------------------ |
+| Vlucht AMS ↔ NCE (retour)     | ~€243          | ✅ geboekt — direct, KLM/easyJet                  |
+| Appartement Cannes (1 nacht)  | ~€79           | ✅ geboekt — Spacious Apartment (~€549,67 totaal) |
+| Appartement Nice (3 nachten)  | n.t.b.         | via Mo geregeld — bedrag invullen                |
+| Trein Cannes → Nice           | ~€10           | TER                                              |
+| Ferry Nice ↔ Monaco (retour)  | €49,50         | Trans Côte d'Azur, met stop                      |
+| Wijntour Bellet (optioneel)   | ~€32–52        | dagpas €7 + 2 proeverijen, shuttle — geen autohuur |
+| Eten / drinken / boodschappen | variabel       | terrassen, BBQ, restaurants                      |
+
 
 > Vluchten en Cannes-appartement zijn geboekt; vul de resterende definitieve
 > bedragen in zodra ook de ferry en het Nice-appartement rond zijn.
@@ -32,12 +34,15 @@ Indicatieve kosten per persoon (7 personen). Prijzen juli 2026, ruwe schatting.
 
 ## Wie regelt wat
 
-| Taak | Verantwoordelijk | Status |
-|------|------------------|--------|
-| Leiding / logistiek deze reis | **Victor & Mo** | lopend |
-| Appartement Nice (do–zo) | Mo | ✅ geregeld |
-| Appartement Cannes (woe) | Mo / Victor | ✅ geboekt |
-| Ferry Monaco reserveren (za) | Victor / Mo | ⬜ te boeken |
-| Wijntour uitzoeken (auto's) | Victor (bij animo) | ⬜ beslissen |
-| Treintijden Cannes → Nice | Victor / Mo | ⬜ prikken |
-| Vluchten | groep | ✅ geboekt |
+
+| Taak                          | Verantwoordelijk   | Status      |
+| ----------------------------- | ------------------ | ----------- |
+| Leiding / logistiek deze reis | **Victor & Mo**    | lopend      |
+| Appartement Nice (do–zo)      | Mo                 | ✅ geregeld  |
+| Appartement Cannes (woe)      | Mo / Victor        | ✅ geboekt   |
+| Ferry Monaco reserveren (za)  | Victor / Mo        | ⬜ te boeken |
+| Wijndag Bellet (bij animo)    | Victor             | ⬜ reserveren  |
+| Treintijden Cannes → Nice     | Victor / Mo        | ⬜ prikken   |
+| Vluchten                      | groep              | ✅ geboekt   |
+
+
