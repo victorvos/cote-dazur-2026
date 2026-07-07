@@ -66,9 +66,18 @@ De ferry (Trans Côte d'Azur) rijdt op **dinsdag/donderdag/zaterdag** → zaterd
 | dag | Monaco verkennen: Rocher, Casino, Jardin Exotique, Oceanografisch museum |
 | 17:00 | **Ferry Monaco → Nice** |
 | 18:00 | Terug in **Nice** |
-| avond | Uit eten / drankjes in Nice |
+| avond | **BBQ thuis** óf **uit eten** in Nice (zie hieronder) |
 
 **Reservering verplicht** — op tijd boeken (7 plekken). Zie [vervoer](vervoer.md).
+
+> **Flexibeler dan de ferry?** De ferry ligt vast op **09:30 heen / 17:00 terug**
+> (en is retour-only). Wil je **later weg of eerder terug**, pak dan de **trein**
+> Nice-Ville ↔ Monaco (~20 min, ~€5–6, elke ~15–20 min tot 's avonds laat) — dan
+> ga en kom je precies wanneer je wilt. Volledige vergelijking (ferry/trein/bus)
+> in [vervoer](vervoer.md).
+
+**Zaterdagavond:** geen vast plan — **BBQ thuis** in het appartement óf makkelijk
+**uit eten in Nice**. Voor restaurantideeën zie de [Nice-lijst](nice-lijst.md).
 
 ---
 

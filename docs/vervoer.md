@@ -65,9 +65,48 @@ Reservering is verplicht én de boten zitten in de zomer snel vol → **z.s.m. b
 > **Deadline:** geen harde datum, maar zomerse zaterdagen lopen vol → deze week
 > regelen. Eén persoon boekt voor de hele groep en verdeelt de kosten.
 
-> Alternatief (goedkoper, geen stop): 2-uur "Promenade" cruise om 16:00 voor
-> €39,50 — maar dat is alléén varen, geen tijd in Monaco. Wij willen de **cruise
-> met stop** (09:30 heen / 17:00 terug).
+> Alternatief (goedkoper, geen stop): 2-uur "Promenade / Sightseeing" cruise om
+> 16:00 voor €39,50 — maar dat is alléén varen langs de kust, **geen tijd in
+> Monaco**. Wij willen de **cruise met stop** (09:30 heen / 17:00 terug).
 
-**Budget-alternatief voor Monaco:** de trein Nice → Monaco-Monte-Carlo is ~25 min
-en ~€5 p.p. als de ferry vol/te duur is. De ferry is wel de mooiste optie.
+### 🔄 Later heen / eerder terug? — flexibele alternatieven
+
+Vraag uit de groep: *"kunnen we ook later met de ferry naar Monaco en eerder
+terug?"* Kort antwoord: **met de ferry niet.**
+
+- **De ferry is een vaste tocht.** *Geverifieerd (trans-cote-azur.com, 2026):* de
+  "croisière avec escale" heeft maar **één afvaart** — heen **09:30**, terug
+  **17:00**. Er zijn geen extra Monaco-tijden. De enige andere boot is de
+  Promenade-cruise van 16:00, maar die **stopt niet** in Monaco.
+- **En één kant per boot?** Kan ook niet: Trans Côte d'Azur verkoopt **alleen
+  retour** (geen los enkeltje). *(Geverifieerd — een echt enkele reis over water
+  bestaat alleen als dure privé-watertaxi, ~€300+; niet interessant.)* Dus "ferry
+  heen, trein terug" gaat helaas niet op met deze rederij.
+
+**Wil je flexibel zijn met de tijden → pak de trein of de bus.** Die vertrekken de
+hele dag door, dus je gaat wanneer je wilt en komt terug wanneer je wilt.
+
+| Optie | Reistijd | Prijs p.p. (enkel) | Frequentie / tijden | Sfeer |
+| --- | --- | --- | --- | --- |
+| **⛴️ Ferry (met stop)** | ~45 min | €49,50 **retour** | **vast**: 09:30 heen / 17:00 terug (di/do/za) | mooiste, maar vaste tijden + reserveren |
+| **🚆 Trein** (Nice-Ville ↔ Monaco-Monte-Carlo) | ~20–25 min | **€5,90** (vol tarief) | **~elke 15–20 min**, ~05:50–22:20, geen reservering | snelst & flexibelst |
+| **🚌 Bus 600** (ex-lijn 100) | ~75–90 min | **€2,10** (contactloos) / €2,50 cash | elke ~15–20 min, ~7 dagen | goedkoopst + scenic langs de kust |
+
+*Alle drie geverifieerd (SNCF/TER + Zou!/Lignes d'Azur, 2026).*
+
+- **Trein** — Nice-Ville → **Monaco-Monte-Carlo**, direct, ~20 min. Vol tarief
+  **€5,90 enkel**; met **7 personen** kun je het **ZOU! mini-groepstarief (~€3
+  p.p. vanaf 5 pers.)** pakken → nóg goedkoper. Rijdt ~55–65 keer per dag, geen
+  reservering, kaartje via SNCF Connect-app of automaat. **Dit is de flexibele
+  optie: later heen én eerder (of juist later) terug, geheel naar eigen zin.**
+- **Bus 600** (heette vroeger **lijn 100**) — de klassieke **scenic kustroute**
+  via Villefranche, Beaulieu, Èze-sur-Mer en Cap-d'Ail. Langzamer (~1u15–1u30) en
+  kan vol zitten, maar spotgoedkoop en prachtig uitzicht. €2,10 contactloos aan
+  boord (of €2,50 cash); mini-groepskorting mogelijk. *Let op: Monaco is een
+  ander land, dus een Nice-dagpas dekt de rit tot ín Monaco niet volledig.*
+
+> **Advies:** wil je de **beleving** → doe de **ferry** (mooiste tocht, maar dan
+> wél de vaste 09:30/17:00 en reserveren). Wil je **vrij zijn in tijd** (later weg,
+> eerder terug) → pak de **trein** (~20 min, ~€5–6, hele dag door). De bus is het
+> goedkoopst en scenic, maar traag. Combineren "ferry heen + trein terug" kan
+> helaas niet (ferry is retour-only).
