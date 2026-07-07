@@ -6,7 +6,7 @@ Zo veel mogelijk vóór vertrek regelen; de rest lekker met de dag.
 
 ## 🔴 Nu / deze week (essentieel)
 
-- [x] **Appartement Cannes** (woensdagnacht 22 juli) boeken — **koploper: Spacious
+- [x] **Appartement Cannes** (woensdagnacht 22 juli) — ✅ **geboekt: Spacious
   ```
   Apartment in Central Cannes** (~€549,67 = ~€79 p.p., 4 bedden + sofa, airco,
   centraal). [Booking](https://www.booking.com/Share-sAliYr3). Zie [accommodatie.md](accommodatie.md).
@@ -16,7 +16,7 @@ Zo veel mogelijk vóór vertrek regelen; de rest lekker met de dag.
   7 plekken (09:30 heen / 17:00 terug, €49,50 p.p. → ~€346,50 totaal). Online op
   trans-cote-azur.com of bel +33 (0)6 01 52 54 08. Snel: loopt in de zomer vol.
   ```
-- [x] Vluchten bevestigen/boeken (AMS→NCE 22/7 16:45, NCE→AMS 26/7 09:40).
+- [x] Vluchten ✅ geboekt (AMS→NCE 22/7 16:45, NCE→AMS 26/7 09:40).
 - [ ] **Wijntour/dorpsdag ja/nee** beslissen (vrijdag) — **geen huurauto's nodig**:
   ```
   Bellet-wijnshuttle (vr, vanaf Magnan) óf trein naar Villefranche/Menton.

@@ -8,15 +8,16 @@ Indicatieve kosten per persoon (7 personen). Prijzen juli 2026, ruwe schatting.
 
 | Post | Indicatie p.p. | Opmerking |
 |------|----------------|-----------|
-| Vlucht AMS ↔ NCE (retour) | ~€243 | direct, KLM/easyJet |
-| Appartement Cannes (1 nacht) | €50–82 | afh. van optie; max €65 afgesproken (airco-optie ~€82) |
+| Vlucht AMS ↔ NCE (retour) | ~€243 | ✅ geboekt — direct, KLM/easyJet |
+| Appartement Cannes (1 nacht) | ~€79 | ✅ geboekt — Spacious Apartment (~€549,67 totaal) |
 | Appartement Nice (3 nachten) | n.t.b. | via Mo geregeld — bedrag invullen |
 | Trein Cannes → Nice | ~€10 | TER |
 | Ferry Nice ↔ Monaco (retour) | €49,50 | Trans Côte d'Azur, met stop |
 | Wijntour (optioneel) | ~€60 | incl. 2× autohuur + proeverij, alleen bij animo |
 | Eten / drinken / boodschappen | variabel | terrassen, BBQ, restaurants |
 
-> Vul de definitieve bedragen in zodra alles geboekt is.
+> Vluchten en Cannes-appartement zijn geboekt; vul de resterende definitieve
+> bedragen in zodra ook de ferry en het Nice-appartement rond zijn.
 
 ---
 
@@ -35,8 +36,8 @@ Indicatieve kosten per persoon (7 personen). Prijzen juli 2026, ruwe schatting.
 |------|------------------|--------|
 | Leiding / logistiek deze reis | **Victor & Mo** | lopend |
 | Appartement Nice (do–zo) | Mo | ✅ geregeld |
-| Appartement Cannes (woe) | Mo / Victor | ⬜ te boeken |
+| Appartement Cannes (woe) | Mo / Victor | ✅ geboekt |
 | Ferry Monaco reserveren (za) | Victor / Mo | ⬜ te boeken |
 | Wijntour uitzoeken (auto's) | Victor (bij animo) | ⬜ beslissen |
 | Treintijden Cannes → Nice | Victor / Mo | ⬜ prikken |
-| Vluchten | groep | ✅ gevonden (nog boeken indien niet gedaan) |
+| Vluchten | groep | ✅ geboekt |

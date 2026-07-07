@@ -49,7 +49,7 @@ Volledige uitwerking: **[docs/itinerary.md](docs/itinerary.md)**
 
 1. **Woensdag 22 juli:** GEEN appartement in Nice (dubbele booking kon niet
    verlengd worden). Daarom **overnachten in Cannes** → mooi combineert met de
-   vuurwerkshow. Nog te boeken. Zie [accommodatie](docs/accommodatie.md).
+   vuurwerkshow. ✅ Geboekt (Spacious Apartment). Zie [accommodatie](docs/accommodatie.md).
 2. **Donderdag 23 → zondag 26 juli:** appartement in **Nice**
    (306 Chemin de la Costière, 06000 Nice).
 
@@ -57,7 +57,7 @@ Volledige uitwerking: **[docs/itinerary.md](docs/itinerary.md)**
 
 ## Nog te regelen (kort)
 
-- [ ] **Cannes woensdagnacht boeken** — koploper: Spacious Apartment (~€79 p.p.)
+- [x] **Cannes woensdagnacht** — ✅ geboekt: Spacious Apartment (~€79 p.p.)
 - [ ] **Ferry Nice → Monaco** reserveren voor **za 25 jul** (7× €49,50 — nu doen)
 - [ ] **Vrijdag:** wijntour ja/nee — Bellet-shuttle vanaf Magnan (geen auto's) óf treindorp
 - [ ] Treintijden Cannes → Nice op donderdag prikken (TER, ~elke 20 min)

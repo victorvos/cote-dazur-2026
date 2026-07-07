@@ -4,9 +4,10 @@ Vluchten, treinen en de ferry. Prijzen zijn indicatief (juli 2026).
 
 ---
 
-## ✈️ Vluchten (AMS ↔ NCE)
+## ✈️ Vluchten (AMS ↔ NCE) — ✅ geboekt
 
 KLM + easyJet, beide **direct**. Vanaf ~€243 retour p.p. (Skyscanner-vondst).
+De vluchten zijn **geboekt** (AMS→NCE 22/7 16:45, NCE→AMS 26/7 09:40).
 
 | Richting | Datum | Vertrek | Aankomst | Duur |
 |----------|-------|---------|----------|------|

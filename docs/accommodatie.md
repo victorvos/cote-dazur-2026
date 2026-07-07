@@ -14,15 +14,16 @@ Twee verblijven: **Cannes** (alleen woensdagnacht) en **Nice** (do–zo).
 
 ---
 
-## 🎆 Cannes — 1 nacht (woensdag 22 → do 23 juli) — NOG TE BOEKEN
+## 🎆 Cannes — 1 nacht (woensdag 22 → do 23 juli) — ✅ GEBOEKT
 
 Waarom Cannes: het Nice-appartement kon niet verlengd worden voor woensdagnacht
 (dubbele booking). In plaats van een gat → nacht in Cannes, mooi te combineren
 met de vuurwerkshow.
 
-### ⭐ Koploper — Spacious Apartment in Central Cannes
+### ✅ Geboekt — Spacious Apartment in Central Cannes
 
-De groep neigt naar deze (iets duurdere) optie voor het extra comfort.
+De groep koos bewust voor deze (iets duurdere) optie voor het extra comfort.
+**Dit is geboekt.**
 
 - **Link:** [Booking · Spacious Apartment Central Cannes](https://www.booking.com/Share-sAliYr3)
 - **Data:** in 22 juli → uit 23 juli (1 nacht), 7 volwassenen, 3 kamers
@@ -35,7 +36,7 @@ De groep neigt naar deze (iets duurdere) optie voor het extra comfort.
 > bewust voor: echte bedden, airco en centrale ligging op een drukke festivalavond.
 > Compromis-idee: wie op de slaapbank slaapt betaalt iets minder, rest ~€79.
 
-### Goedkopere alternatieven (secundair — alleen als koploper afvalt)
+### Goedkopere alternatieven (keuze is gemaakt — hier alleen ter archivering)
 
 | Optie | Link | Kenmerken | Indicatie p.p. |
 |-------|------|-----------|----------------|
@@ -45,8 +46,5 @@ De groep neigt naar deze (iets duurdere) optie voor het extra comfort.
 
 ### Actie / stand van zaken
 
-- **Actie:** Mo (of Victor) boekt de **Spacious Apartment** snel — 22 juli is
-  festivalavond, populaire datum die hard vol loopt.
-
-> Beslissing invullen zodra geboekt:
-> **Geboekt:** _(naam appartement)_ · **Prijs totaal:** _€___ · **Geboekt door:** ___
+- **✅ Geboekt:** de **Spacious Apartment in Central Cannes** is geboekt
+  (22 → 23 juli, 7 personen, ~€549,67 totaal → ~€79 p.p.).
