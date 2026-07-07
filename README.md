@@ -3,6 +3,8 @@
 Reisplanning voor de groep van **7** naar de Franse Rivièra.
 **Woensdag 22 juli t/m zondag 26 juli 2026.**
 
+**Repo:** [github.com/victorvos/cote-dazur-2026](https://github.com/victorvos/cote-dazur-2026) (privé — collaborators uitnodigen via GitHub)
+
 > Filosofie: geen schoolreisje. Een paar essentiële dingen wél gefixt (slaapplek,
 > treinen, ferry), de rest lekker met de dag invullen — terrassen, strand, bier en zon.
 
