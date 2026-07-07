@@ -223,6 +223,115 @@ even proeverij-slots bellen. **Huurauto's zijn niet meer nodig.**
 
 
 
+## 🏖️ Strandopties (zand / ligbedden, met tram/trein)
+
+Nice's eigen stadsstranden zijn **kiezel (galets)**, geen zand — mooi uitzicht,
+minder fijn liggen. Twee oplossingen: (a) **écht zand** pak je net buiten Nice met
+de trein, of (b) neem op een Nice-strand een **ligbed (matelas)** bij een plage
+privée, dan voel je de kiezels niet. Hieronder de beste opties met prijs en route.
+
+> **Geverifieerd vs. schatting:** lijnnummers, tram/trein-tijden en de meeste
+> matelas-prijzen zijn nagezocht (2026). De **bus-overstappen vanaf ons
+> appartement** zijn een realistische schatting (hangt af van de dienstregeling
+> ter plekke) — check ter plaatse even de Lignes d'Azur-app.
+
+### 🚏 Van het appartement (306 Chemin de la Costière) naar zee
+
+Ons adres ligt in de wijk **La Madeleine** (NW-heuvels van Nice, ~4 km van het
+centrum) — **niet** aan zee, dus even reizen. Dichtstbijzijnde bushaltes liggen op
+de **Chemin de la Costière** zelf: **La Colline / Costière, La Costière L,
+La Costière B**, bediend door bus **31** en **75** (~elke 30 min, ma–vr; *geverifieerd*).
+
+Twee handige routes naar het water:
+
+- **➡️ Naar de Promenade-stranden (via tram):** bus **31** naar beneden tot
+  **La Madeleine** → overstap op bus **6** (La Madeleine ↔ Magnan, elke ~6–8 min)
+  → bij **Magnan** op **tram lijn 2** (oost–west langs de kust). Ruwe reistijd
+  **~35–45 min**. *(Dezelfde tram 2 die we voor de wijndag vanaf Magnan pakken.)*
+- **➡️ Naar de trein (zandstranden Villefranche/Antibes):** bus **75** rijdt
+  **rechtstreeks** naar **Gare Thiers / Nice-Ville** → daar de TER pakken. Ruwe
+  reistijd bus **~20–25 min**, daarna trein.
+- **🚕 Flexibel:** taxi/Uber vanaf de heuvel naar Magnan of Nice-Ville (~10–15 min)
+  als de bus te lang duurt of met 7 man makkelijker is — deel over 2 auto's.
+
+> ⚠️ **Zondag:** de heuvelbussen (31 e.d.) rijden zondag beperkt / op reservering.
+> Voor ons niet erg — we vertrekken zondag toch vroeg naar het vliegveld.
+
+**Tarief:** losse rit **€1,70**, **dagpas €7** (onbeperkt tram + bus die dag,
+zelfde als wijndag). Trein apart (zie treindorp-tabel hierboven).
+
+### 🏝️ 1. Écht zand — met de trein (aanrader: Villefranche)
+
+**⭐ Plage des Marinières — Villefranche-sur-Mer** *(de makkelijke zand-winnaar)*
+
+- **Zand/kiezel:** grotendeels **zacht zand** (met wat fijne kiezel), rustige,
+  ondiepe baai — ideaal groepsstrand en fijn zwemmen (helder, turquoise water).
+- **Prijs:** strand **gratis**; ligbed + parasol te huur (~€15–20 p.p., schatting);
+  douches/wc + snackkraampjes langs het strand.
+- **Ligging/hoe:** **trein Nice-Ville → Villefranche-sur-Mer, ~7 min, ~€2,10**
+  (zie treindorp-tabel), ~elke 10–20 min. Het **station ligt pal boven het strand**
+  (2 min lopen). *(= meteen het "treindorp"-uitje uit het wijndag-plan: strand +
+  havendorp + lunch in één dag combineren.)*
+- [📍 Maps](https://www.google.com/maps/search/?api=1&query=Plage%20des%20Marini%C3%A8res%20Villefranche-sur-Mer)
+
+**Antibes / Juan-les-Pins** *(meer zand, iets verder)*
+
+- **Zand/kiezel:** **echte zandstranden** (Juan-les-Pins). Gratis openbare stukken
+  + betaalbare plages privées.
+- **Prijs:** matelas plage privée in Juan-les-Pins **~€15–35/dag** (goedkoper dan
+  Nice); openbaar strand gratis.
+- **Ligging/hoe:** **trein ~25 min, ~€5,20** (zie treindorp-tabel).
+- [📍 Maps](https://www.google.com/maps/search/?api=1&query=Plage%20Juan-les-Pins%20Antibes)
+
+**Cagnes-sur-Mer** *(dichtbij, gemengd)* — gemengd zand/kiezel, ~15 min trein;
+prima korte optie voor iets breders zonder ver te reizen.
+
+### 🛏️ 2. In Nice zelf — kiezel, maar chill mét ligbed (plage privée)
+
+Alle plages privées liggen aan de **Promenade des Anglais** op de galets; je huurt
+een **matelas** (met parasol) zodat de stenen geen punt zijn. Prijzen 2026
+(hoogseizoen, *nagezocht*):
+
+| Plage privée | Matelas/dag | Sfeer | Hoe kom je er |
+| --- | --- | --- | --- |
+| **Opéra Plage** | **€25–30** (1e lijn €35) | historisch, centraal | bij Masséna/Vieux Nice · T2 → Alsace-Lorraine of tram 1 → Masséna, dan lopen |
+| **Beau Rivage** | **€28** (v.a. 14u €22) | levendig, ook 's avonds | centraal bij de Opera · idem |
+| **Castel Plage** | **€30–35** | mooiste plek, voet Kasteelheuvel | eind Promenade bij Vieux Nice · idem |
+| **Blue Beach** | **€30** | modern, familie | midden Promenade · T2 → CUM/Alsace-Lorraine |
+| **Cocoon / Régence Plage** | **€20–25** | rustig, goedkoopst | west richting haven/vliegveld · T2 dichtbij |
+
+- **Beste waarde:** Cocoon/Régence (~€20–25) of Opéra/Beau Rivage (~€25–30).
+  Reken lunch + drankjes flink extra (dáár verdienen plages privées aan).
+- **Tip:** kom vóór ~11u voor een goede plek; 1e-lijn kost overal ~€5 extra.
+
+### 🆓 3. Gratis openbare stranden in Nice (kiezel/rots)
+
+- **Plage Castel / Ponchettes** — beste **gratis** strand, aan de voet van de
+  Kasteelheuvel bij Vieux Nice: mooi helder water, luw, schilderachtig. (staat ook
+  in [nice-lijst.md](nice-lijst.md).) Kom vroeg — in juli vol rond 10u.
+  [📍 Maps](https://www.google.com/maps/search/?api=1&query=Plage%20Castel%20Nice)
+- **Coco Beach** — geen zand/kiezel maar **platte rotsen** ten oosten van de haven:
+  kraakhelder water, top voor **snorkelen**, lokale vibe (ladders de zee in).
+  **Geen zandstrand en niet voor kleine kinderen** — maar bijzonder mooi en gratis.
+  Neem waterschoenen.
+  [📍 Maps](https://www.google.com/maps/search/?api=1&query=Coco%20Beach%20Nice)
+
+> 🩴 **Kiezel-tip:** neem **waterschoenen + een matje** mee (~€5 op de Promenade) —
+> op elk kiezelstrand véél comfortabeler. Of huur gewoon een matelas (zie boven).
+> Sommige gemeentestranden verhuren ook goedkope ligbedden (~€9–11).
+
+### 🧭 Kort advies
+
+- **Wil je écht zand + een uitje:** **trein naar Villefranche (Plage des Marinières)**
+  — 7 min, ~€2,10, zand + dorp + lunch. Combineer met het treindorp-idee.
+- **Wil je dicht bij Nice chillen op een ligbed:** **plage privée op de Promenade**
+  (Cocoon/Opéra/Beau Rivage, ~€20–30 matelas).
+- **Budget/gratis:** **Plage Castel/Ponchettes** met waterschoenen + matje.
+
+---
+
+
+
 ## 🏖️ Overig / no-plan
 
 - Strand bakken, terrassen, bier ☀️ (de kern-vibe van deze trip)
