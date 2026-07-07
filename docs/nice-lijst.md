@@ -4,9 +4,14 @@ Uitgewerkte versie van Victors opgeslagen Google Maps-punten en de gedeelde lijs
 Per plek: naam, korte omschrijving, buurt/ligging en een Maps-zoeklink.
 
 > **Status:** de twee wijnhuizen zijn volledig uitgezocht (adressen + prijzen
-> geverifieerd). De **gedeelde lijst** (`FBopsmM14LR7Jko17`) is nu **volledig
-> uitgelezen** via het interne Google Maps `entitylist/getlist`-JSON-endpoint —
-> alle **27 opgeslagen plekken** staan hieronder per categorie.
+> geverifieerd). De **gedeelde lijst** (`FBopsmM14LR7Jko17`) is volledig
+> uitgelezen via het interne Google Maps `entitylist/getlist`-JSON-endpoint.
+>
+> **Update (7 juli 2026):** een **tweede gescrapete lijst** (`WO6gEf1D_qUxn08Mn_X0CRj3Bqfjig`,
+> "Nice" van Victor Vos, **41 plekken**) is uitgelezen via hetzelfde endpoint. Die
+> lijst is een **superset**: hij bevat alle 27 eerder gedocumenteerde plekken **plus
+> 14 nieuwe** (vooral zeevruchten/oesters). De 14 nieuwe staan hieronder toegevoegd —
+> nieuw totaal: **41 unieke plekken**.
 
 ---
 
@@ -66,6 +71,41 @@ Onze **vrijdag-optie** (24 juli): ~€32–52 p.p. all-in **zonder huurauto** �
 - **l'Antidote** — restaurant + cocktailbar, seizoensgebonden lokale keuken. *Centrum (nabij de haven/west-centrum).*
   [Maps](https://www.google.com/maps/search/?api=1&query=l%27Antidote%20Restaurant%20Nice%20France)
 
+*Nieuw uit de tweede lijst:*
+- **Le Frog** — klassiek Frans restaurant, degelijke bistrokeuken. *~€20–60 p.p.*
+  [Maps](https://www.google.com/maps/search/?api=1&query=Le%20Frog%20Nice%20France)
+- **Restaurant Le Saëtone** — hoog gewaardeerd Frans restaurant. *~€20–30 p.p.*
+  [Maps](https://www.google.com/maps/search/?api=1&query=Restaurant%20Le%20Sa%C3%ABtone%20Nice%20France)
+- **Chez Palmyre** — piepklein, populair traditioneel Frans adresje (vast dagmenu, reserveren!). *Vieux Nice. ~€20–30 p.p.*
+  [Maps](https://www.google.com/maps/search/?api=1&query=Chez%20Palmyre%20Nice%20France)
+- **Z Restaurant Tapas** — druk tapasrestaurant om te delen. *~€20–60 p.p.*
+  [Maps](https://www.google.com/maps/search/?api=1&query=Z%20Restaurant%20Tapas%20Nice%20France)
+
+---
+
+## 🦪 Zeevruchten, oesters & vis
+
+*Nieuw uit de tweede gescrapete lijst — een duidelijke zeevruchten-/oesterlijn.*
+
+- **George's Roll Seafood** — betaalbare zeevruchtenbroodjes/rolls (lobster-roll-stijl). *Snack, ~€10–20 p.p.*
+  [Maps](https://www.google.com/maps/search/?api=1&query=George%27s%20Roll%20Seafood%20Nice%20France)
+- **Fish market in Nice** — vismarkt/viswinkel, verse vis & schaaldieren om mee te nemen. *Grocery/versmarkt.*
+  [Maps](https://www.google.com/maps/search/?api=1&query=Fish%20market%20Nice%20France)
+- **L'Eau de vie** — restaurant gespecialiseerd in oesters & zeevruchten. *~€30–50 p.p.*
+  [Maps](https://www.google.com/maps/search/?api=1&query=L%27Eau%20de%20vie%20Nice%20France)
+- **Coquillages Bouchet Nice** — schaal- en schelpdieren (plateaux de fruits de mer). *~€20–70 p.p.*
+  [Maps](https://www.google.com/maps/search/?api=1&query=Coquillages%20Bouchet%20Nice%20France)
+- **Torlasco e Torlasco il vino** — oyster bar met bijpassende wijnen. *~€20–50 p.p.*
+  [Maps](https://www.google.com/maps/search/?api=1&query=Torlasco%20e%20Torlasco%20il%20vino%20Nice%20France)
+- **Bocca Mar** — mediterraan zeevruchtenrestaurant aan zee, aan de prijzigere kant. *~€30–90 p.p.*
+  [Maps](https://www.google.com/maps/search/?api=1&query=Bocca%20Mar%20Nice%20France)
+- **Peixes** — populair, levendig zeevruchten-/visrestaurant (ceviche & kleine gerechten). *~€20–40 p.p.*
+  [Maps](https://www.google.com/maps/search/?api=1&query=Peixes%20Nice%20France)
+- **Mer** — klein, hoog gewaardeerd oesterrestaurant. *~€20–30 p.p.*
+  [Maps](https://www.google.com/maps/search/?api=1&query=Mer%20restaurant%20Nice%20France)
+- **La Vague** — zeevruchtenrestaurant. *~€30–50 p.p.*
+  [Maps](https://www.google.com/maps/search/?api=1&query=La%20Vague%20Nice%20France)
+
 ---
 
 ## 🍸 Bars
@@ -104,10 +144,49 @@ Onze **vrijdag-optie** (24 juli): ~€32–52 p.p. all-in **zonder huurauto** �
   [Maps](https://www.google.com/maps/search/?api=1&query=Ponchettes%20Public%20Beach%20Nice%20France)
 - **Cours Saleya** — beroemd markt-/pleinplein in Vieux Nice (bloemen- & versmarkt, terrasjes). *Vieux Nice.*
   [Maps](https://www.google.com/maps/search/?api=1&query=Cours%20Saleya%20Nice%20France)
+- **Villa La Costière** *(nieuw — adres-pin uit de tweede lijst)* — self-catering villa op 306 Chemin de la Costière (heuvels, ~4 km van het centrum). Geen restaurant; waarschijnlijk het **verblijf/de accommodatie** van de groep. *06000 Nice.*
+  [Maps](https://www.google.com/maps/search/?api=1&query=306%20Chemin%20de%20la%20Costi%C3%A8re%2006000%20Nice%20France)
 
 ---
 
-## ✅ Volledig opgehaald (27/27)
+## 🆕 Tweede gescrapete lijst (7 juli 2026)
+
+De **tweede** gedeelde Google Maps-lijst (`WO6gEf1D_qUxn08Mn_X0CRj3Bqfjig`, "Nice" van
+Victor Vos, **41 plekken**) is uitgelezen via hetzelfde interne
+`entitylist/getlist`-JSON-endpoint (met een echte User-Agent). Deze lijst **overlapt
+volledig** met de eerste: alle 27 eerdere plekken zitten erin, plus **14 nieuwe**.
+
+**14 nieuwe plekken die zijn toegevoegd:**
+
+*Zeevruchten, oesters & vis (9):*
+1. George's Roll Seafood
+2. Fish market in Nice
+3. L'Eau de vie
+4. Coquillages Bouchet Nice
+5. Torlasco e Torlasco il vino
+6. Bocca Mar
+7. Peixes
+8. Mer
+9. La Vague
+
+*Eten – Frans/tapas (4):*
+10. Le Frog
+11. Restaurant Le Saëtone
+12. Chez Palmyre
+13. Z Restaurant Tapas
+
+*Overig (1):*
+14. Villa La Costière (adres-pin, 306 Chemin de la Costière — vermoedelijk het verblijf)
+
+> De overige 27 punten in deze tweede lijst zijn identiek aan de al gedocumenteerde
+> plekken (soms met iets andere schrijfwijze, bijv. "Cremat Castle" = Château de Crémat,
+> "Cr Saleya" = Cours Saleya). Nieuw totaal aan **unieke** plekken: **41**.
+>
+> - **Tweede lijst:** [google.com/maps/…2s`WO6gEf1D_qUxn08Mn_X0CRj3Bqfjig`](https://www.google.com/maps/@43.7120426,7.2014308,13549m/data=!3m1!1e3!4m6!1m2!10m1!1e1!11m2!2sWO6gEf1D_qUxn08Mn_X0CRj3Bqfjig!3e3?hl=en)
+
+---
+
+## ✅ Eerste lijst volledig opgehaald (27/27)
 
 De **gedeelde Google Maps-lijst** is nu **volledig uitgelezen**. De HTML van de gedeelde
 pagina bevatte een `preload`-link naar het interne data-endpoint
