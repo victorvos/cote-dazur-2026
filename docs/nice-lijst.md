@@ -14,7 +14,9 @@ Per plek: naam, korte omschrijving, buurt/ligging en een Maps-zoeklink.
 
 Twee wijnhuizen van de **AOC Bellet** ("urban vineyard"), buiten het centrum in de
 heuvels boven de Var-vallei, ~15 min lopen uit elkaar aan de Chemin de Crémat.
-Onze **vrijdag-optie** (24 juli): ~€60 p.p. all-in, vergt **2 huurauto's** + nuchtere bestuurders.
+Onze **vrijdag-optie** (24 juli): ~€32–52 p.p. all-in **zonder huurauto** — via de
+**Bellet-wijnshuttle** (Navette Vignobles de Bellet, dagpas €7) of taxi/Uber
+(~€15–22/rit). Volledig plan staat in [activiteiten.md](activiteiten.md).
 
 ### Collet de Bovis (Domaine du Fogolar)
 - **Wat:** klein, warm familiewijnhuis (~4,5 ha), sinds 1974. Proeverij in huiselijke sfeer, gerund door oud-hoogleraar Jean Spizzo. Rustiek en laagdrempelig.

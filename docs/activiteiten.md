@@ -83,40 +83,103 @@ Te zien:
 
 
 
-## 🍷 Wijntour / dorpsdag — optioneel (vrijdag 24 juli)
+## 🍷 Wijndag Bellet (vrijdag 24 juli) — plan
 
-Alleen als er genoeg animo is (Victor: hoeft van mij niet per se). We hoeven
-**geen 2 huurauto's** te regelen — er zijn twee prima opties zonder auto.
+Alleen als er genoeg animo is (Victor: hoeft van mij niet per se). Goed nieuws:
+we hoeven **geen 2 huurauto's** te regelen. De AOC **Bellet** ligt in de heuvels
+ván Nice zelf en is prima te doen met de **wijnshuttle** of taxi.
 
-### 🚌 Optie A (aanrader voor wijn) — Bellet-wijnshuttle, GEEN auto nodig
+### (a) Hoe kom je er — vervoer
 
-Grote vondst: de stad rijdt een gratis-instap **wijnshuttle** door de Bellet-heuvels,
-precies langs onze twee huizen. **Geen huurauto's, geen aangewezen bestuurder** —
-je stapt gewoon in en uit.
+**✅ Optie 1 (aanrader): Navette Vignobles de Bellet — de wijnshuttle**
 
-- **Navette Vignobles de Bellet** — rijdt in juli/aug op **vrijdag én zaterdag**
-(dus **vrijdag 24 juli werkt** ✅), t/m 26 sept 2026.
-- **Route:** vertrek bij tramhalte **Magnan** (tram lijn 2), lus van ~80 min langs
-o.a. Château de Bellet, **Collet de Bovis** (halte "Tennis de Crémat") en
-**Château de Crémat** (eigen halte). Eén bus per ~1u20, tussen **10:00 en 18:00**.
-- **Kosten shuttle:** gewoon een bus/tram-kaartje **€1,70**; slimmer is de
-**dagpas €7 p.p.** (je stapt meerdere keren in/uit).
-- **Proeverijen (ter plekke, reserveren aanrader):**
-  - Château de Bellet — 4 wijnen €10, of tour+proeverij (EN) ~€20
-  - Collet de Bovis — proeverij 4–5 wijnen ~€15 (reserveren verplicht)
-  - Château de Crémat — 3 wijnen €20 / 6 wijnen €25, +€10 kasteelrondleiding
-- **Reken op ~€15–30 p.p.** aan proeverijen + €7 dagpas = **~€25–40 p.p. all-in**
-(fors goedkoper én makkelijker dan 2 huurauto's).
-- Onze huizen: **Collet Bovis** — [maps](https://maps.app.goo.gl/DuL9KqchEk5iP3J86) ·
-**Château Crémat** — [maps](https://maps.app.goo.gl/XUu9mibbemurwS4e9) (Chem. de Crémat).
+*Geverifieerd voor 2026.* Officiële naam **Navette Vignobles de Bellet**, gereden
+door **Régie Lignes d'Azur** (i.s.m. Métropole Nice Côte d'Azur + Office de Tourisme).
 
-> Let op: de shuttle rijdt maar ~~elk 1u20, dus plan 1–2 huizen i.p.v. alle drie.
-> Bel de domeinen vooraf voor een proeverij-slot (Collet de Bovis: reservering
-> verplicht). Wil je meer flexibiliteit → taxi/Uber vanuit centrum (~~20 min) kan ook.
+- **Rijdt:** juni t/m 26 sept 2026. In **juli/augustus op vrijdag én zaterdag**
+  (juni/sept alleen zaterdag) → **vrijdag 24 juli werkt** ✅.
+- **Opstappen:** bij tramhalte **Magnan** (tram **lijn 2**). De shuttle rijdt een
+  lus (~80 min) langs de partnerdomeinen en terug.
+- **Vertrektijden vanaf Magnan (officieel):** **10:00 · 11:20 · 12:40 · 14:00 ·
+  15:20 · 16:40** — dus één bus per ~1u20, dienst tot ±18:00.
+- **Onze haltes:** **Collet de Bovis** = halte **"Tennis de Crémat"** (~18 min na
+  Magnan); **Château de Crémat** = eigen halte **"Château de Crémat"** (~3 min later).
+- **Prijs (geverifieerd):** dit is gewoon het normale Lignes d'Azur-tarief —
+  **losse rit €1,70**, maar omdat je bij elke instap opnieuw moet valideren, is de
+  **dagpas €7 p.p.** het slimst (onbeperkt tram + shuttle die dag). *De eerder
+  genoemde "€7" klopt dus, maar het is de netwerk-dagpas, geen shuttle-specifiek
+  kaartje.* Kaart/ticket via Lignes d'Azur-app of automaat (plastic kaart €2 borg).
 
+> ⚠️ **Belangrijk:** de shuttle komt maar ~elke 1u20 langs, dus plan **max. 2
+> domeinen** en let op de terugrit (laatste vertrek Magnan 16:40; zorg dat je rond
+> ~17:00 weer opstapt in de heuvels).
 
+**🚕 Optie 2 (flexibel): taxi / Uber**
 
-### 🚆 Optie B (dorp + eten i.p.v. wijn) — treinuitje langs de kust
+- **~20 min** vanuit centrum Nice; **~€15–22 enkele reis** (reëel bereik uit
+  reisverslagen; Uber pakt centrum→Collet Bovis vaak ~€22). *Let op: Uber werkt
+  bóven in de heuvels slecht → boek de terugrit vooraf, of vraag het domein een
+  taxi te bellen.* Officiële taximeter 2026: €2,60/km overdag, min. €8.
+- Handig als je precies wilt vertrekken/terug, of buiten de shuttle-tijden.
+
+**🚌 Optie 3 (goedkoop maar omslachtig): lijnbus** — de gewone lijnbus dekt onze
+twee domeinen slecht. **Bus 64** (vanaf Vauban) gaat alleen naar **Château de
+Bellet** (halte "Saquier"), niet naar Collet de Bovis/Crémat. Voor Crémat zou het
+tram 3 + bus 52 zijn (~1u15). Dus: voor **onze** twee huizen → shuttle of taxi.
+
+### (b) De 2 gekozen wijnhuizen (dichtbij elkaar op Chemin de Crémat)
+
+Deze twee zijn de beste combinatie: ~15 min lopen uit elkaar, en heel
+verschillend van sfeer (huiselijk & goedkoop vs. chic kasteel). **Reserveren
+vooraf bij beide.**
+
+**1. Collet de Bovis (Domaine du Fogolar)** — huiselijk, laagdrempelig
+
+- **Proeverij:** rondleiding + **4–5 wijnen, €15 p.p.** (geverifieerd) — **op
+  afspraak verplicht**.
+- **Reserveren:** **+33 4 93 37 82 52**.
+- **Adres/halte:** 370 Chemin de Crémat, 06200 Nice · shuttle-halte "Tennis de Crémat".
+- [📍 Maps](https://www.google.com/maps/search/?api=1&query=Collet+Bovis+370+Chemin+de+Cr%C3%A9mat+06200+Nice)
+
+**2. Château de Crémat** — chic wijnkasteel, kunstgalerie
+
+- **Proeverij (geverifieerd):** alléén proeven **€10 p.p.**; "Vignoble"-tour +
+  3 wijnen **€20** (6 wijnen €25); "Vignoble & Château"-tour **€30** (6 wijnen €35).
+  Rondleidingen ma–za op vaste tijden (**~11:30 en 14:00**), online te boeken.
+- **Reserveren:** **+33 4 92 15 12 15** (tour reserveren aangeraden).
+- **Adres/halte:** 442 Chemin de Crémat, 06200 Nice · eigen shuttle-halte.
+- [📍 Maps](https://www.google.com/maps/search/?api=1&query=Ch%C3%A2teau+de+Cr%C3%A9mat+442+Chemin+de+Cr%C3%A9mat+06200+Nice)
+
+> **Ook de moeite waard (optioneel 3e):** **Château de Bellet** (bio, prachtige
+> kapel-proeflokaal; tour + 3 wijnen ~€30, halte "Château Bellet") en **Clos
+> Saint-Vincent** (tour + 5 wijnen ~€15, halte "La Raïola"). Maar met de shuttle-
+> frequentie is **2 domeinen** realistisch — hou het bij Collet de Bovis + Crémat.
+
+### (c) Voorbeeld-dagindeling + kosten p.p.
+
+| Tijd | Wat |
+| --- | --- |
+| ~09:30 | Tram lijn 2 naar **Magnan** |
+| **10:00** | Shuttle vanaf Magnan (dagpas €7 valideren) |
+| ~10:20 | Uitstappen halte **Tennis de Crémat** → **Collet de Bovis** (proeverij €15, gereserveerd) |
+| ~12:00 | **15 min lopen** naar Château de Crémat (mooie landweg) — of picknick onderweg |
+| ~12:30 | Lunch: **picknick** bij de wijngaarden (weinig restaurants boven; neem iets mee) |
+| ~14:00 | **Château de Crémat** — tour + proeverij (€10 proeven / €30 tour) |
+| ~16:00 | Shuttle terug richting Magnan (laatste lus ±17:00 in de heuvels) |
+| ~17:00 | Terug bij Magnan → tram naar centrum |
+
+**Kostenraming p.p. (geverifieerde bedragen):**
+
+- Dagpas Lignes d'Azur: **€7** · Collet de Bovis: **€15** · Château de Crémat:
+  **€10** (proeven) tot **€30** (tour) → **~€32–52 p.p.** excl. lunch.
+- Met **taxi** i.p.v. shuttle: reken ~€15–22/rit → ruw **+€5–10 p.p.** (bij delen
+  over ~3–4 pers/taxi), voor extra flexibiliteit.
+
+> Fors goedkoper én makkelijker dan 2 huurauto's. **Huurauto's zijn niet meer nodig.**
+
+---
+
+### 🚆 Alternatief: dorp + eten i.p.v. wijn — treinuitje langs de kust
 
 Voor wie meer wil "mooi dorp + goed eten" dan specifiek wijn: pak gewoon de trein
 vanaf **Nice-Ville**. TER/ZOU rijdt ~elke 15 min, kaartje geldt de hele dag.
@@ -142,17 +205,18 @@ Geverifieerde tijden/prijzen (enkele reis):
 
 De **Bellet-appellatie** (waar Collet de Bovis + Château Crémat liggen) zit in de
 **heuvels ván Nice zelf**, niet aan de treinlijn. Voor de wijn dus **geen trein** →
-gebruik de **Bellet-shuttle (Optie A)** of taxi/Uber. Voor een treindag draait het
-om **dorp + eten** (Optie B), niet om wijnproeven.
+gebruik de **Bellet-wijnshuttle** of taxi/Uber (zie het wijndag-plan hierboven).
+Voor een treindag draait het om **dorp + eten**, niet om wijnproeven.
 
 ### Concreet advies
 
-- **Wil je wijn proeven** → **Optie A: Bellet-shuttle op vrijdag** (geen auto, ~€25–40 p.p.).
-- **Wil je gewoon een mooi dorp + goed eten** → **Optie B: trein naar
-Villefranche-sur-Mer** (5 min, €2,10) of **Menton** (~35 min, ~€7).
+- **Wil je wijn proeven** → **wijndag Bellet op vrijdag 24 juli** (shuttle, geen
+  auto, ~€32–52 p.p. — zie plan hierboven).
+- **Wil je gewoon een mooi dorp + goed eten** → **trein naar
+  Villefranche-sur-Mer** (5 min, €2,10) of **Menton** (~35 min, ~€7).
 - Alternatief blijft een georganiseerde tour, bv. [wijntour in Defender (TripAdvisor)](https://www.tripadvisor.nl/AttractionProductReview-g187234-d33092771-Nice_Wine_tasting_in_the_hinterland_in_Defender-Nice_French_Riviera_Cote_d_Azur_Pr.html).
 
-**Beslissing nodig (bij animo):** Bellet-shuttle (wijn) óf treindorp (eten)? Zo ja,
+**Beslissing nodig (bij animo):** wijndag Bellet (wijn) óf treindorp (eten)? Zo ja,
 even proeverij-slots bellen. **Huurauto's zijn niet meer nodig.**
 
 ---
