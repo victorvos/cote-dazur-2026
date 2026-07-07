@@ -21,6 +21,51 @@ in de Baie de Cannes. Onze avond:
 
 
 
+## 🍽️ Eten in Cannes (woensdagavond, vóór het vuurwerk)
+
+Rond **20:00 eten** in het centrum, daarna te voet naar de **Croisette** voor het
+**vuurwerk om 22:00** (alles hieronder ligt op loopafstand). Het is festivalavond →
+**reserveren met 7 personen sterk aangeraden** (bel of boek een dag of paar dagen
+vooruit).
+
+### ⭐ Aanrader: **Bobo Bistro**
+
+- **Keuken:** mediterraan / bistro, seizoensgericht (huisgemaakte pasta, vlees,
+  salades, pizza) — verse, lokale producten
+- **Prijs:** €€ — hoofdgerechten **~€20–39 p.p.** (goede prijs-kwaliteit)
+- **Rating:** **~4,4** op Google (1.300+ reviews)
+- **Buurt:** 21 Rue du Commandant André, Carré d'Or — **±20 m van de Croisette**,
+  50 m van Rue d'Antibes (dus vuurwerk letterlijk om de hoek)
+- **Groep:** expliciet "goed voor groepen"; terras + binnen. Wo-avond open (~19:00–22:00)
+- **Waarom:** gezellig, levendig, centraal, betaalbaar en groepsvriendelijk — precies
+  wat we zoeken voor de aankomstavond. **Reserveren voor 7 aangeraden.**
+- [📍 Google Maps](https://www.google.com/maps/search/?api=1&query=Bobo%20Bistro%20Cannes%20France)
+
+### 🔁 Backup 1: **Aux Bons Enfants**
+
+- Provençaals familie-instituut, **Michelin Bib Gourmand** (2024 & 2025) — top prijs-kwaliteit
+- Prijs **€€ (~€30–40 p.p.)**, rating **~4,3** Google
+- 80 Rue Meynadier (Le Suquet, overdekte marktstraat) — loopafstand Croisette
+- ⚠️ **Klein zaakje + vaak alleen cash** en in juli **alleen 's avonds** (di–za) →
+  voor 7 personen echt **vooraf reserveren**
+- [📍 Google Maps](https://www.google.com/maps/search/?api=1&query=Aux%20Bons%20Enfants%20Cannes%20France)
+
+### 🔁 Backup 2: **L'Affable**
+
+- Klassieke Franse bistro, Michelin-vermeld; beroemd om de Grand-Marnier-soufflé
+- Prijs **€€** — lunchmenu ~€34, **dinermenu ~€55 p.p.** (net iets duurder, maar
+  geldt als beste prijs-kwaliteit van Cannes); rating **~4,4–4,6** Google
+- 5 Rue Lafontaine, centrum (zee < 300 m) — loopafstand Croisette; **ruimte voor
+  groepen** (zaal ~80 plaatsen), di–za
+- [📍 Google Maps](https://www.google.com/maps/search/?api=1&query=L%27Affable%20Cannes%20France)
+
+> Tip: bel/boek overdag even; op festivalavond zit alles snel vol. Na het eten
+> gewoon richting Bd de la Croisette lopen voor het vuurwerk om 22:00.
+
+---
+
+
+
 ## ⛴️ Monaco — zaterdag 25 juli
 
 Per **ferry** heen (mooiste optie, zie [vervoer](vervoer.md)). Extreem toeristisch,
