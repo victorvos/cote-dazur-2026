@@ -59,7 +59,7 @@ Volledige uitwerking: **[docs/itinerary.md](docs/itinerary.md)**
 
 - [x] **Cannes woensdagnacht** — ✅ geboekt: Spacious Apartment (~€79 p.p.)
 - [ ] **Ferry Nice → Monaco** reserveren voor **za 25 jul** (7× €49,50 — nu doen)
-- [ ] **Vrijdag:** wijntour ja/nee — Bellet-shuttle vanaf Magnan (geen auto's) óf treindorp
+- [ ] **Vrijdag:** wijndag Bellet (bij animo) — shuttle Magnan + proeverijen reserveren
 - [ ] Treintijden Cannes → Nice op donderdag prikken (TER, ~elke 20 min)
 
 Zie de volledige **[checklist](docs/checklist.md)**.

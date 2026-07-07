@@ -17,10 +17,10 @@ Zo veel mogelijk vóór vertrek regelen; de rest lekker met de dag.
   trans-cote-azur.com of bel +33 (0)6 01 52 54 08. Snel: loopt in de zomer vol.
   ```
 - [x] Vluchten ✅ geboekt (AMS→NCE 22/7 16:45, NCE→AMS 26/7 09:40).
-- [ ] **Wijntour/dorpsdag ja/nee** beslissen (vrijdag) — **geen huurauto's nodig**:
+- [ ] **Vrijdag wijndag Bellet** (bij animo) — shuttle vanaf Magnan + proeverijen
   ```
-  Bellet-wijnshuttle (vr, vanaf Magnan) óf trein naar Villefranche/Menton.
-  Bij wijn: proeverij-slots bellen. Zie [activiteiten.md](activiteiten.md).
+  Collet de Bovis (+33 4 93 37 82 52) + Château de Crémat (+33 4 92 15 12 15).
+  Dagpas €7 p.p. Zie [activiteiten.md](activiteiten.md).
   ```
 
 
