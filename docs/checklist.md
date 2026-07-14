@@ -7,33 +7,38 @@ Zo veel mogelijk vóór vertrek regelen; de rest lekker met de dag.
 ## 🔴 Nu / deze week (essentieel)
 
 - [x] **Appartement Cannes** (woensdagnacht 22 juli) — ✅ **geboekt: Spacious
-  ```
   Apartment in Central Cannes** (~€549,67 = ~€79 p.p., 4 bedden + sofa, airco,
   centraal). [Booking](https://www.booking.com/Share-sAliYr3). Zie [accommodatie.md](accommodatie.md).
-  ```
-- [ ] **Ferry Nice → Monaco** reserveren voor **zaterdag 25 juli** — **JA, doen**:
-  ```
+- [ ] **Ferry Nice → Monaco** reserveren voor **zaterdag 25 juli** — **nu doen**:
   7 plekken (09:30 heen / 17:00 terug, €49,50 p.p. → ~€346,50 totaal). Online op
-  trans-cote-azur.com of bel +33 (0)6 01 52 54 08. Snel: loopt in de zomer vol.
-  ```
+  [trans-cote-azur.com](https://www.trans-cote-azur.com) of bel +33 (0)6 01 52 54 08.
+  Snel: loopt in de zomer vol.
 - [x] Vluchten ✅ geboekt (AMS→NCE 22/7 16:45, NCE→AMS 26/7 09:40).
-- [ ] **Vrijdag wijndag Bellet** (bij animo) — shuttle vanaf Magnan + proeverijen
-  ```
-  Collet de Bovis (+33 4 93 37 82 52) + Château de Crémat (+33 4 92 15 12 15).
-  Dagpas €7 p.p. Zie [activiteiten.md](activiteiten.md).
-  ```
 
-
+---
 
 ## 🟡 Voor vertrek
 
+- [ ] **Restaurant Cannes woensdagavond 22 juli** reserveren (vóór vuurwerk 22:00).
+  Festivalavond = druk. Opties o.a. Bobo Bistro, Aux Bons Enfants, L'Affable — zie
+  [activiteiten.md](activiteiten.md). *(Niet zondag: zondag is vroege vlucht.)*
 - [ ] Treintijd Cannes → Nice donderdag prikken (TER, rijdt ~elk half uur).
 - [ ] Vervoer NCE-luchthaven → Cannes woensdag uitzoeken (trein/bus, 7 pers. + bagage).
-- [ ] Restaurant Cannes woensdagavond reserveren (festivalavond = druk).
 - [ ] Boodschappenlijst BBQ + supermarkt bij appartement Nice checken.
-- [ ] Bij wijntour: dagpas (€7 p.p.) + proeverij-slots bellen (geen autohuur meer nodig).
 
+---
 
+## 🟠 Ter plekke beslissen (vrijdag)
+
+- [ ] **Vrijdag 24 juli:** wijnshuttle Bellet **óf** dorpje/strand (trein).
+  Bespreken op de dag / avond ervoor — geen reservering nodig tot die keuze vastligt.
+  - **Wijn** → Bellet-shuttle vanaf Magnan (dagpas €7) + proeverijen Collet de Bovis
+    (+33 4 93 37 82 52) en Château de Crémat (+33 4 92 15 12 15). Zie
+    [activiteiten.md](activiteiten.md).
+  - **Dorpje/strand** → trein langs de kust (bv. Villefranche-sur-Mer), geen
+    shuttle nodig.
+
+---
 
 ## 🟢 Handig
 
@@ -43,8 +48,6 @@ Zo veel mogelijk vóór vertrek regelen; de rest lekker met de dag.
 - [ ] Zonnebrand, zwemspullen, powerbank ☀️
 
 ---
-
-
 
 ## Bevestigd ✅
 
