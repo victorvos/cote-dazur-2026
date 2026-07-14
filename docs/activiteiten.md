@@ -80,6 +80,9 @@ Festivalavond → **reserveren voor 7 personen** is essentieel.
   grillades) — echte Cannes-keuken, geen mediterraans/bistro
 - **~4,1** Google (2300+ reviews); menu **~€38–42** p.p., à la carte **~€35–50**
 - **Groep 7:** ✅ terras (80) + zaal boven (100) — festival-proof
+- **Vuurwerk:** ❌ **niet van terras/balkon** — terras kijkt op place + Vieux-Port;
+  vuurwerk is in de baie richting Croisette (~560 m ESE). Na eten **naar Croisette lopen**
+  (~5–8 min)
 - **±8 min** lopen naar Croisette/vuurwerk (zelfde straat als Le P'tit Local)
 - **Iets chiquer** dan Bobo (1930s-brasserie), maar niet overdreven — wel **reserveren**
 - **Reserveren:** +33 4 93 39 06 33 · [lecaveau30.fr](https://www.lecaveau30.fr/)
