@@ -20,9 +20,25 @@ Zo veel mogelijk vóór vertrek regelen; de rest lekker met de dag.
 
 ## 🟡 Voor vertrek
 
-- [ ] **Restaurant Cannes wo 22 jul** reserveren (~20:00, 7 pers.) — **Maurice belt**
-  **Le Caveau 30** (+33 4 93 39 06 33), **balkon boven** (niet terras). Zie
-  [activiteiten.md](activiteiten.md).
+### Woensdagavond Cannes (wo 22 jul) — **Maurice**
+
+- [ ] **Le Caveau 30 reserveren** — wo **22 jul**, **7 pers.**, **~20:00**
+  - **Tel.:** +33 4 93 39 06 33 · [lecaveau30.fr](https://www.lecaveau30.fr/) ·
+    [📍 Maps](https://www.google.com/maps/search/?api=1&query=Le+Caveau+30,+45+Rue+Félix+Faure,+06400+Cannes,+France)
+  - **Wens:** **balkon boven** (premier étage / Salon Rose, vue mer) — **niet** terras beneden
+  - **Fallback:** boven vol → **Bobo Bistro** (+33 4 93 99 97 33); niet akkoord met terras
+  - **Zeg (Frans):** *« sept personnes, mercredi 22 juillet, 20h, à l'étage avec balcon /
+    vue mer — pas en terrasse en bas. Départ 21h45 pour les feux d'artifice. »*
+  - Volledige avond + backups: [activiteiten.md](activiteiten.md) (sectie *Woensdagavond Cannes*)
+
+**Avondflow woensdag:**
+```
+20:00  Le Caveau 30 (balkon boven)
+21:45  Lopen naar Croisette (~8 min)
+22:00  Vuurwerk Baie de Cannes (gratis)
+22:30  Drankjes — Le P'tit Local / Barrel / Morrison's
+```
+
 - [ ] Treintijd Cannes → Nice donderdag prikken (TER, rijdt ~elk half uur).
 - [ ] Vervoer NCE-luchthaven → Cannes woensdag uitzoeken (trein/bus, 7 pers. + bagage).
 - [ ] Boodschappenlijst BBQ + supermarkt bij appartement Nice checken.
