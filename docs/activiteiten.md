@@ -417,8 +417,8 @@ een **matelas** (met parasol) zodat de stenen geen punt zijn. Prijzen 2026
 Geen vaste tour boeken — we hebben genoeg adressen in de **[Nice-lijst](nice-lijst.md)**
 (41 plekken) om zelf een **food hop** te doen: markt → streetfood → oesters → bar.
 
-**Wanneer?** Democratisch, overdag — past op **do 23** (middag na inchecken), **vr 24**
-(i.p.v. wijntour/strand), of **za 25** ochtend (vóór Monaco-ferry).
+**Wanneer?** Democratisch, overdag — **do 23** (middag na inchecken) of **vr 24**
+(i.p.v. wijntour/strand). **Za 25 = Monaco-dag** (ferry 09:30) → geen food tour.
 
 | | |
 |---|---|
