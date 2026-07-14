@@ -73,6 +73,17 @@ Festivalavond → **reserveren voor 7 personen** is essentieel.
 - Te **chique/formeel**; dinermenu €55 + wijn → met 7 flessen **~€85–91 p.p.** (boven
   ~€80-budget)
 
+**Le Caveau 30** — sterke tip (Victor): Frans + vis, instituut sinds 1966  
+[📍 Le Caveau 30](https://www.google.com/maps/search/?api=1&query=Le+Caveau+30,+45+Rue+Félix+Faure,+06400+Cannes,+France)
+
+- **Franse brasserie**, specialiteit **vis & fruits de mer** (bouillabaisse, plateaus,
+  grillades) — echte Cannes-keuken, geen mediterraans/bistro
+- **~4,1** Google (2300+ reviews); menu **~€38–42** p.p., à la carte **~€35–50**
+- **Groep 7:** ✅ terras (80) + zaal boven (100) — festival-proof
+- **±8 min** lopen naar Croisette/vuurwerk (zelfde straat als Le P'tit Local)
+- **Iets chiquer** dan Bobo (1930s-brasserie), maar niet overdreven — wel **reserveren**
+- **Reserveren:** +33 4 93 39 06 33 · [lecaveau30.fr](https://www.lecaveau30.fr/)
+
 **Niet meer:** La Mère Besson (provençaals instituut sinds 1935) lijkt **definitief
 gesloten** (winter 2025/26).
 
@@ -86,14 +97,16 @@ gesloten** (winter 2025/26).
 | **Wanneer** | wo **22 juli**, **7 personen**, **~20:00** |
 | **Open** | elke dag, diner **19:00–23:00** |
 
-> **Willen we liever echt Frans?** → [Chez Vincent et Nicolas](https://www.google.com/maps/search/?api=1&query=Chez+Vincent+et+Nicolas,+92+Rue+Meynadier,+06400+Cannes,+France)
-> of [Aux Bons Enfants](https://www.google.com/maps/search/?api=1&query=Aux+Bons+Enfants,+80+Rue+Meynadier,+06400+Cannes,+France)
-> (zelfde avond, zelfde reserveringsdruk). Dan Maurice **die** bellen i.p.v. Bobo.
+> **Willen we liever echt Frans?** → [Le Caveau 30](https://www.google.com/maps/search/?api=1&query=Le+Caveau+30,+45+Rue+Félix+Faure,+06400+Cannes,+France)
+> (vis/seafood, +33 4 93 39 06 33) · [Chez Vincent et Nicolas](https://www.google.com/maps/search/?api=1&query=Chez+Vincent+et+Nicolas,+92+Rue+Meynadier,+06400+Cannes,+France)
+> · [Aux Bons Enfants](https://www.google.com/maps/search/?api=1&query=Aux+Bons+Enfants,+80+Rue+Meynadier,+06400+Cannes,+France)
+> — zelfde avond, zelfde reserveringsdruk. Dan Maurice **die** bellen i.p.v. Bobo.
 
 ### 🔁 Backups (als Bobo vol zit)
 
 | Restaurant | Maps | Reserveren |
 |---|---|---|
+| **Le Caveau 30** | [📍 45 Rue Félix Faure](https://www.google.com/maps/search/?api=1&query=Le+Caveau+30,+45+Rue+Félix+Faure,+06400+Cannes,+France) | [lecaveau30.fr](https://www.lecaveau30.fr/) · +33 4 93 39 06 33 · vis/fruits de mer |
 | **Chez Vincent et Nicolas** | [📍 Chez Vincent et Nicolas](https://www.google.com/maps/search/?api=1&query=Chez+Vincent+et+Nicolas,+92+Rue+Meynadier,+06400+Cannes,+France) | [chezvincentetnicolas.fr](https://chezvincentetnicolas.fr/) · +33 4 93 68 35 39 · wo 19:00–23:00 |
 | **Aux Bons Enfants** | [📍 Aux Bons Enfants](https://www.google.com/maps/search/?api=1&query=Aux+Bons+Enfants,+80+Rue+Meynadier,+06400+Cannes,+France) | [Reserveren](https://aux-bons-enfants-cannes.com/reservations/?lang=en) · +33 7 68 99 17 89 · **cash only** |
 | **L'Affable** | [📍 L'Affable](https://www.google.com/maps/search/?api=1&query=L%27Affable,+5+Rue+la+Fontaine,+06400+Cannes,+France) | +33 4 93 68 02 09 · chiquer/duurder, wel ruimte voor 7 |
