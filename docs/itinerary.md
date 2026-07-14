@@ -33,7 +33,7 @@ op tijd een plekje pakken voor het vuurwerk.
 | ochtend | Uitchecken Cannes, ontbijt / koffie |
 | late ochtend | **Trein Cannes → Nice** (TER, ~30–40 min, ~€10 p.p., rijdt heel vaak) |
 | middag | Inchecken **appartement Nice** — 306 Chemin de la Costière, 06000 Nice |
-| middag | **Strand** & rondlopen, boodschappen voor thuis |
+| middag | **Strand** & rondlopen, boodschappen voor thuis — *evt. **food tour** Vieux Nice* |
 | avond | Eten in de stad of eerste **BBQ thuis** |
 
 Appartement in Nice t/m zondag → vanaf nu kunnen we lekker met de dag leven.
@@ -45,6 +45,9 @@ Appartement in Nice t/m zondag → vanaf nu kunnen we lekker met de dag leven.
 Democratisch invullen. Opties:
 
 - **Strand bakken**, terrassen, bier ☀️ (default / no-plan optie)
+- **Food tour Nice** (optioneel overdag): zelf **hoppen** langs adressen uit de
+  [Nice-lijst](nice-lijst.md) — markt, streetfood, oesters (~3–4 uur). Zie
+  [activiteiten](activiteiten.md#-food-tour-nice-optioneel-overdag).
 - **Wijntour Bellet** (optioneel): **Collet de Bovis** + **Château de Crémat**
   naast elkaar (~15 min lopen). Via **Bellet-wijnshuttle** vanaf tram Magnan (dagpas
   €7) of taxi — **geen huurauto's**. ~€32–52 p.p. all-in. **Of** dorpje/strand per

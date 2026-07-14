@@ -48,11 +48,13 @@ Zo veel mogelijk vóór vertrek regelen; de rest lekker met de dag.
 
 ## 🟠 Ter plekke beslissen (vrijdag)
 
-- [ ] **Vrijdag 24 juli:** wijnshuttle Bellet **óf** dorpje/strand (trein).
-  Bespreken op de dag / avond ervoor — geen reservering nodig tot die keuze vastligt.
+- [ ] **Vrijdag 24 juli:** wijnshuttle Bellet **óf** dorpje/strand **óf** **food tour Nice**
+  (zelf, uit [nice-lijst](nice-lijst.md)). Bespreken op de dag / avond ervoor.
   - **Wijn** → Bellet-shuttle vanaf Magnan (dagpas €7) + proeverijen Collet de Bovis
     (+33 4 93 37 82 52) en Château de Crémat (+33 4 92 15 12 15). Zie
     [activiteiten.md](activiteiten.md).
+  - **Food tour** → zelf gidsen, routes A–D in [activiteiten.md](activiteiten.md)
+    (Vieux Nice / streetfood / oesters / tapas).
   - **Dorpje/strand** → trein langs de kust (bv. Villefranche-sur-Mer), geen
     shuttle nodig.
 

@@ -7,6 +7,9 @@ Per plek: naam, korte omschrijving, buurt/ligging en een Maps-zoeklink.
 > geverifieerd). De **gedeelde lijst** (`FBopsmM14LR7Jko17`) is volledig
 > uitgelezen via het interne Google Maps `entitylist/getlist`-JSON-endpoint.
 >
+> **Food tour:** deze lijst is de basis voor een **zelfgeorganiseerde food hop** in Nice
+> (~3–4 uur overdag). Routes A–D staan in [activiteiten.md](activiteiten.md).
+>
 > **Update (7 juli 2026):** een **tweede gescrapete lijst** (`WO6gEf1D_qUxn08Mn_X0CRj3Bqfjig`,
 > "Nice" van Victor Vos, **41 plekken**) is uitgelezen via hetzelfde endpoint. Die
 > lijst is een **superset**: hij bevat alle 27 eerder gedocumenteerde plekken **plus

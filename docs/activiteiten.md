@@ -412,11 +412,56 @@ een **matelas** (met parasol) zodat de stenen geen punt zijn. Prijzen 2026
 
 ---
 
+## 🥐 Food tour Nice (optioneel overdag)
 
+Geen vaste tour boeken — we hebben genoeg adressen in de **[Nice-lijst](nice-lijst.md)**
+(41 plekken) om zelf een **food hop** te doen: markt → streetfood → oesters → bar.
+
+**Wanneer?** Democratisch, overdag — past op **do 23** (middag na inchecken), **vr 24**
+(i.p.v. wijntour/strand), of **za 25** ochtend (vóór Monaco-ferry).
+
+| | |
+|---|---|
+| **Vorm** | Zelf gidsen, **niet** met z'n 7 verplicht — wie wil mee, mee |
+| **Duur** | ~3–4 uur lopen + happen |
+| **Budget** | ~€15–40 p.p. (afhankelijk van hoeveel stops) |
+| **Lijst** | Alle adressen: [nice-lijst.md](nice-lijst.md) |
+
+### Suggestie-routes (pick & mix)
+
+**A — Vieux Nice & markt** *(meest “Nice”)*  
+[Cours Saleya](https://www.google.com/maps/search/?api=1&query=Cours+Saleya+Nice) (markt/snacks)
+→ [The Original Focà](https://www.google.com/maps/search/?api=1&query=The+Original+Foc%C3%A0+Nice)
+→ [Chez Palmyre](https://www.google.com/maps/search/?api=1&query=Chez+Palmyre+Nice) *(reserveren!)*
+→ [George's Roll Seafood](https://www.google.com/maps/search/?api=1&query=George%27s+Roll+Seafood+Nice)
+→ [Peixes](https://www.google.com/maps/search/?api=1&query=Peixes+Nice) *(ceviche/klein)*
+
+**B — Streetfood TNL** *(goedkoop, casual)*  
+Tram naar **Libération / TNL** → [Lunicco](https://www.google.com/maps/search/?api=1&query=Lunicco+Nice)
+→ [Les Filous](https://www.google.com/maps/search/?api=1&query=Les+Filous+Street+Food+Grecque+Nice)
+→ [NÂGA TNL](https://www.google.com/maps/search/?api=1&query=N%C3%82GA+Street-food+Nice+TNL)
+→ [Thai Fine Street Food](https://www.google.com/maps/search/?api=1&query=Thai+Fine+Street+Food+Nice)
+
+**C — Oesters & wijn** *(specialer)*  
+[Torlasco e Torlasco il vino](https://www.google.com/maps/search/?api=1&query=Torlasco+e+Torlasco+il+vino+Nice)
+→ [Mer](https://www.google.com/maps/search/?api=1&query=Mer+restaurant+Nice)
+→ [Coquillages Bouchet](https://www.google.com/maps/search/?api=1&query=Coquillages+Bouchet+Nice)
+→ [Côté Vin](https://www.google.com/maps/search/?api=1&query=C%C3%B4t%C3%A9+Vin+Nice) *(fles mee)*
+
+**D — Tapas & bar** *('s middags laat / vroege avond)*  
+[Z Restaurant Tapas](https://www.google.com/maps/search/?api=1&query=Z+Restaurant+Tapas+Nice)
+→ [The One](https://www.google.com/maps/search/?api=1&query=The+One+Coffee+Shop+Bar+Tapas+Lounge+Nice)
+→ [Wayne's Bar](https://www.google.com/maps/search/?api=1&query=Wayne%27s+Bar+Nice) *(live muziek)*
+
+> **Tip:** Cours Saleya = 's ochtends het levendigst (markt). Chez Palmyre = tiny,
+> reserveer of kom vroeg. Wie niet mee wil → strand (zie hieronder).
+
+---
 
 ## 🏖️ Overig / no-plan
 
 - Strand bakken, terrassen, bier ☀️ (de kern-vibe van deze trip)
+- **Food tour Nice** — zelf happen via [nice-lijst](nice-lijst.md) (zie hierboven)
 - **BBQ thuis** in het appartement in Nice
 - Lekker eten in de stad (Nice heeft goede restaurants + Vieux Nice)
 - Extra treinuitje overdag mogelijk (bv. Èze, Antibes, Villefranche-sur-Mer)
