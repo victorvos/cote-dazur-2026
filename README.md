@@ -60,7 +60,7 @@ Volledige uitwerking: **[docs/itinerary.md](docs/itinerary.md)**
 - [x] **Ferry Nice → Monaco** — ✅ gereserveerd (7× za 25 jul); **vrijdag beslissen**,
   betalen pas **45 min vóór vertrek** (≈ 08:45 za)
 - [ ] **Restaurant Cannes** (wo 22 jul ~20:00) — Maurice belt **Le Caveau 30**
-  (boven/balcon); backup Bobo — zie [activiteiten](docs/activiteiten.md)
+  (**balkon boven**); backup Bobo — zie [activiteiten](docs/activiteiten.md)
 - [ ] Treintijden Cannes → Nice op donderdag prikken (TER, ~elke 20 min)
 - [ ] **Vrijdag:** ter plekke kiezen — wijnshuttle Bellet **óf** dorpje/strand
 

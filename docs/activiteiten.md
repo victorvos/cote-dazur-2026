@@ -82,9 +82,8 @@ Festivalavond → **reserveren voor 7 personen** is essentieel.
   2300+ reviews = eerlijk volume)
 - **~4,1** Google (2300+ reviews); menu **~€38–42** p.p., à la carte **~€35–50**
 - **Groep 7:** ✅ terras (80) + zaal boven (100) — festival-proof
-- **Reserveren:** **boven / balcon met vue mer** (premier étage, Salon Rose) —
-  terras kijkt op place + port; boven = betere sfeer + zeezicht (vuurwerk zelf
-  zie je daar **niet** — wel na eten ~5–8 min naar Croisette lopen)
+- **Reserveren:** **balkon boven** (premier étage, Salon Rose, vue mer) — **niet**
+  terras beneden (plein/port); boven = betere sfeer + zeezicht
 - **Vuurwerk:** ❌ **niet van terras/balkon** — vuurwerk is in de baie richting
   Croisette (~560 m). Na eten **naar Croisette lopen** (~5–8 min), vertrek **~21:45**
 - **±8 min** lopen naar Croisette/vuurwerk (zelfde straat als Le P'tit Local)
@@ -102,13 +101,15 @@ gesloten** (winter 2025/26).
 | **Maps** | [📍 Le Caveau 30](https://www.google.com/maps/search/?api=1&query=Le+Caveau+30,+45+Rue+Félix+Faure,+06400+Cannes,+France) |
 | **Reserveren** | **Maurice:** +33 4 93 39 06 33 · [lecaveau30.fr](https://www.lecaveau30.fr/) |
 | **Wanneer** | wo **22 juli**, **7 personen**, **~20:00** |
-| **Wens** | **Boven / balcon avec vue mer** (premier étage, Salon Rose indien mogelijk) |
+| **Wens** | **Balkon boven** (premier étage / Salon Rose, vue mer) — **niet** terras beneden |
+| **Fallback** | Alleen terras als boven vol is; anders andere restaurant proberen |
 | **Open** | elke dag, diner |
 
 **Zeg bij reserveren (Frans):**
 > Bonjour, je voudrais réserver pour **sept personnes**, **mercredi 22 juillet**,
-> vers **20h**. Si possible, **à l'étage avec balcon / vue mer** (Salon Rose).
-> Nous partons vers **21h45** pour les feux d'artifice sur la Croisette. Merci!
+> vers **20h**. Nous préférons **à l'étage avec balcon / vue mer** (Salon Rose) —
+> **pas en terrasse en bas**. Nous partons vers **21h45** pour les feux d'artifice
+> sur la Croisette. Merci!
 
 **Waarom Le Caveau (niet Bobo):** echte Cannes-brasserie (vis & fruits de mer sinds
 1966), locals/congressistes, geen hype — en goedkoper (~€38–50 p.p.). Trade-off:
@@ -191,7 +192,7 @@ voor 7 ([lerdvdescopains.com](https://www.lerdvdescopains.com/)) — **reservere
 
 **Avondflow woensdag:**
 ```
-20:00  Le Caveau 30 (eten, boven/balcon vue mer)
+20:00  Le Caveau 30 (balkon boven, vue mer)
 21:45  Lopen naar Croisette
 22:00  Vuurwerk Baie de Cannes
 22:30  Le P'tit Local (zelfde straat) / Barrel / Morrison's

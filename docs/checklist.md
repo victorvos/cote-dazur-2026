@@ -21,7 +21,7 @@ Zo veel mogelijk vóór vertrek regelen; de rest lekker met de dag.
 ## 🟡 Voor vertrek
 
 - [ ] **Restaurant Cannes wo 22 jul** reserveren (~20:00, 7 pers.) — **Maurice belt**
-  **Le Caveau 30** (+33 4 93 39 06 33), **boven/balcon vue mer**. Keuze vergelijken incl. Maps-links:
+  **Le Caveau 30** (+33 4 93 39 06 33), **balkon boven** (niet terras). Zie
   [activiteiten.md](activiteiten.md).
 - [ ] Treintijd Cannes → Nice donderdag prikken (TER, rijdt ~elk half uur).
 - [ ] Vervoer NCE-luchthaven → Cannes woensdag uitzoeken (trein/bus, 7 pers. + bagage).
