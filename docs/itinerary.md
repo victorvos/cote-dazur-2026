@@ -45,10 +45,10 @@ Appartement in Nice t/m zondag → vanaf nu kunnen we lekker met de dag leven.
 Democratisch invullen. Opties:
 
 - **Strand bakken**, terrassen, bier ☀️ (default / no-plan optie)
-- **Wijntour Bellet** (optioneel, einde ochtend): **Collet de Bovis** + **Château de Crémat**
+- **Wijntour Bellet** (optioneel): **Collet de Bovis** + **Château de Crémat**
   naast elkaar (~15 min lopen). Via **Bellet-wijnshuttle** vanaf tram Magnan (dagpas
-  €7) of taxi — **geen huurauto's**. ~€32–52 p.p. all-in. Alleen bij animo — zie
-  [activiteiten](activiteiten.md) voor tijden, reserveringen en dagplan.
+  €7) of taxi — **geen huurauto's**. ~€32–52 p.p. all-in. **Of** dorpje/strand per
+  trein — keuze ter plekke; zie [checklist](checklist.md) en [activiteiten](activiteiten.md).
 - Wie niet mee wil op tour → strand & terras.
 - **BBQ thuis** + 's avonds **lekker eten in de stad**.
 

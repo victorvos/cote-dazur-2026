@@ -216,8 +216,7 @@ Voor een treindag draait het om **dorp + eten**, niet om wijnproeven.
   Villefranche-sur-Mer** (5 min, €2,10) of **Menton** (~35 min, ~€7).
 - Alternatief blijft een georganiseerde tour, bv. [wijntour in Defender (TripAdvisor)](https://www.tripadvisor.nl/AttractionProductReview-g187234-d33092771-Nice_Wine_tasting_in_the_hinterland_in_Defender-Nice_French_Riviera_Cote_d_Azur_Pr.html).
 
-**Beslissing nodig (bij animo):** wijndag Bellet (wijn) óf treindorp (eten)? Zo ja,
-even proeverij-slots bellen. **Huurauto's zijn niet meer nodig.**
+**Beslissing ter plekke:** vrijdag kiezen — wijndag Bellet (wijnshuttle) **óf** dorpje/strand (trein). Pas shuttles/proeverijen regelen als wijn vastligt. Zie [checklist](checklist.md). **Huurauto's zijn niet nodig.**
 
 ---
 
