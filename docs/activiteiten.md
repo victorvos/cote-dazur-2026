@@ -106,45 +106,69 @@ gesloten** (winter 2025/26).
 
 ## 🍺 Drankjes na vuurwerk (woensdag ~22:30+)
 
-Geen reservering nodig — festivalavond kan wel druk zijn. Niet fancy, wel sfeer
-voor 7 man. Vanaf Croisette/Bobo zijn dit de beste opties.
+Niet fancy, wel sfeer voor 7 man. Vanaf Croisette/Bobo — kies **pub** (dichtbij) of
+**Franse bar à vin** (Suquet, ~10 min lopen).
 
 *Adressen & Maps geverifieerd juli 2026 (officiële sites + Cannes Tourisme).*
 
+### Pub / international (dichtst bij vuurwerk)
+
 | | **Barrel Pub** ⭐ | **Morrisons Irish Pub** | **Le P'tit Local** |
 |---|---|---|---|
-| **Sfeer** | American pub, dart/biljart, soms DJ | Echte pub, rock/live, terras | Locals-bar, cocktails + biertjes, terras |
+| **Stijl** | American pub | Irish pub, rock/live | Cocktails + biertjes |
+| **Frans?** | ❌ | ❌ | half |
 | **Chique?** | Nee | Nee | Nee |
-| **Afstand vuurwerk** | **~2 min** (Carré d'Or) | ~5–8 min lopen | ~8 min (Suquet/mairie) |
+| **Afstand vuurwerk** | **~2 min** | ~5–8 min | ~8 min |
 | **Open (wo)** | 18:00–05:00 | 12:00–02:00 (live wo) | 13:30–02:30 |
 | **Adres** | 17 Rue du Docteur Gérard Monod | 10 Rue Teisseire | 9 Rue Félix Faure |
 | **Tel.** | +33 6 61 76 16 08 | +33 4 92 98 16 17 | +33 6 46 74 48 65 |
-| **Maps** | [📍 Barrel Pub](https://www.google.com/maps/search/?api=1&query=Barrel+Pub,+17+Rue+du+Docteur+Gérard+Monod,+06400+Cannes,+France) | [📍 Morrison's Irish Pub](https://www.google.com/maps/search/?api=1&query=Morrisons+Irish+Pub,+10+Rue+Teisseire,+06400+Cannes,+France) | [📍 Le P'tit Local](https://www.google.com/maps/search/?api=1&query=Le+P%27tit+Local,+9+Rue+Félix+Faure,+06400+Cannes,+France) |
+| **Maps** | [📍 Barrel Pub](https://www.google.com/maps/search/?api=1&query=Barrel+Pub,+17+Rue+du+Docteur+Gérard+Monod,+06400+Cannes,+France) | [📍 Morrison's](https://www.google.com/maps/search/?api=1&query=Morrisons+Irish+Pub,+10+Rue+Teisseire,+06400+Cannes,+France) | [📍 Le P'tit Local](https://www.google.com/maps/search/?api=1&query=Le+P%27tit+Local,+9+Rue+Félix+Faure,+06400+Cannes,+France) |
 
-**Aanrader na vuurwerk:** **Barrel Pub** — pal naast Croisette, zero gedoe, open laat
-([barrelbarcannes.fr](https://barrelbarcannes.fr/)).
-**Meer pub-gevoel:** **Morrison's** — groepsvriendelijk, biertjes; **live muziek ook
-op woensdag** (di–do + zo; bands do–za tot ~02:00) ([Cannes Tourisme](https://en.cannes-france.com/offers/morrisons-pub-cannes-en-3605724/)).
+**Pub-keuze:** **Barrel** = pal naast Croisette ([barrelbarcannes.fr](https://barrelbarcannes.fr/)).
+**Morrison's** = groeps-pub, live muziek ook wo ([Cannes Tourisme](https://en.cannes-france.com/offers/morrisons-pub-cannes-en-3605724/)).
 
-### 🔁 Backup bars
+### 🇫🇷 Franse bars (wijn + sfeer, groep 7)
+
+| | **Le Rendez-vous des Copains** ⭐ | **Charly's Wine** | **Le Bar à Vin** |
+|---|---|---|---|
+| **Stijl** | Bar à vin, planches delen | Wijn/champagne + tapas, feestelijk | Klassieke wijnbar, kaas/charcuterie |
+| **Frans?** | ✅ | ✅ | ✅ |
+| **Chique?** | Nee | Nee | Nee |
+| **Groep 7** | ✅✅ (tot 60 pers.) | ✅ (reserveren handig) | ✅ |
+| **Afstand vuurwerk** | ~12 min (Suquet) | ~12 min (Suquet) | ~8 min |
+| **Open (wo)** | 11:30–23:30 | 17:00–02:30 | 17:00–00:30 |
+| **Adres** | 28 Rue du Suquet | 3 & 10 Rue du Suquet | 10 Rue Marceau |
+| **Tel.** | +33 6 60 57 89 99 | +33 6 98 92 40 41 | — |
+| **Maps** | [📍 Le rdv des Copains](https://www.google.com/maps/search/?api=1&query=Le+Rendez-vous+des+Copains,+28+Rue+du+Suquet,+06400+Cannes,+France) | [📍 Charly's Wine](https://www.google.com/maps/search/?api=1&query=Charly%27s+Wine+Bar,+3+Rue+du+Suquet,+06400+Cannes,+France) | [📍 Le Bar à Vin](https://www.google.com/maps/search/?api=1&query=Le+Bar+%C3%A0+Vin,+10+Rue+Marceau,+06400+Cannes,+France) |
+
+**Franse keuze:** **Le Rendez-vous des Copains** — cosy, wijn + shared plates, perfect
+voor 7 ([lerdvdescopains.com](https://www.lerdvdescopains.com/)) — **reserveren aan te raden**.
+**Charly's Wine** — feestelijker, open laat; naast **Charly's Bar** (cocktails).
+**Le Bar à Vin** — relaxed after-work vibe, sluit 00:30.
+
+> **Charly's:** twee zaken in dezelfde steeg — **Charly's Wine** (wijn/champagne) en
+> **Charly's Bar** (cocktails), 3 & 10 Rue du Suquet.
+
+### 🔁 Overige backup bars
 
 | Bar | Adres | Open (wo) | Maps |
 |---|---|---|---|
 | **Lucky You Saloon** | 8 Quai Saint-Pierre | 19:00–02:30 (di–zo) | [📍 Lucky You Saloon](https://www.google.com/maps/search/?api=1&query=Lucky+You+Saloon,+8+Quai+Saint-Pierre,+06400+Cannes,+France) |
 | **P'tit Bar** | 13 Rue des Frères Pradignac | 17:00–05:00 | [📍 P'tit Bar](https://www.google.com/maps/search/?api=1&query=P%27tit+Bar,+13+Rue+des+Frères+Pradignac,+06400+Cannes,+France) |
 
-> **Let op — twee verschillende "P'tit"-zaken:** **Le P'tit Local** = 9 Rue Félix Faure
-> (Suquet/mairie). **P'tit Bar** = 13 Rue des Frères Pradignac (carré d'or) — niet
-> door elkaar halen.
+> **Let op — twee verschillende "P'tit"-zaken:** **Le P'tit Local** = 9 Rue Félix Faure.
+> **P'tit Bar** = 13 Rue des Frères Pradignac — niet door elkaar halen.
 
 **Avondflow woensdag:**
 ```
 20:00  Bobo Bistro (eten)
 22:00  Vuurwerk Croisette
-22:30  Barrel Pub of Morrison's (drankjes)
+22:30  Barrel / Morrison's (pub, dichtbij)
+   of  Charly's Wine / Le Rendez-vous des Copains (Frans, Suquet)
 ```
 
-> Geen reservering nodig voor bars. Vol = even doorlopen naar volgende optie.
+> Pubs: geen reservering nodig. **Franse bars:** voor 7 op festivalavond → **Le rdv
+> des Copains reserveren** (+33 6 60 57 89 99). Vol = volgende optie proberen.
 
 ---
 

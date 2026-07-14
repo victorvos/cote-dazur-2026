@@ -18,7 +18,7 @@ pakken meteen de grote **vuurwerkshow** mee.
 | 20:00 | **Eten Cannes** — voorkeur **Bobo Bistro** (Maurice reserveert); vuurwerk ~22:00 op Croisette |
 | 21:30 | Plek zoeken langs de **Croisette** / Baie de Cannes |
 | **22:00** | 🎆 **Vuurwerkshow** — China Galaxy Pyrotechnics (~30 min, gratis) |
-| 22:30+ | **Drankjes** — Barrel Pub of Morrison's (zie [activiteiten](activiteiten.md)) |
+| 22:30+ | **Drankjes** — pub (Barrel/Morrison's) of Franse bar (Charly's / Le rdv des Copains) — zie [activiteiten](activiteiten.md) |
 | nacht | Slapen in Cannes |
 
 **Let op:** het is festivalavond → centrum en Croisette zijn druk. Vroeg eten en
