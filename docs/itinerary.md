@@ -74,6 +74,10 @@ De ferry (Trans Côte d'Azur) rijdt op **dinsdag/donderdag/zaterdag** → zaterd
 **7 plekken gereserveerd** — nog niet betaald. **Vrijdag beslissen** of we gaan;
 betalen kan tot **45 min vóór vertrek** (≈ 08:45). Zie [vervoer](vervoer.md).
 
+> **Plan B — geen Monaco:** 09:30 te vroeg of liever **culinair**? → **food tour Nice**
+> overdag i.p.v. ferry (beslissing **vrijdag**; ferry niet betalen). Zie
+> [activiteiten](activiteiten.md#-food-tour-nice-optioneel-overdag) · [nice-lijst](nice-lijst.md).
+
 > **Flexibeler dan de ferry?** De ferry ligt vast op **09:30 heen / 17:00 terug**
 > (en is retour-only). Wil je **later weg of eerder terug**, pak dan de **trein**
 > Nice-Ville ↔ Monaco (~20 min, ~€5–6, elke ~15–20 min tot 's avonds laat) — dan

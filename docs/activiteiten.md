@@ -149,10 +149,14 @@ voor 7 ([lerdvdescopains.com](https://www.lerdvdescopains.com/)) — **reservere
 
 
 
-## ⛴️ Monaco — zaterdag 25 juli
+## ⛴️ Monaco — zaterdag 25 juli *(standaard)*
 
 Per **ferry** heen (mooiste optie, zie [vervoer](vervoer.md)). Extreem toeristisch,
 maar leuk om een keer doorheen gelopen te hebben.
+
+> **Plan B — geen Monaco:** 09:30 te vroeg of liever culinair? → **food tour Nice**
+> overdag i.p.v. ferry (beslissing **vrijdag**; ferry niet betalen). Routes in
+> [food tour-sectie](#-food-tour-nice-optioneel-overdag) · [nice-lijst](nice-lijst.md).
 
 Te zien:
 
@@ -417,8 +421,12 @@ een **matelas** (met parasol) zodat de stenen geen punt zijn. Prijzen 2026
 Geen vaste tour boeken — we hebben genoeg adressen in de **[Nice-lijst](nice-lijst.md)**
 (41 plekken) om zelf een **food hop** te doen: markt → streetfood → oesters → bar.
 
-**Wanneer?** Democratisch, overdag — **do 23** (middag na inchecken) of **vr 24**
-(i.p.v. wijntour/strand). **Za 25 = Monaco-dag** (ferry 09:30) → geen food tour.
+**Wanneer?** Democratisch, overdag:
+- **Do 23** — middag na inchecken Nice
+- **Vr 24** — i.p.v. wijntour/strand
+- **Za 25** — **standaard Monaco-dag** (ferry 09:30). **Plan B:** als **09:30 te vroeg**
+  is of de groep liever **culinair** door Nice wil → **food tour i.p.v. Monaco**
+  (ferry niet betalen / afzien — beslissing **vrijdag**). Zie [itinerary](itinerary.md).
 
 | | |
 |---|---|

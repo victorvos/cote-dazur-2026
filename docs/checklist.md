@@ -12,8 +12,8 @@ Zo veel mogelijk vóór vertrek regelen; de rest lekker met de dag.
 - [x] **Ferry Nice → Monaco** — ✅ **gereserveerd** (7 plekken, za 25 jul, 09:30 heen /
   17:00 terug, ~€346,50 totaal).
 - [ ] **Ferry betalen / definitief gaan** — nog **niet betaald**. Betalen kan tot
-  **45 min vóór vertrek** (≈ **08:45 za 25 jul**). **Vrijdag beslissen** of we
-  gaan; tot die tijd kunnen we nog afzien. Zie [vervoer.md](vervoer.md).
+  **45 min vóór vertrek** (≈ **08:45 za 25 jul**). **Vrijdag beslissen:** Monaco **óf**
+  **food tour Nice** (za) als 09:30 te vroeg / liever culinair. Zie [vervoer.md](vervoer.md).
 - [x] Vluchten ✅ geboekt (AMS→NCE 22/7 16:45, NCE→AMS 26/7 09:40).
 
 ---
