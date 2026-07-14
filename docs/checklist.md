@@ -9,10 +9,10 @@ Zo veel mogelijk vóór vertrek regelen; de rest lekker met de dag.
 - [x] **Appartement Cannes** (woensdagnacht 22 juli) — ✅ **geboekt: Spacious
   Apartment in Central Cannes** (~€549,67 = ~€79 p.p., 4 bedden + sofa, airco,
   centraal). [Booking](https://www.booking.com/Share-sAliYr3). Zie [accommodatie.md](accommodatie.md).
-- [ ] **Ferry Nice → Monaco** reserveren voor **zaterdag 25 juli** — **nu doen**:
-  7 plekken (09:30 heen / 17:00 terug, €49,50 p.p. → ~€346,50 totaal). Online op
-  [trans-cote-azur.com](https://www.trans-cote-azur.com) of bel +33 (0)6 01 52 54 08.
-  Snel: loopt in de zomer vol.
+- [x] **Ferry Nice → Monaco** — ✅ **gereserveerd** voor **zaterdag 25 juli**:
+  7× volwassene, croisière met stop (09:30 heen / 17:00 terug, €49,50 p.p. →
+  €346,50 totaal). Trans Côte d'Azur — instappen Port de Nice, Quai Lunel
+  (±20 min van tevoren).
 - [x] Vluchten ✅ geboekt (AMS→NCE 22/7 16:45, NCE→AMS 26/7 09:40).
 
 ---
@@ -53,6 +53,7 @@ Zo veel mogelijk vóór vertrek regelen; de rest lekker met de dag.
 
 - [x] Vuurwerkshow Cannes: woensdag 22 juli, 22:00, gratis, Baie de Cannes.
 - [x] Appartement Nice do–zo geregeld (306 Chemin de la Costière).
+- [x] Ferry Monaco gereserveerd: za 25 juli, 7× €49,50, 09:30/17:00 (Trans Côte d'Azur).
 - [x] Ferry rijdt op zaterdag (di/do/za) → 25 juli werkt.
 - [x] Trein Cannes–Nice: frequent, ~30–40 min, ~€10.
 - [x] Bellet-wijnshuttle rijdt vrijdag+zaterdag in juli → wijntour kan zónder huurauto.

@@ -25,7 +25,7 @@ Victor · Maurice (Mo) · Coen · Theo · Floris · Pim · Leander
 | Woe | 22 jul | **Cannes** | Aankomst NCE → Cannes · **Vuurwerkshow 22:00** · eten & drankjes |
 | Don | 23 jul | **Nice** | Trein Cannes → Nice · inchecken appartement · strand & stad |
 | Vrij | 24 jul | Nice | Vrije dag: strand / evt. wijntour / BBQ thuis · eten in de stad |
-| Zat | 25 jul | Nice | **Ferry naar Monaco** (dag) · 's avonds terug in Nice |
+| Zat | 25 jul | Nice | **Ferry Monaco** ✅ geboekt · 's avonds terug in Nice |
 | Zon | 26 jul | → thuis | Vlucht NCE → AMS 09:40 |
 
 Volledige uitwerking: **[docs/itinerary.md](docs/itinerary.md)**
@@ -57,7 +57,7 @@ Volledige uitwerking: **[docs/itinerary.md](docs/itinerary.md)**
 ## Nog te regelen (kort)
 
 - [x] **Cannes woensdagnacht** — ✅ geboekt: Spacious Apartment (~€79 p.p.)
-- [ ] **Ferry Nice → Monaco** reserveren voor **za 25 jul** (7× €49,50 — nu doen)
+- [x] **Ferry Nice → Monaco** — ✅ gereserveerd za 25 jul (7× €49,50, 09:30/17:00)
 - [ ] **Restaurant Cannes** woensdagavond 22 jul (vóór vuurwerk; festivalavond = druk)
 - [ ] Treintijden Cannes → Nice op donderdag prikken (TER, ~elke 20 min)
 - [ ] **Vrijdag:** ter plekke kiezen — wijnshuttle Bellet **óf** dorpje/strand
