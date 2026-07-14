@@ -7,19 +7,19 @@ Indicatieve kosten per persoon (7 personen). Prijzen juli 2026, ruwe schatting.
 ## Kostenoverzicht (p.p.)
 
 
-| Post                          | Indicatie p.p. | Opmerking                                        |
-| ----------------------------- | -------------- | ------------------------------------------------ |
+| Post                          | Indicatie p.p. | Opmerking                                          |
+| ----------------------------- | -------------- | -------------------------------------------------- |
 | Vlucht AMS ↔ NCE (retour)     | ~€243          | ✅ geboekt — direct, KLM/easyJet                  |
-| Appartement Cannes (1 nacht)  | ~€79           | ✅ geboekt — Spacious Apartment (~€549,67 totaal) |
-| Appartement Nice (3 nachten)  | n.t.b.         | via Mo geregeld — bedrag invullen                |
-| Trein Cannes → Nice           | ~€10           | TER                                              |
-| Ferry Nice ↔ Monaco (retour)  | €49,50         | Trans Côte d'Azur, met stop                      |
+| Appartement Cannes (1 nacht)  | ~€79           | ✅ geboekt — Spacious Apartment (~€549,67 totaal)   |
+| Appartement Nice (3 nachten)  | n.t.b.         | via Mo geregeld — bedrag invullen                  |
+| Trein Cannes → Nice           | ~€10           | TER                                                |
+| Ferry Nice ↔ Monaco (retour)  | €49,50         | ✅ gereserveerd — betalen vrijdag/za ochtend        |
 | Wijntour Bellet (optioneel)   | ~€32–52        | dagpas €7 + 2 proeverijen, shuttle — geen autohuur |
-| Eten / drinken / boodschappen | variabel       | terrassen, BBQ, restaurants                      |
+| Eten / drinken / boodschappen | variabel       | terrassen, BBQ, restaurants                        |
 
 
-> Vluchten en Cannes-appartement zijn geboekt; vul de resterende definitieve
-> bedragen in zodra ook de ferry en het Nice-appartement rond zijn.
+> Vluchten en Cannes-appartement zijn geboekt; ferry is gereserveerd (betaling
+> volgt vrijdag/za). Vul de resterende definitieve bedragen in zodra Nice-appartement rond is.
 
 ---
 
@@ -40,7 +40,7 @@ Indicatieve kosten per persoon (7 personen). Prijzen juli 2026, ruwe schatting.
 | Leiding / logistiek deze reis | **Victor & Mo**    | lopend      |
 | Appartement Nice (do–zo)      | Mo                 | ✅ geregeld  |
 | Appartement Cannes (woe)      | Mo / Victor        | ✅ geboekt   |
-| Ferry Monaco reserveren (za)  | Victor / Mo        | ⬜ te boeken (nu) |
+| Ferry Monaco (za)             | Victor / Mo        | ✅ gereserveerd — vrijdag beslissen, betalen ≈08:45 za |
 | Restaurant Cannes (woe avond) | Victor / Mo        | ⬜ reserveren |
 | Wijndag Bellet / dorp-strand  | groep              | ⬜ ter plekke kiezen |
 | Treintijden Cannes → Nice     | Victor / Mo        | ⬜ prikken   |

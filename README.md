@@ -57,7 +57,8 @@ Volledige uitwerking: **[docs/itinerary.md](docs/itinerary.md)**
 ## Nog te regelen (kort)
 
 - [x] **Cannes woensdagnacht** — ✅ geboekt: Spacious Apartment (~€79 p.p.)
-- [ ] **Ferry Nice → Monaco** reserveren voor **za 25 jul** (7× €49,50 — nu doen)
+- [x] **Ferry Nice → Monaco** — ✅ gereserveerd (7× za 25 jul); **vrijdag beslissen**,
+  betalen pas **45 min vóór vertrek** (≈ 08:45 za)
 - [ ] **Restaurant Cannes** woensdagavond 22 jul (vóór vuurwerk; festivalavond = druk)
 - [ ] Treintijden Cannes → Nice op donderdag prikken (TER, ~elke 20 min)
 - [ ] **Vrijdag:** ter plekke kiezen — wijnshuttle Bellet **óf** dorpje/strand

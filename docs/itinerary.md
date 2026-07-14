@@ -68,7 +68,8 @@ De ferry (Trans Côte d'Azur) rijdt op **dinsdag/donderdag/zaterdag** → zaterd
 | 18:00 | Terug in **Nice** |
 | avond | **BBQ thuis** óf **uit eten** in Nice (zie hieronder) |
 
-**Reservering verplicht** — op tijd boeken (7 plekken). Zie [vervoer](vervoer.md).
+**7 plekken gereserveerd** — nog niet betaald. **Vrijdag beslissen** of we gaan;
+betalen kan tot **45 min vóór vertrek** (≈ 08:45). Zie [vervoer](vervoer.md).
 
 > **Flexibeler dan de ferry?** De ferry ligt vast op **09:30 heen / 17:00 terug**
 > (en is retour-only). Wil je **later weg of eerder terug**, pak dan de **trein**
