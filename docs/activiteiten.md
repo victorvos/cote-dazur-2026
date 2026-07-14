@@ -30,7 +30,7 @@ Festivalavond → **reserveren voor 7 personen** is essentieel.
 
 ### Keuze vergelijken
 
-| | [**Bobo Bistro**](https://www.google.com/maps/search/?api=1&query=21+Rue+du+Commandant+André+06400+Cannes) ⭐ | [**Chez Vincent et Nicolas**](https://www.google.com/maps/search/?api=1&query=92+Rue+Meynadier+06400+Cannes) | [**Aux Bons Enfants**](https://www.google.com/maps/search/?api=1&query=80+Rue+Meynadier+06400+Cannes) | [**L'Affable**](https://www.google.com/maps/search/?api=1&query=5+Rue+Lafontaine+06400+Cannes) |
+| | [**Bobo Bistro**](https://www.google.com/maps/search/?api=1&query=Bobo+Bistro,+21+Rue+du+Commandant+André,+06400+Cannes,+France) ⭐ | [**Chez Vincent et Nicolas**](https://www.google.com/maps/search/?api=1&query=Chez+Vincent+et+Nicolas,+92+Rue+Meynadier,+06400+Cannes,+France) | [**Aux Bons Enfants**](https://www.google.com/maps/search/?api=1&query=Aux+Bons+Enfants,+80+Rue+Meynadier,+06400+Cannes,+France) | [**L'Affable**](https://www.google.com/maps/search/?api=1&query=L%27Affable,+5+Rue+la+Fontaine,+06400+Cannes,+France) |
 |---|---|---|---|---|
 | **Keuken** | Mediterraan / bistro (pasta, vis, pizza) | **Traditioneel Frans** | **Provençaals** (Bib Gourmand) | Klassiek Frans (Michelin) |
 | **Sfeer** | Gezellig, terras, niet chique | **Hidden gem**, vintage/cosy, locals | Familie-bistro, authentiek | Chique Franse bistro |
@@ -46,7 +46,7 @@ Festivalavond → **reserveren voor 7 personen** is essentieel.
 ### Waarom welke?
 
 **Bobo Bistro** — huidige voorkeur, Maurice belt om te reserveren  
-[📍 21 Rue du Commandant André](https://www.google.com/maps/search/?api=1&query=21+Rue+du+Commandant+André+06400+Cannes)
+[📍 Bobo Bistro](https://www.google.com/maps/search/?api=1&query=Bobo+Bistro,+21+Rue+du+Commandant+André,+06400+Cannes,+France)
 
 - **Dichtst bij vuurwerk** (letterlijk om de hoek van de Croisette) → geen haast na
   het eten op festivalavond
@@ -54,21 +54,21 @@ Festivalavond → **reserveren voor 7 personen** is essentieel.
 - **Minpunt:** geen echt Frans (mediterraans/Italiaans) — wel lekker eten
 
 **Chez Vincent et Nicolas** — Frans + hidden gem + gezellig  
-[📍 92 Rue Meynadier](https://www.google.com/maps/search/?api=1&query=92+Rue+Meynadier+06400+Cannes)
+[📍 Chez Vincent et Nicolas](https://www.google.com/maps/search/?api=1&query=Chez+Vincent+et+Nicolas,+92+Rue+Meynadier,+06400+Cannes,+France)
 
 - Adres dat **locals elkaar doorgeven** (Rue Meynadier, Suquet) — geen Croisette-toerist
 - **Echt Frans:** tartare, souris d'agneau, crème brûlée; vintage sfeer, terras
 - **Minpunten:** ~10–15 min lopen naar vuurwerk; service soms wisselend in reviews
 
 **Aux Bons Enfants** — beste eten per euro, minder "fun"  
-[📍 80 Rue Meynadier](https://www.google.com/maps/search/?api=1&query=80+Rue+Meynadier+06400+Cannes) *(2 deuren verderop t.o.v. Chez Vincent)*
+[📍 Aux Bons Enfants](https://www.google.com/maps/search/?api=1&query=Aux+Bons+Enfants,+80+Rue+Meynadier,+06400+Cannes,+France) *(2 deuren verderop t.o.v. Chez Vincent)*
 
 - **Michelin Bib Gourmand**, menu **€41**, producten van markt Forville
 - **Minpunten:** vaak **alleen cash**, kleiner zaakje, minder levendige sfeer dan Bobo
   of Chez Vincent
 
 **L'Affable** — afgewezen voor deze avond  
-[📍 5 Rue Lafontaine](https://www.google.com/maps/search/?api=1&query=5+Rue+Lafontaine+06400+Cannes)
+[📍 L'Affable](https://www.google.com/maps/search/?api=1&query=L%27Affable,+5+Rue+la+Fontaine,+06400+Cannes,+France)
 
 - Te **chique/formeel**; dinermenu €55 + wijn → met 7 flessen **~€85–91 p.p.** (boven
   ~€80-budget)
@@ -81,22 +81,22 @@ gesloten** (winter 2025/26).
 | | |
 |---|---|
 | **Adres** | 21 Rue du Commandant André, 06400 Cannes |
-| **Maps** | [📍 Bobo Bistro op Google Maps](https://www.google.com/maps/search/?api=1&query=21+Rue+du+Commandant+André+06400+Cannes) |
+| **Maps** | [📍 Bobo Bistro](https://www.google.com/maps/search/?api=1&query=Bobo+Bistro,+21+Rue+du+Commandant+André,+06400+Cannes,+France) |
 | **Reserveren** | **Maurice:** +33 4 93 99 97 33 · [bobobistro.com](https://bobobistro.com/en/) |
 | **Wanneer** | wo **22 juli**, **7 personen**, **~20:00** |
 | **Open** | elke dag, diner **19:00–23:00** |
 
-> **Willen we liever echt Frans?** → [Chez Vincent](https://www.google.com/maps/search/?api=1&query=92+Rue+Meynadier+06400+Cannes)
-> of [Aux Bons Enfants](https://www.google.com/maps/search/?api=1&query=80+Rue+Meynadier+06400+Cannes)
+> **Willen we liever echt Frans?** → [Chez Vincent et Nicolas](https://www.google.com/maps/search/?api=1&query=Chez+Vincent+et+Nicolas,+92+Rue+Meynadier,+06400+Cannes,+France)
+> of [Aux Bons Enfants](https://www.google.com/maps/search/?api=1&query=Aux+Bons+Enfants,+80+Rue+Meynadier,+06400+Cannes,+France)
 > (zelfde avond, zelfde reserveringsdruk). Dan Maurice **die** bellen i.p.v. Bobo.
 
 ### 🔁 Backups (als Bobo vol zit)
 
 | Restaurant | Maps | Reserveren |
 |---|---|---|
-| **Chez Vincent et Nicolas** | [📍 92 Rue Meynadier](https://www.google.com/maps/search/?api=1&query=92+Rue+Meynadier+06400+Cannes) | [chezvincentetnicolas.fr](https://chezvincentetnicolas.fr/) · +33 4 93 68 35 39 · wo 19:00–23:00 |
-| **Aux Bons Enfants** | [📍 80 Rue Meynadier](https://www.google.com/maps/search/?api=1&query=80+Rue+Meynadier+06400+Cannes) | [Reserveren](https://aux-bons-enfants-cannes.com/reservations/?lang=en) · +33 7 68 99 17 89 · **cash only** |
-| **L'Affable** | [📍 5 Rue Lafontaine](https://www.google.com/maps/search/?api=1&query=5+Rue+Lafontaine+06400+Cannes) | +33 4 93 68 02 09 · chiquer/duurder, wel ruimte voor 7 |
+| **Chez Vincent et Nicolas** | [📍 Chez Vincent et Nicolas](https://www.google.com/maps/search/?api=1&query=Chez+Vincent+et+Nicolas,+92+Rue+Meynadier,+06400+Cannes,+France) | [chezvincentetnicolas.fr](https://chezvincentetnicolas.fr/) · +33 4 93 68 35 39 · wo 19:00–23:00 |
+| **Aux Bons Enfants** | [📍 Aux Bons Enfants](https://www.google.com/maps/search/?api=1&query=Aux+Bons+Enfants,+80+Rue+Meynadier,+06400+Cannes,+France) | [Reserveren](https://aux-bons-enfants-cannes.com/reservations/?lang=en) · +33 7 68 99 17 89 · **cash only** |
+| **L'Affable** | [📍 L'Affable](https://www.google.com/maps/search/?api=1&query=L%27Affable,+5+Rue+la+Fontaine,+06400+Cannes,+France) | +33 4 93 68 02 09 · chiquer/duurder, wel ruimte voor 7 |
 
 > Tip: op festivalavond zit alles snel vol — vandaag/morgen reserveren. Na het eten
 > richting [**Bd de la Croisette**](https://www.google.com/maps/search/?api=1&query=Bd+de+la+Croisette+Cannes) lopen
@@ -107,26 +107,35 @@ gesloten** (winter 2025/26).
 ## 🍺 Drankjes na vuurwerk (woensdag ~22:30+)
 
 Geen reservering nodig — festivalavond kan wel druk zijn. Niet fancy, wel sfeer
-voor 7 man. Vanaf Croisette/Bobo zijn dit de beste opties:
+voor 7 man. Vanaf Croisette/Bobo zijn dit de beste opties.
+
+*Adressen & Maps geverifieerd juli 2026 (officiële sites + Cannes Tourisme).*
 
 | | **Barrel Pub** ⭐ | **Morrisons Irish Pub** | **Le P'tit Local** |
 |---|---|---|---|
-| **Sfeer** | American pub, dart/biljart, soms DJ | Echte pub, rock/live (do–za), terras | Locals-bar, cocktails + biertjes, terras |
+| **Sfeer** | American pub, dart/biljart, soms DJ | Echte pub, rock/live, terras | Locals-bar, cocktails + biertjes, terras |
 | **Chique?** | Nee | Nee | Nee |
 | **Afstand vuurwerk** | **~2 min** (Carré d'Or) | ~5–8 min lopen | ~8 min (Suquet/mairie) |
-| **Open (wo)** | 18:00–05:00 | ~12:00–02:00 | 13:30–02:30 |
-| **Maps** | [📍 17 Rue Gérard Monod](https://www.google.com/maps/search/?api=1&query=17+Rue+Gérard+Monod+06400+Cannes) | [📍 10 Rue Teisseire](https://www.google.com/maps/search/?api=1&query=10+Rue+Teisseire+06400+Cannes) | [📍 9 Rue Félix Faure](https://www.google.com/maps/search/?api=1&query=9+Rue+Félix+Faure+06400+Cannes) |
+| **Open (wo)** | 18:00–05:00 | 12:00–02:00 (live wo) | 13:30–02:30 |
+| **Adres** | 17 Rue du Docteur Gérard Monod | 10 Rue Teisseire | 9 Rue Félix Faure |
+| **Tel.** | +33 6 61 76 16 08 | +33 4 92 98 16 17 | +33 6 46 74 48 65 |
+| **Maps** | [📍 Barrel Pub](https://www.google.com/maps/search/?api=1&query=Barrel+Pub,+17+Rue+du+Docteur+Gérard+Monod,+06400+Cannes,+France) | [📍 Morrison's Irish Pub](https://www.google.com/maps/search/?api=1&query=Morrisons+Irish+Pub,+10+Rue+Teisseire,+06400+Cannes,+France) | [📍 Le P'tit Local](https://www.google.com/maps/search/?api=1&query=Le+P%27tit+Local,+9+Rue+Félix+Faure,+06400+Cannes,+France) |
 
-**Aanrader na vuurwerk:** **Barrel Pub** — pal naast Croisette, zero gedoe, open laat.
-**Meer pub-gevoel:** **Morrisons** — groepsvriendelijk, biertjes, wo avond rustiger
-(geen live band; die is do–za).
+**Aanrader na vuurwerk:** **Barrel Pub** — pal naast Croisette, zero gedoe, open laat
+([barrelbarcannes.fr](https://barrelbarcannes.fr/)).
+**Meer pub-gevoel:** **Morrison's** — groepsvriendelijk, biertjes; **live muziek ook
+op woensdag** (di–do + zo; bands do–za tot ~02:00) ([Cannes Tourisme](https://en.cannes-france.com/offers/morrisons-pub-cannes-en-3605724/)).
 
 ### 🔁 Backup bars
 
-| Bar | Waarom | Maps |
-|---|---|---|
-| **Lucky You Saloon** | USA-style aan oude haven, biertjes & cocktails | [📍 8 Quai Saint-Pierre](https://www.google.com/maps/search/?api=1&query=8+Quai+Saint-Pierre+06400+Cannes) |
-| **P'tit Bar** | "Bar de copains", carré d'or, open tot 05:00 | [📍 13 Rue des Frères Pradignac](https://www.google.com/maps/search/?api=1&query=13+Rue+des+Frères+Pradignac+06400+Cannes) |
+| Bar | Adres | Open (wo) | Maps |
+|---|---|---|---|
+| **Lucky You Saloon** | 8 Quai Saint-Pierre | 19:00–02:30 (di–zo) | [📍 Lucky You Saloon](https://www.google.com/maps/search/?api=1&query=Lucky+You+Saloon,+8+Quai+Saint-Pierre,+06400+Cannes,+France) |
+| **P'tit Bar** | 13 Rue des Frères Pradignac | 17:00–05:00 | [📍 P'tit Bar](https://www.google.com/maps/search/?api=1&query=P%27tit+Bar,+13+Rue+des+Frères+Pradignac,+06400+Cannes,+France) |
+
+> **Let op — twee verschillende "P'tit"-zaken:** **Le P'tit Local** = 9 Rue Félix Faure
+> (Suquet/mairie). **P'tit Bar** = 13 Rue des Frères Pradignac (carré d'or) — niet
+> door elkaar halen.
 
 **Avondflow woensdag:**
 ```
