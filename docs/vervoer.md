@@ -47,27 +47,18 @@ reservering nodig voor TER — kaartje vooraf of aan het station kopen.
 - **Aankomst Monaco:** 10:15
 - **Terug — vertrek Monaco:** 17:00 → **aankomst Nice 18:00**
 - **Prijs:** €49,50 p.p. (volwassene), retour met stop in Monaco
-- **Reservering:** **VERPLICHT** (zie hieronder)
+- **Reservering:** ✅ **gereserveerd** (7× adult, za 25 juli)
 
-### ✅ Reserveren — BESLIST: ja, doen (7 plekken, za 25 juli)
-
-Reservering is verplicht én de boten zitten in de zomer snel vol → **z.s.m. boeken**.
+### ✅ Gereserveerd — 7 plekken, za 25 juli
 
 - **Wat:** 7 × volwassene, retour Nice → Monaco met stop, **zaterdag 25 juli 2026**
   (heen 09:30 / terug 17:00)
-- **Totaalprijs:** 7 × €49,50 = **~€346,50**
-- **Hoe boeken (kies één):**
-  1. **Online:** [trans-cote-azur.com — croisières Nice–Monaco](https://www.trans-cote-azur.com/croisieres/croisieres-nice-monaco/)
-  2. **Telefoon:** +33 (0)6 01 52 54 08 of +33 (0)4 92 00 42 30
-  3. **E-mail:** croisieres@trans-cote-azur.com
+- **Totaalprijs:** 7 × €49,50 = **€346,50**
 - **Instappunt:** Port de Nice, **Quai Lunel** — wees op tijd (±20 min van tevoren).
-
-> **Deadline:** geen harde datum, maar zomerse zaterdagen lopen vol → deze week
-> regelen. Eén persoon boekt voor de hele groep en verdeelt de kosten.
 
 > Alternatief (goedkoper, geen stop): 2-uur "Promenade / Sightseeing" cruise om
 > 16:00 voor €39,50 — maar dat is alléén varen langs de kust, **geen tijd in
-> Monaco**. Wij willen de **cruise met stop** (09:30 heen / 17:00 terug).
+> Monaco**. Wij hebben de **cruise met stop** geboekt (09:30 heen / 17:00 terug).
 
 ### 🔄 Later heen / eerder terug? — flexibele alternatieven
 
