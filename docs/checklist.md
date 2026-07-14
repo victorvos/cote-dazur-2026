@@ -22,21 +22,22 @@ Zo veel mogelijk vóór vertrek regelen; de rest lekker met de dag.
 
 ### Woensdagavond Cannes (wo 22 jul) — **Maurice**
 
-- [ ] **Le Caveau 30 reserveren** — wo **22 jul**, **7 pers.**, **~20:00**
-  - **Tel.:** +33 4 93 39 06 33 · [lecaveau30.fr](https://www.lecaveau30.fr/) ·
-    [📍 Maps](https://www.google.com/maps/search/?api=1&query=Le+Caveau+30,+45+Rue+Félix+Faure,+06400+Cannes,+France)
-  - **Wens:** **balkon boven** (premier étage / Salon Rose, vue mer) — **niet** terras beneden
-  - **Fallback:** boven vol → **Bobo Bistro** (+33 4 93 99 97 33); niet akkoord met terras
-  - **Zeg (Frans):** *« sept personnes, mercredi 22 juillet, 20h, à l'étage avec balcon /
-    vue mer — pas en terrasse en bas. Départ 21h45 pour les feux d'artifice. »*
+- [ ] **La Cantine Provençale reserveren** — wo **22 jul**, **7 pers.**, **~20:00**
+  - **Tel.:** +33 4 93 68 33 83 · [lacantineprovencale.com](https://lacantineprovencale.com/) ·
+    [📍 Maps](https://www.google.com/maps/search/?api=1&query=La+Cantine+Provençale,+9+Rue+Bivouac+Napoléon,+06400+Cannes,+France)
+  - **Check:** wo **open?** (19:00–22:30) + tafel voor **7** (kleine zaal ~40)
+  - **Fallback 1:** **Le Caveau 30** (+33 4 93 39 06 33) — **balkon boven**, niet terras
+  - **Fallback 2:** **Bobo Bistro** (+33 4 93 99 97 33)
+  - **Zeg (Frans):** *« sept personnes, mercredi 22 juillet, 20h. Êtes-vous ouverts ?
+    Départ 21h45 pour les feux d'artifice. »*
   - Volledige avond + backups: [activiteiten.md](activiteiten.md) (sectie *Woensdagavond Cannes*)
 
 **Avondflow woensdag:**
 ```
-20:00  Le Caveau 30 (balkon boven)
-21:45  Lopen naar Croisette (~8 min)
+20:00  La Cantine Provençale
+21:45  Lopen naar Croisette (~4 min)
 22:00  Vuurwerk Baie de Cannes (gratis)
-22:30  Drankjes — Le P'tit Local / Barrel / Morrison's
+22:30  Drankjes — Barrel / Morrison's
 ```
 
 - [ ] Treintijd Cannes → Nice donderdag prikken (TER, rijdt ~elk half uur).

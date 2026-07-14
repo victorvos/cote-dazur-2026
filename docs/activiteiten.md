@@ -28,57 +28,59 @@ drankjes. Festivalavond → **reserveren voor 7** is essentieel.
 
 **Avondflow:**
 ```
-20:00  Le Caveau 30 (balkon boven, vue mer)
-21:45  Lopen naar Croisette (~8 min)
+20:00  La Cantine Provençale (provençaals, bij Palais)
+21:45  Lopen naar Croisette (~4 min)
 22:00  Vuurwerk Baie de Cannes
-22:30  Le P'tit Local / Barrel / Morrison's  ·  of Franse bar (Suquet)
+22:30  Barrel / Morrison's  ·  of Franse bar (Suquet)
 ```
 
 **Kaart:** [📍 Vuurwerk — Croisette](https://www.google.com/maps/search/?api=1&query=Baie+de+Cannes+Croisette+06400)
 
-### ✅ Reserveren: **Le Caveau 30** — Maurice belt
+### ✅ Reserveren: **La Cantine Provençale** — Maurice belt
 
 | | |
 |---|---|
-| **Adres** | 45 Rue Félix Faure, 06400 Cannes |
-| **Maps** | [📍 Le Caveau 30](https://www.google.com/maps/search/?api=1&query=Le+Caveau+30,+45+Rue+Félix+Faure,+06400+Cannes,+France) |
-| **Tel.** | **Maurice:** +33 4 93 39 06 33 · [lecaveau30.fr](https://www.lecaveau30.fr/) |
+| **Adres** | 9 Rue Bivouac Napoléon, 06400 Cannes |
+| **Maps** | [📍 La Cantine Provençale](https://www.google.com/maps/search/?api=1&query=La+Cantine+Provençale,+9+Rue+Bivouac+Napoléon,+06400+Cannes,+France) |
+| **Tel.** | **Maurice:** +33 4 93 68 33 83 · [lacantineprovencale.com](https://lacantineprovencale.com/) |
 | **Wanneer** | wo **22 juli**, **7 personen**, **~20:00** |
-| **Wens** | **Balkon boven** (premier étage / Salon Rose, vue mer) — **niet** terras beneden |
-| **Fallback** | Boven vol → **Bobo** of ander restaurant; **niet** akkoord met terras beneden |
+| **Check** | **Bevestig wo open** (19:00–22:30) + tafel voor **7** (zaal ~40 plaatsen) |
+| **Fallback** | Vol / wo dicht → **Le Caveau 30** (balkon boven) → **Bobo Bistro** |
 
 **Zeg bij reserveren (Frans):**
 > Bonjour, je voudrais réserver pour **sept personnes**, **mercredi 22 juillet**,
-> vers **20h**. Nous préférons **à l'étage avec balcon / vue mer** (Salon Rose) —
-> **pas en terrasse en bas**. Nous partons vers **21h45** pour les feux d'artifice
-> sur la Croisette. Merci!
+> vers **20h**. **Êtes-vous ouverts ce mercredi ?** Nous partons vers **21h45**
+> pour les feux d'artifice sur la Croisette. Merci!
 
-**Waarom Caveau:** echte Cannes-brasserie (vis & fruits de mer sinds 1966), locals/
-congressistes, geen hype (~4,1 Google, 2300+ reviews). Menu ~€38–50 p.p. Vuurwerk
-**niet** van balkon — wel ~5–8 min lopen na het eten.
+**Waarom Cantine:** provençaals/mediterraan, seizoensproducten, ~**4,8** Google (~900
+reviews), ~€30–50 p.p. Pal bij **Palais des Festivals** (~4 min lopen naar vuurwerk).
+Chic-casual, geen tourist-trap.
 
 ### Alle opties vergelijken
 
-| | [**Le Caveau 30**](https://www.google.com/maps/search/?api=1&query=Le+Caveau+30,+45+Rue+Félix+Faure,+06400+Cannes,+France) ⭐ | [**Bobo Bistro**](https://www.google.com/maps/search/?api=1&query=Bobo+Bistro,+21+Rue+du+Commandant+André,+06400+Cannes,+France) | [**Chez Vincent**](https://www.google.com/maps/search/?api=1&query=Chez+Vincent+et+Nicolas,+92+Rue+Meynadier,+06400+Cannes,+France) | [**Aux Bons Enfants**](https://www.google.com/maps/search/?api=1&query=Aux+Bons+Enfants,+80+Rue+Meynadier,+06400+Cannes,+France) | [**L'Affable**](https://www.google.com/maps/search/?api=1&query=L%27Affable,+5+Rue+la+Fontaine,+06400+Cannes,+France) |
+| | [**La Cantine Provençale**](https://www.google.com/maps/search/?api=1&query=La+Cantine+Provençale,+9+Rue+Bivouac+Napoléon,+06400+Cannes,+France) ⭐ | [**Le Caveau 30**](https://www.google.com/maps/search/?api=1&query=Le+Caveau+30,+45+Rue+Félix+Faure,+06400+Cannes,+France) | [**Bobo Bistro**](https://www.google.com/maps/search/?api=1&query=Bobo+Bistro,+21+Rue+du+Commandant+André,+06400+Cannes,+France) | [**Chez Vincent**](https://www.google.com/maps/search/?api=1&query=Chez+Vincent+et+Nicolas,+92+Rue+Meynadier,+06400+Cannes,+France) | [**Aux Bons Enfants**](https://www.google.com/maps/search/?api=1&query=Aux+Bons+Enfants,+80+Rue+Meynadier,+06400+Cannes,+France) |
 |---|---|---|---|---|---|
-| **Keuken** | **Frans**, vis & zeevruchten | Mediterraans/bistro | Traditioneel Frans | Provençaals (Bib) | Klassiek Frans (Michelin) |
-| **Sfeer** | Instituut, 1930s-brasserie | Gezellig, informeel | Hidden gem, locals | Familie-bistro | Chique bistro |
-| **Reviews** | ~4,1 (2300+) | ~4,4 (1300+) | ~4,2–4,3 (650+) | ~4,3 (1400+) | ~4,4–4,6 |
-| **Budget p.p.** | **~€38–50** | ~€67–74 | ~€55–70 | ~€54–58 | ~€68–91 ❌ |
-| **Vuurwerk** | ~8 min lopen | **~2 min** | ~12 min | ~12 min | ~5–8 min |
-| **Groep 7** | ✅ boven 100 | ✅ | ✅ | ⚠️ klein, cash | ✅ |
-| **Tel.** | +33 4 93 39 06 33 | +33 4 93 99 97 33 | +33 4 93 68 35 39 | +33 7 68 99 17 89 | +33 4 93 68 02 09 |
+| **Keuken** | **Provençaals**, modern | Frans, vis & zeevruchten | Mediterraans/bistro | Traditioneel Frans | Provençaals (Bib) |
+| **Sfeer** | Chic-casual, warm | Instituut, 1930s-brasserie | Gezellig, informeel | Hidden gem, locals | Familie-bistro |
+| **Reviews** | **~4,8** (~900) | ~4,1 (2300+) | ~4,4 (1300+) | ~4,2–4,3 (650+) | ~4,3 (1400+) |
+| **Budget p.p.** | **~€30–50** | ~€38–50 | ~€67–74 | ~€55–70 | ~€54–58 |
+| **Vuurwerk** | **~4 min** lopen | ~8 min | **~2 min** | ~12 min | ~12 min |
+| **Groep 7** | ⚠️ klein (~40) | ✅ boven 100 | ✅ | ✅ | ⚠️ klein, cash |
+| **Tel.** | +33 4 93 68 33 83 | +33 4 93 39 06 33 | +33 4 93 99 97 33 | +33 4 93 68 35 39 | +33 7 68 99 17 89 |
 
-> **L'Affable** afgewezen (te chique/duur). **La Mère Besson** (provençaals instituut)
-> lijkt definitief gesloten (winter 2025/26).
+> **L'Affable** afgewezen (te chique/duur). **La Mère Besson** lijkt definitief gesloten.
 
-### 🔁 Backups (als Caveau boven vol is)
+### 🔁 Backups (als Cantine vol / wo gesloten)
 
-| Restaurant | Waarom | Maps / reserveren |
-|---|---|---|
-| **Bobo Bistro** | Dichtst bij vuurwerk, gezellig | [📍 Maps](https://www.google.com/maps/search/?api=1&query=Bobo+Bistro,+21+Rue+du+Commandant+André,+06400+Cannes,+France) · +33 4 93 99 97 33 |
-| **Chez Vincent et Nicolas** | Frans hidden gem, Suquet | [📍 Maps](https://www.google.com/maps/search/?api=1&query=Chez+Vincent+et+Nicolas,+92+Rue+Meynadier,+06400+Cannes,+France) · +33 4 93 68 35 39 |
-| **Aux Bons Enfants** | Beste eten/euro, cash only | [📍 Maps](https://www.google.com/maps/search/?api=1&query=Aux+Bons+Enfants,+80+Rue+Meynadier,+06400+Cannes,+France) · +33 7 68 99 17 89 |
+| # | Restaurant | Waarom | Maps / reserveren |
+|---|---|---|---|
+| 1 | **Le Caveau 30** | Instituut vis/seafood, **balkon boven** | [📍 Maps](https://www.google.com/maps/search/?api=1&query=Le+Caveau+30,+45+Rue+Félix+Faure,+06400+Cannes,+France) · +33 4 93 39 06 33 · balkon, niet terras |
+| 2 | **Bobo Bistro** | Dichtst bij vuurwerk, gezellig | [📍 Maps](https://www.google.com/maps/search/?api=1&query=Bobo+Bistro,+21+Rue+du+Commandant+André,+06400+Cannes,+France) · +33 4 93 99 97 33 |
+| 3 | **Chez Vincent et Nicolas** | Frans hidden gem, Suquet | [📍 Maps](https://www.google.com/maps/search/?api=1&query=Chez+Vincent+et+Nicolas,+92+Rue+Meynadier,+06400+Cannes,+France) · +33 4 93 68 35 39 |
+| 4 | **Aux Bons Enfants** | Beste eten/euro, cash only | [📍 Maps](https://www.google.com/maps/search/?api=1&query=Aux+Bons+Enfants,+80+Rue+Meynadier,+06400+Cannes,+France) · +33 7 68 99 17 89 |
+
+**Caveau — zeg (Frans):** *« sept personnes, mercredi 22 juillet, 20h, à l'étage avec
+balcon / vue mer (Salon Rose) — pas en terrasse en bas. Départ 21h45. »*
 
 > Tip: vandaag/morgen reserveren — festivalavond = vol. Na eten naar
 > [**Bd de la Croisette**](https://www.google.com/maps/search/?api=1&query=Bd+de+la+Croisette+Cannes).
@@ -87,7 +89,7 @@ congressistes, geen hype (~4,1 Google, 2300+ reviews). Menu ~€38–50 p.p. Vuu
 
 ## 🍺 Drankjes na vuurwerk (woensdag ~22:30+)
 
-Niet fancy, wel sfeer voor 7 man. Vanaf Croisette/Caveau — kies **pub** (dichtbij) of
+Niet fancy, wel sfeer voor 7 man. Vanaf Croisette/Cantine — kies **pub** (dichtbij) of
 **Franse bar à vin** (Suquet, ~10 min lopen).
 
 *Adressen & Maps geverifieerd juli 2026 (officiële sites + Cannes Tourisme).*
