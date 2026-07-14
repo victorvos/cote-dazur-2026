@@ -104,6 +104,41 @@ gesloten** (winter 2025/26).
 
 ---
 
+## 🍺 Drankjes na vuurwerk (woensdag ~22:30+)
+
+Geen reservering nodig — festivalavond kan wel druk zijn. Niet fancy, wel sfeer
+voor 7 man. Vanaf Croisette/Bobo zijn dit de beste opties:
+
+| | **Barrel Pub** ⭐ | **Morrisons Irish Pub** | **Le P'tit Local** |
+|---|---|---|---|
+| **Sfeer** | American pub, dart/biljart, soms DJ | Echte pub, rock/live (do–za), terras | Locals-bar, cocktails + biertjes, terras |
+| **Chique?** | Nee | Nee | Nee |
+| **Afstand vuurwerk** | **~2 min** (Carré d'Or) | ~5–8 min lopen | ~8 min (Suquet/mairie) |
+| **Open (wo)** | 18:00–05:00 | ~12:00–02:00 | 13:30–02:30 |
+| **Maps** | [📍 17 Rue Gérard Monod](https://www.google.com/maps/search/?api=1&query=17+Rue+Gérard+Monod+06400+Cannes) | [📍 10 Rue Teisseire](https://www.google.com/maps/search/?api=1&query=10+Rue+Teisseire+06400+Cannes) | [📍 9 Rue Félix Faure](https://www.google.com/maps/search/?api=1&query=9+Rue+Félix+Faure+06400+Cannes) |
+
+**Aanrader na vuurwerk:** **Barrel Pub** — pal naast Croisette, zero gedoe, open laat.
+**Meer pub-gevoel:** **Morrisons** — groepsvriendelijk, biertjes, wo avond rustiger
+(geen live band; die is do–za).
+
+### 🔁 Backup bars
+
+| Bar | Waarom | Maps |
+|---|---|---|
+| **Lucky You Saloon** | USA-style aan oude haven, biertjes & cocktails | [📍 8 Quai Saint-Pierre](https://www.google.com/maps/search/?api=1&query=8+Quai+Saint-Pierre+06400+Cannes) |
+| **P'tit Bar** | "Bar de copains", carré d'or, open tot 05:00 | [📍 13 Rue des Frères Pradignac](https://www.google.com/maps/search/?api=1&query=13+Rue+des+Frères+Pradignac+06400+Cannes) |
+
+**Avondflow woensdag:**
+```
+20:00  Bobo Bistro (eten)
+22:00  Vuurwerk Croisette
+22:30  Barrel Pub of Morrison's (drankjes)
+```
+
+> Geen reservering nodig voor bars. Vol = even doorlopen naar volgende optie.
+
+---
+
 
 
 ## ⛴️ Monaco — zaterdag 25 juli
