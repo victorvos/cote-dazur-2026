@@ -41,7 +41,7 @@ Indicatieve kosten per persoon (7 personen). Prijzen juli 2026, ruwe schatting.
 | Appartement Nice (do–zo)      | Mo                 | ✅ geregeld  |
 | Appartement Cannes (woe)      | Mo / Victor        | ✅ geboekt   |
 | Ferry Monaco (za)             | Victor / Mo        | ✅ gereserveerd — vrijdag beslissen, betalen ≈08:45 za |
-| Restaurant Cannes (woe avond) | Victor / Mo        | ⬜ reserveren |
+| Restaurant Cannes (woe avond) | **Maurice**        | ⬜ Bobo (voorkeur) — zie keuzetabel activiteiten |
 | Wijndag Bellet / dorp-strand  | groep              | ⬜ ter plekke kiezen |
 | Treintijden Cannes → Nice     | Victor / Mo        | ⬜ prikken   |
 | Vluchten                      | groep              | ✅ geboekt   |

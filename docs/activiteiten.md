@@ -23,44 +23,84 @@ in de Baie de Cannes. Onze avond:
 
 ## 🍽️ Eten in Cannes (woensdagavond, vóór het vuurwerk)
 
-Rond **20:00 eten** in het centrum, daarna te voet naar de **Croisette** voor het
-**vuurwerk om 22:00** (alles hieronder ligt op loopafstand). Het is festivalavond →
-**reserveren met 7 personen sterk aangeraden** (bel of boek een dag of paar dagen
-vooruit).
+Rond **20:00 eten**, daarna te voet naar de **Croisette** voor **vuurwerk om 22:00**.
+Festivalavond → **reserveren voor 7 personen** is essentieel.
 
-### ⭐ Aanrader: **Bobo Bistro**
+**Context op de kaart:** [📍 Vuurwerk — Baie de Cannes / Croisette](https://www.google.com/maps/search/?api=1&query=Baie+de+Cannes+Croisette+06400)
 
-- **Keuken:** mediterraan / bistro, seizoensgericht (huisgemaakte pasta, vlees,
-  salades, pizza) — verse, lokale producten
-- **Prijs:** €€ — hoofdgerechten **~€20–39 p.p.** (goede prijs-kwaliteit)
-- **Rating:** **~4,4** op Google (1.300+ reviews)
-- **Buurt:** 21 Rue du Commandant André, Carré d'Or — **±20 m van de Croisette**,
-  50 m van Rue d'Antibes (dus vuurwerk letterlijk om de hoek)
-- **Groep:** expliciet "goed voor groepen"; terras + binnen. Wo-avond open (~19:00–22:00)
-- **Waarom:** gezellig, levendig, centraal, betaalbaar en groepsvriendelijk — precies
-  wat we zoeken voor de aankomstavond. **Reserveren voor 7 aangeraden.**
-- [📍 Google Maps](https://www.google.com/maps/search/?api=1&query=Bobo%20Bistro%20Cannes%20France)
+### Keuze vergelijken
 
-### 🔁 Backup 1: **Aux Bons Enfants**
+| | [**Bobo Bistro**](https://www.google.com/maps/search/?api=1&query=21+Rue+du+Commandant+André+06400+Cannes) ⭐ | [**Chez Vincent et Nicolas**](https://www.google.com/maps/search/?api=1&query=92+Rue+Meynadier+06400+Cannes) | [**Aux Bons Enfants**](https://www.google.com/maps/search/?api=1&query=80+Rue+Meynadier+06400+Cannes) | [**L'Affable**](https://www.google.com/maps/search/?api=1&query=5+Rue+Lafontaine+06400+Cannes) |
+|---|---|---|---|---|
+| **Keuken** | Mediterraan / bistro (pasta, vis, pizza) | **Traditioneel Frans** | **Provençaals** (Bib Gourmand) | Klassiek Frans (Michelin) |
+| **Sfeer** | Gezellig, terras, niet chique | **Hidden gem**, vintage/cosy, locals | Familie-bistro, authentiek | Chique Franse bistro |
+| **Reviews** | ~4,4 Google (1300+) | ~4,2–4,3 Google (650+) | ~4,3 Google (1400+) | ~4,4–4,6 Google |
+| **Budget p.p.** | ~€67–74 (à la carte + wijn) | ~€55–70 | ~€54–58 (menu €41 + wijn) | ~€68–91 (menu €55 + wijn) |
+| **Afstand vuurwerk** | **±20 m** (~2 min) | ~10–15 min lopen | ~10–15 min lopen | ~5–8 min lopen |
+| **Groep 7** | ✅ expliciet groepsvriendelijk | ✅ terras + zaal | ⚠️ klein, cash-only | ✅ grote zaal |
+| **Reserveren** | +33 4 93 99 97 33 | +33 4 93 68 35 39 | +33 7 68 99 17 89 | +33 4 93 68 02 09 |
 
-- Provençaals familie-instituut, **Michelin Bib Gourmand** (2024 & 2025) — top prijs-kwaliteit
-- Prijs **€€ (~€30–40 p.p.)**, rating **~4,3** Google
-- 80 Rue Meynadier (Le Suquet, overdekte marktstraat) — loopafstand Croisette
-- ⚠️ **Klein zaakje + vaak alleen cash** en in juli **alleen 's avonds** (di–za) →
-  voor 7 personen echt **vooraf reserveren**
-- [📍 Google Maps](https://www.google.com/maps/search/?api=1&query=Aux%20Bons%20Enfants%20Cannes%20France)
+> Tip: open de Maps-links naast elkaar en zoom uit — dan zie je meteen waar Meynadier
+> (Suquet) vs. Croisette (Bobo) ligt t.o.v. het vuurwerk.
 
-### 🔁 Backup 2: **L'Affable**
+### Waarom welke?
 
-- Klassieke Franse bistro, Michelin-vermeld; beroemd om de Grand-Marnier-soufflé
-- Prijs **€€** — lunchmenu ~€34, **dinermenu ~€55 p.p.** (net iets duurder, maar
-  geldt als beste prijs-kwaliteit van Cannes); rating **~4,4–4,6** Google
-- 5 Rue Lafontaine, centrum (zee < 300 m) — loopafstand Croisette; **ruimte voor
-  groepen** (zaal ~80 plaatsen), di–za
-- [📍 Google Maps](https://www.google.com/maps/search/?api=1&query=L%27Affable%20Cannes%20France)
+**Bobo Bistro** — huidige voorkeur, Maurice belt om te reserveren  
+[📍 21 Rue du Commandant André](https://www.google.com/maps/search/?api=1&query=21+Rue+du+Commandant+André+06400+Cannes)
 
-> Tip: bel/boek overdag even; op festivalavond zit alles snel vol. Na het eten
-> gewoon richting Bd de la Croisette lopen voor het vuurwerk om 22:00.
+- **Dichtst bij vuurwerk** (letterlijk om de hoek van de Croisette) → geen haast na
+  het eten op festivalavond
+- Gezellig, goede reviews, niet te chique, past bij 7 man aankomstavond
+- **Minpunt:** geen echt Frans (mediterraans/Italiaans) — wel lekker eten
+
+**Chez Vincent et Nicolas** — Frans + hidden gem + gezellig  
+[📍 92 Rue Meynadier](https://www.google.com/maps/search/?api=1&query=92+Rue+Meynadier+06400+Cannes)
+
+- Adres dat **locals elkaar doorgeven** (Rue Meynadier, Suquet) — geen Croisette-toerist
+- **Echt Frans:** tartare, souris d'agneau, crème brûlée; vintage sfeer, terras
+- **Minpunten:** ~10–15 min lopen naar vuurwerk; service soms wisselend in reviews
+
+**Aux Bons Enfants** — beste eten per euro, minder "fun"  
+[📍 80 Rue Meynadier](https://www.google.com/maps/search/?api=1&query=80+Rue+Meynadier+06400+Cannes) *(2 deuren verderop t.o.v. Chez Vincent)*
+
+- **Michelin Bib Gourmand**, menu **€41**, producten van markt Forville
+- **Minpunten:** vaak **alleen cash**, kleiner zaakje, minder levendige sfeer dan Bobo
+  of Chez Vincent
+
+**L'Affable** — afgewezen voor deze avond  
+[📍 5 Rue Lafontaine](https://www.google.com/maps/search/?api=1&query=5+Rue+Lafontaine+06400+Cannes)
+
+- Te **chique/formeel**; dinermenu €55 + wijn → met 7 flessen **~€85–91 p.p.** (boven
+  ~€80-budget)
+
+**Niet meer:** La Mère Besson (provençaals instituut sinds 1935) lijkt **definitief
+gesloten** (winter 2025/26).
+
+### ✅ Voorlopige keuze: **Bobo Bistro** — Maurice belt
+
+| | |
+|---|---|
+| **Adres** | 21 Rue du Commandant André, 06400 Cannes |
+| **Maps** | [📍 Bobo Bistro op Google Maps](https://www.google.com/maps/search/?api=1&query=21+Rue+du+Commandant+André+06400+Cannes) |
+| **Reserveren** | **Maurice:** +33 4 93 99 97 33 · [bobobistro.com](https://bobobistro.com/en/) |
+| **Wanneer** | wo **22 juli**, **7 personen**, **~20:00** |
+| **Open** | elke dag, diner **19:00–23:00** |
+
+> **Willen we liever echt Frans?** → [Chez Vincent](https://www.google.com/maps/search/?api=1&query=92+Rue+Meynadier+06400+Cannes)
+> of [Aux Bons Enfants](https://www.google.com/maps/search/?api=1&query=80+Rue+Meynadier+06400+Cannes)
+> (zelfde avond, zelfde reserveringsdruk). Dan Maurice **die** bellen i.p.v. Bobo.
+
+### 🔁 Backups (als Bobo vol zit)
+
+| Restaurant | Maps | Reserveren |
+|---|---|---|
+| **Chez Vincent et Nicolas** | [📍 92 Rue Meynadier](https://www.google.com/maps/search/?api=1&query=92+Rue+Meynadier+06400+Cannes) | [chezvincentetnicolas.fr](https://chezvincentetnicolas.fr/) · +33 4 93 68 35 39 · wo 19:00–23:00 |
+| **Aux Bons Enfants** | [📍 80 Rue Meynadier](https://www.google.com/maps/search/?api=1&query=80+Rue+Meynadier+06400+Cannes) | [Reserveren](https://aux-bons-enfants-cannes.com/reservations/?lang=en) · +33 7 68 99 17 89 · **cash only** |
+| **L'Affable** | [📍 5 Rue Lafontaine](https://www.google.com/maps/search/?api=1&query=5+Rue+Lafontaine+06400+Cannes) | +33 4 93 68 02 09 · chiquer/duurder, wel ruimte voor 7 |
+
+> Tip: op festivalavond zit alles snel vol — vandaag/morgen reserveren. Na het eten
+> richting [**Bd de la Croisette**](https://www.google.com/maps/search/?api=1&query=Bd+de+la+Croisette+Cannes) lopen
+> voor vuurwerk om 22:00 (vanaf Bobo: 2 min; vanaf Meynadier: ~12 min).
 
 ---
 

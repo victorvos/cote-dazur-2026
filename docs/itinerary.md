@@ -15,7 +15,7 @@ pakken meteen de grote **vuurwerkshow** mee.
 | 18:40 | Landen op **Nice Côte d'Azur (NCE)** |
 | ~19:00 | Van luchthaven naar **Cannes** (trein/bus, ~30–45 min) |
 | ~19:30 | Inchecken appartement Cannes, spullen droppen |
-| 20:00 | **Eten** in centrum Cannes (reserveren aan te raden, druk i.v.m. festival) |
+| 20:00 | **Eten Cannes** — voorkeur **Bobo Bistro** (Maurice reserveert); vuurwerk ~22:00 op Croisette |
 | 21:30 | Plek zoeken langs de **Croisette** / Baie de Cannes |
 | **22:00** | 🎆 **Vuurwerkshow** — China Galaxy Pyrotechnics (~30 min, gratis) |
 | 22:30+ | **Drankjes** in Cannes, avond uitluieren |

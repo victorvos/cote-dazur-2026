@@ -20,9 +20,9 @@ Zo veel mogelijk vóór vertrek regelen; de rest lekker met de dag.
 
 ## 🟡 Voor vertrek
 
-- [ ] **Restaurant Cannes woensdagavond 22 juli** reserveren (vóór vuurwerk 22:00).
-  Festivalavond = druk. Opties o.a. Bobo Bistro, Aux Bons Enfants, L'Affable — zie
-  [activiteiten.md](activiteiten.md). *(Niet zondag: zondag is vroege vlucht.)*
+- [ ] **Restaurant Cannes wo 22 jul** reserveren (~20:00, 7 pers.) — **Maurice belt**
+  **Bobo Bistro** (+33 4 93 99 97 33). Keuze vergelijken incl. Maps-links:
+  [activiteiten.md](activiteiten.md).
 - [ ] Treintijd Cannes → Nice donderdag prikken (TER, rijdt ~elk half uur).
 - [ ] Vervoer NCE-luchthaven → Cannes woensdag uitzoeken (trein/bus, 7 pers. + bagage).
 - [ ] Boodschappenlijst BBQ + supermarkt bij appartement Nice checken.
