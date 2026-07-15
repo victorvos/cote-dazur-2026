@@ -1,6 +1,17 @@
 # Activiteiten
 
-Niet alles hoeft met z'n 7'en. Democratisch kiezen, rest strand & terras.
+Niet alles hoeft met z'n 7'en. Rest strand & terras.
+
+### 🗳️ Democratische regels
+
+- **Meerderheid geldt** — activiteiten kiezen we met **meeste stemmen** (bij 7 personen:
+  **4+** = besluit).
+- **4–3 of verdeeld?** → mag **splitsen**: wie wil mee, mee; rest iets anders (strand,
+  terras, thuis chillen).
+- **Praktisch ook zo:** taken verdelen — bv. **boodschappen BBQ** deels vóór vertrek /
+  deels ter plekke, of één subgroep inkopen terwijl anderen al bezig zijn met iets anders.
+- Geen schuldgevoel als je ergens **niet** mee wilt — liever eerlijk splitsen dan iedereen
+  meesleuren.
 
 ---
 

@@ -2,6 +2,9 @@
 
 7 personen · 22–26 juli 2026 · Cannes → Nice → Monaco
 
+> **Keuze activiteiten:** meerderheid stemmen · bij 4–3 mag splitsen — zie
+> [activiteiten.md](activiteiten.md).
+
 ---
 
 ## Woensdag 22 juli — Aankomst & Cannes 🎆

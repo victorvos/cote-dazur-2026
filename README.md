@@ -7,6 +7,7 @@ Reisplanning voor de groep van **7** naar de Franse Rivièra.
 
 > Filosofie: geen schoolreisje. Een paar essentiële dingen wél gefixt (slaapplek,
 > treinen, ferry), de rest lekker met de dag invullen — terrassen, strand, bier en zon.
+> **Activiteiten:** democratisch (**meerderheid**), bij 4–3 mag de groep **splitsen**.
 
 ---
 
