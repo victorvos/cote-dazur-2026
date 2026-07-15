@@ -4,19 +4,34 @@ Vluchten, treinen en de ferry. Prijzen zijn indicatief (juli 2026).
 
 ---
 
-## ✈️ Vluchten (AMS ↔ NCE) — ✅ geboekt
+## ✈️ Vluchten (AMS ↔ NCE) — ✅ geboekt (2 groepen)
 
-KLM + easyJet, beide **direct**. Vanaf ~€243 retour p.p. (Skyscanner-vondst).
-De vluchten zijn **geboekt** (AMS→NCE 22/7 16:45, NCE→AMS 26/7 09:40).
+Twee **directe** retourboekingen. Prijsindicatie ~€243 p.p. (kan per groep verschillen).
 
-| Richting | Datum | Vertrek | Aankomst | Duur |
-|----------|-------|---------|----------|------|
-| **AMS → NCE** | woe 22 jul | 16:45 | 18:40 | 1u55 |
-| **NCE → AMS** | zon 26 jul | 09:40 | 11:45 | 2u05 |
+### Groep A — **Theo, Maurice, Victor** (KLM)
 
-![Vlucht AMS-NCE](../assets/vlucht-ams-nce.png)
+| Richting | Datum | Vlucht | Vertrek | Aankomst | Duur |
+|----------|-------|--------|---------|----------|------|
+| **AMS → NCE** | woe 22 jul | **KL 1477** | **14:15** AMS | **16:10** NCE T2 | 1u55 |
+| **NCE → AMS** | zon 26 jul | **KL 1476** | **12:25** NCE T2 | **14:30** AMS | 2u05 |
 
-> Zondag vertrek is vroeg (09:40) → op tijd uitchecken en naar de luchthaven.
+PNR: **Z3XNDG** · Economy
+
+### Groep B — **Coen, Floris, Pim, Leander** (KLM/easyJet)
+
+| Richting | Datum | Vlucht | Vertrek | Aankomst | Duur |
+|----------|-------|--------|---------|----------|------|
+| **AMS → NCE** | woe 22 jul | — | **16:45** AMS | **18:40** NCE | 1u55 |
+| **NCE → AMS** | zon 26 jul | — | **09:40** NCE | **11:45** AMS | 2u05 |
+
+![Vlucht AMS-NCE groep B](../assets/vlucht-ams-nce.png)
+
+> **Woensdag:** groep A landt **~2,5 uur eerder** → kan al richting Cannes / inchecken.
+> Groep B komt later aan; **avondprogramma (eten 20:00, vuurwerk 22:00) geldt voor
+> iedereen** — incheck + bagage drop zo snel mogelijk voor groep B.
+>
+> **Zondag:** groep B vertrekt **vroeg** (09:40) → vroeg uitchecken. Groep A heeft
+> **meer marge** (12:25 vertrek).
 
 ---
 

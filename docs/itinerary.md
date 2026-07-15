@@ -10,22 +10,33 @@
 ## Woensdag 22 juli — Aankomst & Cannes 🎆
 
 Vandaag geen appartement in Nice, dus we slaan de nacht over in **Cannes** en
-pakken meteen de grote **vuurwerkshow** mee.
+pakken meteen de grote **vuurwerkshow** mee. **Twee vluchtgroepen** — avond
+programma **samen**.
+
+### Aankomst (verschillende vluchten)
+
+| | **Groep A** (Theo, Maurice, Victor) | **Groep B** (Coen, Floris, Pim, Leander) |
+|---|---|---|
+| **Vlucht** | KLM **KL 1477** | KLM/easyJet (later) |
+| **Vertrek AMS** | **14:15** | **16:45** |
+| **Landen NCE** | **16:10** | **18:40** |
+| **Naar Cannes** | ~16:45–17:30 | ~19:15–20:00 *(krap — direct door)* |
+
+Groep A kan **eerder inchecken** appartement Cannes en bagage droppen. Groep B:
+minimale stop, **direct door naar eten** als het tijd wordt.
+
+### Avond — iedereen samen
 
 | Tijd | Programma |
 |------|-----------|
-| 16:45 | Vlucht **AMS → NCE** (KLM/easyJet), direct, 1u55 |
-| 18:40 | Landen op **Nice Côte d'Azur (NCE)** |
-| ~19:00 | Van luchthaven naar **Cannes** (trein/bus, ~30–45 min) |
-| ~19:30 | Inchecken appartement Cannes, spullen droppen |
 | 20:00 | **La Cantine Provençale** — Maurice reserveert (7 pers.), wo open checken |
 | ~21:45 | Naar **Croisette** lopen (~4 min), plek zoeken |
 | **22:00** | 🎆 **Vuurwerkshow** — China Galaxy Pyrotechnics (~30 min, gratis) |
-| 22:30+ | **Drankjes** — pub (Barrel/Morrison's) of Franse bar (Charly's / Le rdv des Copains) — zie [activiteiten](activiteiten.md) |
+| 22:30+ | **Drankjes** — pub (Barrel/Morrison's) of Franse bar — zie [activiteiten](activiteiten.md) |
 | nacht | Slapen in Cannes |
 
-**Let op:** het is festivalavond → centrum en Croisette zijn druk. Vroeg eten en
-op tijd een plekje pakken voor het vuurwerk.
+**Let op:** festivalavond → centrum en Croisette zijn druk. Groep B: **geen tijd
+te verliezen** na landing (18:40). Details vluchten: [vervoer](vervoer.md).
 
 ---
 
@@ -94,10 +105,13 @@ betalen kan tot **45 min vóór vertrek** (≈ 08:45). Zie [vervoer](vervoer.md)
 
 ## Zondag 26 juli — Terug naar huis ✈️
 
-| Tijd | Programma |
-|------|-----------|
-| vroeg | Uitchecken appartement Nice, naar luchthaven NCE |
-| 09:40 | Vlucht **NCE → AMS**, direct, 2u05 |
-| 11:45 | Landen **Amsterdam (AMS)** |
+Twee vluchtgroepen — **verschillende vertrektijden**.
 
-Op tijd naar NCE i.v.m. vroege vlucht (± 2 uur van tevoren op de luchthaven).
+| | **Groep A** (Theo, Maurice, Victor) | **Groep B** (Coen, Floris, Pim, Leander) |
+|---|---|---|
+| **Naar luchthaven** | ~09:30–10:00 | **vroeg** (~07:00–07:30) |
+| **Vertrek NCE** | **12:25** (KL **1476**) | **09:40** |
+| **Landen AMS** | **14:30** | **11:45** |
+
+Groep B: op tijd uitchecken (± 2 uur vóór vertrek). Groep A: **rustiger schema**,
+eventueel nog ontbijt in Nice. Zie [vervoer](vervoer.md).

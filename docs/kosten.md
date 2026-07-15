@@ -9,7 +9,7 @@ Indicatieve kosten per persoon (7 personen). Prijzen juli 2026, ruwe schatting.
 
 | Post                          | Indicatie p.p. | Opmerking                                          |
 | ----------------------------- | -------------- | -------------------------------------------------- |
-| Vlucht AMS ↔ NCE (retour)     | ~€243          | ✅ geboekt — direct, KLM/easyJet                  |
+| Vlucht AMS ↔ NCE (retour)     | ~€243          | ✅ geboekt — 2 groepen (KLM KL1477/1476 + later vlucht) |
 | Appartement Cannes (1 nacht)  | ~€79           | ✅ geboekt — Spacious Apartment (~€549,67 totaal)   |
 | Appartement Nice (3 nachten)  | n.t.b.         | via Mo geregeld — bedrag invullen                  |
 | Trein Cannes → Nice           | ~€10           | TER                                                |

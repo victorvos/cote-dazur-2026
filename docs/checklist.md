@@ -14,7 +14,9 @@ Zo veel mogelijk vóór vertrek regelen; de rest lekker met de dag.
 - [ ] **Ferry betalen / definitief gaan** — nog **niet betaald**. Betalen kan tot
   **45 min vóór vertrek** (≈ **08:45 za 25 jul**). **Vrijdag beslissen:** Monaco **óf**
   **food tour Nice** (za) als 09:30 te vroeg / liever culinair. Zie [vervoer.md](vervoer.md).
-- [x] Vluchten ✅ geboekt (AMS→NCE 22/7 16:45, NCE→AMS 26/7 09:40).
+- [x] Vluchten ✅ geboekt — **groep A** (Theo, Maurice, Victor): KL 1477 wo 14:15→16:10,
+  KL 1476 zo 12:25→14:30 · **groep B** (Coen, Floris, Pim, Leander): wo 16:45→18:40,
+  zo 09:40→11:45. Zie [vervoer.md](vervoer.md).
 
 ---
 
@@ -41,7 +43,8 @@ Zo veel mogelijk vóór vertrek regelen; de rest lekker met de dag.
 ```
 
 - [ ] Treintijd Cannes → Nice donderdag prikken (TER, rijdt ~elk half uur).
-- [ ] Vervoer NCE-luchthaven → Cannes woensdag uitzoeken (trein/bus, 7 pers. + bagage).
+- [ ] Vervoer NCE-luchthaven → Cannes woensdag uitzoeken (2 aankomsttijden: **16:10**
+  groep A + **18:40** groep B; trein/bus, bagage).
 - [ ] Boodschappenlijst BBQ + supermarkt bij appartement Nice checken.
 
 ---

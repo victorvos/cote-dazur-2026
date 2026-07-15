@@ -23,11 +23,11 @@ Victor · Maurice (Mo) · Coen · Theo · Floris · Pim · Leander
 
 | Dag | Datum | Basis | Highlight |
 |-----|-------|-------|-----------|
-| Woe | 22 jul | **Cannes** | Aankomst NCE → Cannes · **Vuurwerkshow 22:00** · eten & drankjes |
+| Woe | 22 jul | **Cannes** | 2 vluchtgroepen → Cannes · **Vuurwerkshow 22:00** |
 | Don | 23 jul | **Nice** | Trein Cannes → Nice · inchecken appartement · strand & stad |
 | Vrij | 24 jul | Nice | Vrije dag: strand / evt. wijntour / BBQ thuis · eten in de stad |
 | Zat | 25 jul | Nice | **Ferry naar Monaco** (dag) · 's avonds terug in Nice |
-| Zon | 26 jul | → thuis | Vlucht NCE → AMS 09:40 |
+| Zon | 26 jul | → thuis | 2 vluchtgroepen (A 12:25 · B 09:40) |
 
 Volledige uitwerking: **[docs/itinerary.md](docs/itinerary.md)**
 
