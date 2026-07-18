@@ -35,7 +35,7 @@ in de Baie de Cannes. Onze avond:
 ## 🍽️ Woensdagavond Cannes — eten, vuurwerk, drankjes
 
 Rond **20:00 eten**, **21:45** lopen naar de **Croisette**, **22:00 vuurwerk**, daarna
-drankjes. Festivalavond → **reserveren voor 7** is essentieel.
+drankjes. Festivalavond — **La Cantine Provençale is gereserveerd** (7 pers.).
 
 **Avondflow:**
 ```
@@ -92,7 +92,7 @@ Chic-casual, geen tourist-trap.
 **Caveau — zeg (Frans):** *« sept personnes, mercredi 22 juillet, 20h, à l'étage avec
 balcon / vue mer (Salon Rose) — pas en terrasse en bas. Départ 21h45. »*
 
-> Tip: vandaag/morgen reserveren — festivalavond = vol. Na eten naar
+> Tip: na eten naar
 > [**Bd de la Croisette**](https://www.google.com/maps/search/?api=1&query=Bd+de+la+Croisette+Cannes).
 
 ---
