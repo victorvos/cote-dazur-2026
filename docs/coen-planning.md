@@ -33,7 +33,8 @@ OV-chip / NS-app klaarzetten. Geen auto/parkeren Schiphol.
 | Dag | Anker |
 |-----|--------|
 | **Wo** | Trein Overvecht → Schiphol *(ambitieus, niet 3u te vroeg)* · landen **18:40** → Cantine **20:00** → vuurwerk **22:00** |
-| **Do** | Wekker **±10:00** *(geen 08:00 — Coen-veto)* · late ochtend trein Cannes → Nice |
+| **Do** | Wekker **10:00** *(Coen-veto op 08:00)* · late ochtend trein Cannes → Nice |
+| **Vr** | Wekker **10:00** · besluitactiviteit late ochtend |
 | **Zo** | Wekker **05:45** → NCE ~**07:45** → vlucht **09:40** → AMS **11:45** → trein → **Overvecht** |
 
 **Legenda:** ✈️ vliegen · 🚿 douchen · 🪥 tanden · 😴 slapen · 🍽️ eten · 🍺 bier · 🍷 wijn · 🚶 verplaatsen · 🗳️ besluit
@@ -158,7 +159,7 @@ OV-chip / NS-app klaarzetten. Geen auto/parkeren Schiphol.
 | 21:45 | — | — |
 | 22:00 | Wind down | Water |
 | 22:15 | 🪥 Tanden poetsen | — |
-| 22:30 | Opladen, wekker **09:00** soft | Vrijdag is chill |
+| 22:30 | Opladen, wekker **10:00** | Vrijdag ook Coen-proof |
 | 22:45 | Bed | — |
 | **23:00** | 😴 **Slapen Nice** | — |
 
@@ -166,49 +167,41 @@ OV-chip / NS-app klaarzetten. Geen auto/parkeren Schiphol.
 
 ## Vrijdag 24 juli — Vrije dag
 
-***11:00 besluit:*** wijnshuttle **óf** dorp/strand **óf** food tour.  
-Default hieronder: strand-ochtend → food-tour → BBQ. Wijn? → [activiteiten](activiteiten.md), schuif 10:00–16:00.
+*Wekker **10:00** (zelfde als do). **±12:00 besluit:** wijnshuttle **óf** dorp/strand **óf** food tour.*  
+Default hieronder: late start → food-tour/strand → BBQ. Wijn? → [activiteiten](activiteiten.md).
 
 | Tijd | Wat (Coen) | Detail |
 |------|------------|--------|
-| **08:00** | 😴→👁️ Wekker soft | Max 1× snooze |
-| 08:15 | Liggen klaar vóór 08:30 | — |
-| 08:30 | 🚿 Douchen | — |
-| 08:45 | 🪥 Tanden | — |
-| 09:00 | 🍽️ **Ontbijt** | Koffie + brood |
-| 09:15 | 🍽️ Ontbijt | — |
-| 09:30 | Aankleden strand | — |
-| 09:45 | Zonnebrand volledig | Oren, nek, voeten |
-| 10:00 | 🚶 Naar strand / terras | — |
-| 10:15 | 🏖️ / ☕ | — |
-| 10:30 | 🏖️ | — |
-| 10:45 | 🏖️ Zwemmen | — |
-| **11:00** | 🗳️ **BESLUIT VRIJDAG** | Wijn / dorp / food / strand — meerderheid; 4–3 mag splitsen |
-| 11:15 | Start gekozen plan | Food → Vieux Nice · Wijn → Magnan + dagpas €7 |
-| 11:30 | 🍽️ Food-stop 1 **óf** shuttle | — |
-| 11:45 | Proeven / onderweg | — |
-| 12:00 | 🚶 Stop 2 | — |
-| 12:15 | 🍽️ Stop 2 lunch | Socca / pan bagnat / … |
-| 12:30 | 🍽️ Stop 2 | 🍺 Klein biertje ok |
-| 12:45 | 🚶 Stop 3 | — |
-| 13:00 | 🍽️ Stop 3 | Oesters / tapas — [activiteiten](activiteiten.md) |
-| 13:15 | 🍷 Glas wit *(optioneel)* | Bij oesters |
-| 13:30 | Afronden hop | Water |
-| 13:45 | 🚶 Terug huis of strand | — |
-| 14:00 | Siësta-strand of -huis | — |
-| 14:15 | 😴 Power-nap *(optioneel)* | Max 30 min |
-| 14:30 | Chillen | — |
-| 14:45 | Opstaan | — |
-| 15:00 | 🚿 Douchen | — |
-| 15:15 | 🪥 Tanden | — |
-| 15:30 | BBQ-boodschappen nabestellen | IJs, extra bier |
-| 15:45 | — | — |
-| 16:00 | Chillen / kaarten | — |
-| 16:15 | — | — |
+| **10:00** | 😴→👁️ Wekker | Snooze max 1× — daarna echt op |
+| 10:15 | 🚿 Douchen | — |
+| 10:30 | 🪥 Tanden | — |
+| 10:45 | 🍽️ **Ontbijt** | Koffie + brood |
+| 11:00 | 🍽️ Ontbijt | — |
+| 11:15 | Aankleden / zonnebrand | Oren, nek, voeten |
+| 11:30 | 🚶 Richting strand of stad | Chill start |
+| 11:45 | 🏖️ / ☕ | — |
+| **12:00** | 🗳️ **BESLUIT VRIJDAG** | Wijn / dorp / food / strand — meerderheid; 4–3 mag splitsen |
+| 12:15 | Start gekozen plan | Food → Vieux Nice · Wijn → Magnan + dagpas €7 |
+| 12:30 | 🍽️ Food-stop 1 **óf** shuttle | — |
+| 12:45 | Proeven / onderweg | — |
+| 13:00 | 🚶 Stop 2 | — |
+| 13:15 | 🍽️ Stop 2 lunch | Socca / pan bagnat / … |
+| 13:30 | 🍽️ Stop 2 | 🍺 Klein biertje ok |
+| 13:45 | 🚶 Stop 3 | — |
+| 14:00 | 🍽️ Stop 3 | Oesters / tapas — [activiteiten](activiteiten.md) |
+| 14:15 | 🍷 Glas wit *(optioneel)* | Bij oesters |
+| 14:30 | Afronden hop | Water |
+| 14:45 | 🚶 Terug huis of strand | — |
+| 15:00 | Siësta-strand of -huis | — |
+| 15:15 | 😴 Power-nap *(optioneel)* | Max 30 min |
+| 15:30 | Chillen | — |
+| 15:45 | Opstaan | — |
+| 16:00 | 🚿 Douchen | — |
+| 16:15 | 🪥 Tanden | — |
 | 16:30 | 🗳️ **Monaco zaterdag JA/NEE** | Betalen ferry pas ≈08:45 za |
 | 16:45 | Als JA: Quai Lunel **09:10** noteren | Als NEE: food-tour za = Plan B |
-| 17:00 | BBQ prep | — |
-| 17:15 | Prep | — |
+| 17:00 | BBQ-boodschappen nabestellen / prep | IJs, extra bier |
+| 17:15 | BBQ prep | — |
 | 17:30 | 🍷 Aperitief | — |
 | 17:45 | 🍷 + borrelplank | — |
 | 18:00 | 🍽️ **Eerste gang** | Salade / groente |
@@ -223,7 +216,7 @@ Default hieronder: strand-ochtend → food-tour → BBQ. Wijn? → [activiteiten
 | 20:15 | Spel of stad | — |
 | 20:30 | — | — |
 | 20:45 | — | — |
-| 21:00 | Wind down als Monaco = JA | Vroege wekker |
+| 21:00 | Wind down als Monaco = JA | Vroege wekker zaterdag |
 | 21:15 | Spullen Monaco klaarzetten | Schoenen, bril, powerbank, cash |
 | 21:30 | — | — |
 | 21:45 | 🪥 Tanden | — |
@@ -365,7 +358,7 @@ Default hieronder: strand-ochtend → food-tour → BBQ. Wijn? → [activiteiten
 | Trein Overvecht gemist / vertraging | Pak volgende NS · bij te krap: alsnog 15 min eerder |
 | Te ambitieus / security-rij | Soft deadline: **uiterlijk 15:15** op Schiphol voor vlucht 16:45 |
 | Te laat Cantine 20:00 | +33 4 93 68 33 83 · alsnog komen · dessert skip |
-| Iemand plant 08:00 wekker do | **Coen-veto** — verschuif naar ≥10:00 |
+| Iemand plant 08:00 wekker do/vr | **Coen-veto** — verschuif naar **10:00** |
 | Ferry niet betalen vóór 08:45 | Plan B food tour |
 | Douche-file (7 man) | Timer 7 min · volgorde avond ervoor |
 | Coen twijfelt | Dit doc openen · kwartier zoeken · doen |
