@@ -1,9 +1,12 @@
 # Dag-voor-dag programma
 
-7 personen · 22–26 juli 2026 · Cannes → Nice → Monaco
+7 personen · 22–26 juli 2026 · Cannes → Nice · Monaco
 
 > **Keuze activiteiten:** meerderheid stemmen · bij 4–3 mag splitsen — zie
 > [activiteiten.md](activiteiten.md).
+>
+> **Coen heeft een eigen pagina:** kwartier-voor-kwartier inclusief douchen,
+> tanden poetsen, gangen en bier → **[coen-planning.md](coen-planning.md)**.
 
 ---
 

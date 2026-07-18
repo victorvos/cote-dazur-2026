@@ -29,7 +29,8 @@ Victor · Maurice (Mo) · Coen · Theo · Floris · Pim · Leander
 | Zat | 25 jul | Nice | **Ferry naar Monaco** (dag) · 's avonds terug in Nice |
 | Zon | 26 jul | → thuis | 2 vluchtgroepen (A 12:25 · B 09:40) |
 
-Volledige uitwerking: **[docs/itinerary.md](docs/itinerary.md)**
+Volledige uitwerking: **[docs/itinerary.md](docs/itinerary.md)** ·  
+**Coen-editie (elk kwartier):** **[docs/coen-planning.md](docs/coen-planning.md)**
 
 ---
 
