@@ -29,7 +29,7 @@ minimale stop, **direct door naar eten** als het tijd wordt.
 
 | Tijd | Programma |
 |------|-----------|
-| 20:00 | **La Cantine Provençale** — Maurice reserveert (7 pers.), wo open checken |
+| 20:00 | **La Cantine Provençale** — ✅ gereserveerd (7 pers.) |
 | ~21:45 | Naar **Croisette** lopen (~4 min), plek zoeken |
 | **22:00** | 🎆 **Vuurwerkshow** — China Galaxy Pyrotechnics (~30 min, gratis) |
 | 22:30+ | **Drankjes** — pub (Barrel/Morrison's) of Franse bar — zie [activiteiten](activiteiten.md) |

@@ -60,8 +60,7 @@ Volledige uitwerking: **[docs/itinerary.md](docs/itinerary.md)**
 - [x] **Cannes woensdagnacht** — ✅ geboekt: Spacious Apartment (~€79 p.p.)
 - [x] **Ferry Nice → Monaco** — ✅ gereserveerd (7× za 25 jul); **vrijdag beslissen**,
   betalen pas **45 min vóór vertrek** (≈ 08:45 za)
-- [ ] **Restaurant Cannes** (wo 22 jul ~20:00) — Maurice belt **La Cantine Provençale**;
-  backup **Le Caveau 30** (balkon) → Bobo — zie [activiteiten](docs/activiteiten.md)
+- [x] **Restaurant Cannes** — ✅ **La Cantine Provençale** gereserveerd (wo 22 jul ~20:00, 7 pers.)
 - [ ] Treintijden Cannes → Nice op donderdag prikken (TER, ~elke 20 min)
 - [ ] **Vrijdag:** ter plekke kiezen — wijnshuttle Bellet **óf** dorpje/strand
 
