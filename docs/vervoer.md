@@ -26,6 +26,9 @@ PNR: **Z3XNDG** · Economy
 
 ![Vlucht AMS-NCE groep B](../assets/vlucht-ams-nce.png)
 
+**Coen — NL-trein:** woensdag heen en zondag terug **Utrecht Overvecht ↔ Schiphol**
+met NS (~40–50 min). Kwartierplanning: [coen-planning.md](coen-planning.md).
+
 > **Woensdag:** groep A landt **~2,5 uur eerder** → kan al richting Cannes / inchecken.
 > Groep B komt later aan; **avondprogramma (eten 20:00, vuurwerk 22:00) geldt voor
 > iedereen** — incheck + bagage drop zo snel mogelijk voor groep B.
