@@ -32,7 +32,8 @@ OV-chip / NS-app klaarzetten. Geen auto/parkeren Schiphol.
 
 | Dag | Anker |
 |-----|--------|
-| **Wo** | Trein Overvecht → Schiphol · landen NCE **18:40** → Cantine **20:00** → vuurwerk **22:00** |
+| **Wo** | Trein Overvecht → Schiphol *(ambitieus, niet 3u te vroeg)* · landen **18:40** → Cantine **20:00** → vuurwerk **22:00** |
+| **Do** | Wekker **±10:00** *(geen 08:00 — Coen-veto)* · late ochtend trein Cannes → Nice |
 | **Zo** | Wekker **05:45** → NCE ~**07:45** → vlucht **09:40** → AMS **11:45** → trein → **Overvecht** |
 
 **Legenda:** ✈️ vliegen · 🚿 douchen · 🪥 tanden · 😴 slapen · 🍽️ eten · 🍺 bier · 🍷 wijn · 🚶 verplaatsen · 🗳️ besluit
@@ -41,26 +42,25 @@ OV-chip / NS-app klaarzetten. Geen auto/parkeren Schiphol.
 
 ## Woensdag 22 juli — Heenvlucht 16:45 + Cannes 🎆
 
-*Utrecht Overvecht → **trein NS** → Schiphol → **16:45** AMS → **18:40** NCE → Cannes → Cantine → vuurwerk → bier → bed.*
+*Utrecht Overvecht → **trein NS** → Schiphol → **16:45** AMS (~17:00 boarding/push) → **18:40** NCE → Cannes → Cantine → vuurwerk → bier → bed.*
+
+> **Coen-feedback:** *“12:45 weg om ~17:00 te vliegen = weinig ambitieus.”*  
+> Daarom: **later weg**, ~**1u15–1u30** vóór vertrek op Schiphol — strak, niet schoolreisje.
 
 | Tijd | Wat (Coen) | Detail |
 |------|------------|--------|
-| 12:45 | 🧳 Laatste check koffer | Paspoort, EHIC, zonnebrand, zwemspullen, powerbank, lichte outfit Cantine |
-| 13:00 | 🪥 Tanden poetsen (thuis Overvecht) | — |
-| 13:15 | Koffer dicht + NS-app check | [Reisplanner](https://www.ns.nl/reisplanner): **Utrecht Overvecht → Schiphol Airport** |
-| 13:30 | 🚶 Vertrek huis → station **Utrecht Overvecht** | ~10–15 min lopen/fiets (afhankelijk van adres) |
-| 13:45 | Station Overvecht | OV-chip inchecken · perron checken |
-| **14:00** | 🚆 **Trein Overvecht → Schiphol** | ~**40–50 min** NS · pak de trein die je **±14:40–14:50** op Schiphol zet |
-| 14:15 | In de trein | Koffer bij deuren / bagagerek · water |
-| 14:30 | In de trein | — |
-| **14:45** | ✈️ **Aankomst Schiphol** | Uitchecken · naar vertrekhal / inchecken |
-| 15:00 | Inchecken / bagage drop | Met Floris, Pim, Leander |
-| 15:15 | Security | — |
-| 15:30 | Security → airside | — |
-| 15:45 | Gate zoeken + WC | Telefoon 80%+ |
-| 16:00 | ☕ Wachten bij gate | Koffie/water — **geen** zwaar bier |
-| 16:15 | **Boarding** | Zakken onder stoel |
-| 16:30 | Deuren / pushback-buffer | Flight mode, riemen |
+| 13:45 | 🧳 Koffer-check + NS-app | Paspoort, EHIC, zonnebrand, zwemspullen, powerbank · [Reisplanner](https://www.ns.nl/reisplanner) Overvecht→Schiphol |
+| 14:00 | 🪥 Tanden poetsen (thuis Overvecht) | Snel |
+| 14:15 | 🚶 Vertrek huis → station **Utrecht Overvecht** | ~10–15 min lopen/fiets |
+| 14:30 | Station Overvecht | OV-chip in · perron |
+| **14:45** | 🚆 **Trein Overvecht → Schiphol** | ~**40–50 min** · mik op aankomst **±15:30** |
+| 15:00 | In de trein | Koffer / water |
+| 15:15 | In de trein | — |
+| **15:30** | ✈️ **Aankomst Schiphol** | Uitchecken · inchecken / bagage (~1u15 vóór **16:45**) |
+| 15:45 | Inchecken + security | Met Floris, Pim, Leander — **tempo** |
+| 16:00 | Airside → gate | WC, telefoon 80%+ |
+| 16:15 | Gate / boarding start | Zakken onder stoel · **geen** zwaar bier |
+| 16:30 | Deuren / pushback-buffer | Flight mode |
 | **16:45** | ✈️ **Vertrek AMS → NCE** | *Jouw heenvlucht* · direct **1u55** |
 | 17:00 | In de lucht | Water, oren, mini-snack |
 | 17:15 | In de lucht | — |
@@ -92,78 +92,73 @@ OV-chip / NS-app klaarzetten. Geen auto/parkeren Schiphol.
 | 22:30 | 🎆 Einde → bar | Barrel Pub (~2 min) of Morrison's |
 | 22:45 | 🍺 **Eerste bier** | Of wijn — [activiteiten](activiteiten.md) |
 | 23:00 | 🍺 Tweede rondje | — |
-| 23:15 | 🍺 / 🍷 Derde of stop | Morgen trein — water erbij |
+| 23:15 | 🍺 / 🍷 Derde of stop | Water erbij — morgen **geen** 08:00-wekker |
 | 23:30 | 🚶 Terug appartement | Water kopen |
 | 23:45 | 🪥 Tanden poetsen | Fles water naast bed |
-| **00:00** | 😴 **Slapen Cannes** | Wekker **08:00** |
+| **00:00** | 😴 **Slapen Cannes** | Wekker **10:00** (Coen-proof) |
 
 ---
 
 ## Donderdag 23 juli — Cannes → Nice 🚆
 
-*Ontbijt → trein → inchecken Nice → strand → BBQ/eten → bed.*
+*Late start (Coen-veto op 08:00) → ontbijt → trein → inchecken Nice → strand → BBQ/eten → bed.*
+
+> **Coen-feedback:** *“8 uur opstaan op donderdag gaat niet gebeuren.”*  
+> Wekker **10:00**. TER rijdt vaak genoeg — geen stress.
 
 | Tijd | Wat (Coen) | Detail |
 |------|------------|--------|
-| **08:00** | 😴→👁️ Wekker | Geen snooze-olympiade |
-| 08:15 | 🚿 **Douchen** | Beurt met huisgenoten |
-| 08:30 | 🪥 Tanden poetsen | — |
-| 08:45 | Aankleden + koffer dicht | Niks laten liggen in Cannes |
-| 09:00 | 🍽️ **Ontbijt / koffie** | Croissant + espresso |
-| 09:15 | 🍽️ Ontbijt | — |
-| 09:30 | Uitchecken Cannes | Keybox / host |
-| 09:45 | 🚶 Naar station Cannes | — |
-| 10:00 | TER-kaartjes / QR | SNCF Connect · ~€10 · [vervoer](vervoer.md) |
-| 10:15 | Perron | Zonnebrand smeren |
-| **10:30** | 🚆 **Trein Cannes → Nice** | Eerstvolgende TER · ~30–40 min |
-| 10:45 | In de trein | — |
-| 11:00 | Aankomst Nice-Ville *(±)* | — |
-| 11:15 | 🚶 / taxi / tram | Naar **306 Chemin de la Costière** |
-| 11:30 | Onderweg | — |
-| 11:45 | Aankomst appartement | — |
-| **12:00** | Inchecken + kamers | Bed claimen |
-| 12:15 | Koffers open, airco aan | — |
-| 12:30 | 🍽️ **Lunch** (simpel) | Broodje / supermarket |
-| 12:45 | 🍽️ Lunch | — |
-| 13:00 | 🛒 **Boodschappen BBQ** | Splitsen mag · bier, wijn, grill, water, ijs |
-| 13:15 | 🛒 Boodschappen | — |
-| 13:30 | Terug / unpack | — |
-| 13:45 | 🪥 Optioneel na lunch | — |
-| 14:00 | Omkleden strand | SPF opnieuw |
-| 14:15 | 🚶 / tram naar strand | [activiteiten](activiteiten.md) |
-| 14:30 | 🏖️ **Strand** | Zwemmen / liggen |
-| 14:45 | 🏖️ Strand | 🍺 Koude bier ok |
-| 15:00 | 🏖️ Strand | — |
-| 15:15 | 🏖️ Strand | Water drinken |
-| 15:30 | 🏖️ Strand | — |
-| 15:45 | 🏖️ Strand | — |
-| 16:00 | 🏖️ Strand of terras | — |
-| 16:15 | 🍺 Terras-bier *(optioneel)* | — |
-| 16:30 | Terug appartement | — |
-| 16:45 | 🚿 **Douchen na strand** | Zout eraf |
-| 17:00 | 🪥 Tanden / mond | — |
-| 17:15 | Chillen | Natte spullen ophangen |
-| 17:30 | BBQ prep **óf** restaurant | 🗳️ Meerderheid |
-| 17:45 | Grill / reserveren | — |
-| 18:00 | 🍷 Aperitief | Rosé |
-| 18:15 | 🍷 Aperitief | Borrelplank |
-| 18:30 | 🍽️ **Eerste gang** | Salade / starter |
-| 18:45 | 🍽️ Eerste gang | — |
-| 19:00 | 🍽️ **Tweede gang** | Grill / restaurant |
-| 19:15 | 🍽️ Tweede gang | 🍺 |
-| 19:30 | 🍽️ Tweede gang klaar | — |
-| 19:45 | 🍽️ **Dessert / fruit / kaas** | — |
-| 20:00 | Afwassen / rekening | — |
-| 20:15 | 🍺 / 🍷 Avond 1 | — |
-| 20:30 | Avond 2 | — |
-| 20:45 | Spel / muziek / niks | — |
-| 21:00 | Optioneel Vieux Nice | [nice-lijst](nice-lijst.md) |
+| **10:00** | 😴→👁️ Wekker | Snooze max 1× — daarna echt op |
+| 10:15 | 🚿 **Douchen** | Beurt met huisgenoten |
+| 10:30 | 🪥 Tanden poetsen | — |
+| 10:45 | Aankleden + koffer dicht | Niks laten liggen in Cannes |
+| 11:00 | 🍽️ **Ontbijt / koffie** | Croissant + espresso · eventueel late brunch |
+| 11:15 | 🍽️ Ontbijt | — |
+| 11:30 | Uitchecken Cannes | Keybox / host |
+| 11:45 | 🚶 Naar station Cannes | — |
+| 12:00 | TER-kaartjes / QR | SNCF Connect · ~€10 · [vervoer](vervoer.md) |
+| 12:15 | Perron | Zonnebrand smeren |
+| **12:30** | 🚆 **Trein Cannes → Nice** | Eerstvolgende TER · ~30–40 min |
+| 12:45 | In de trein | — |
+| 13:00 | Aankomst Nice-Ville *(±)* | — |
+| 13:15 | 🚶 / taxi / tram | Naar **306 Chemin de la Costière** |
+| 13:30 | Onderweg | — |
+| 13:45 | Aankomst appartement | — |
+| **14:00** | Inchecken + kamers | Bed claimen |
+| 14:15 | Koffers open, airco aan | — |
+| 14:30 | 🍽️ **Lunch** (simpel) of snack | Broodje / supermarket |
+| 14:45 | 🛒 **Boodschappen BBQ** | Splitsen mag · bier, wijn, grill, water, ijs |
+| 15:00 | 🛒 Boodschappen | — |
+| 15:15 | Terug / unpack | — |
+| 15:30 | Omkleden strand | SPF opnieuw |
+| 15:45 | 🚶 / tram naar strand | [activiteiten](activiteiten.md) |
+| 16:00 | 🏖️ **Strand** | Zwemmen / liggen |
+| 16:15 | 🏖️ Strand | 🍺 Koude bier ok |
+| 16:30 | 🏖️ Strand | Water drinken |
+| 16:45 | 🏖️ Strand | — |
+| 17:00 | 🏖️ Strand of terras | — |
+| 17:15 | 🍺 Terras-bier *(optioneel)* | — |
+| 17:30 | Terug appartement | — |
+| 17:45 | 🚿 **Douchen na strand** | Zout eraf |
+| 18:00 | 🪥 Tanden / mond | — |
+| 18:15 | BBQ prep **óf** restaurant | 🗳️ Meerderheid |
+| 18:30 | 🍷 Aperitief | Rosé + borrelplank |
+| 18:45 | 🍷 Aperitief | — |
+| 19:00 | 🍽️ **Eerste gang** | Salade / starter |
+| 19:15 | 🍽️ Eerste gang | — |
+| 19:30 | 🍽️ **Tweede gang** | Grill / restaurant |
+| 19:45 | 🍽️ Tweede gang | 🍺 |
+| 20:00 | 🍽️ Tweede gang klaar | — |
+| 20:15 | 🍽️ **Dessert / fruit / kaas** | — |
+| 20:30 | Afwassen / rekening | — |
+| 20:45 | 🍺 / 🍷 Avond 1 | — |
+| 21:00 | Avond 2 / optioneel Vieux Nice | [nice-lijst](nice-lijst.md) |
 | 21:15 | — | — |
 | 21:30 | Terug of blijven | — |
 | 21:45 | — | — |
 | 22:00 | Wind down | Water |
 | 22:15 | 🪥 Tanden poetsen | — |
-| 22:30 | Opladen, wekker 08:00 | — |
+| 22:30 | Opladen, wekker **09:00** soft | Vrijdag is chill |
 | 22:45 | Bed | — |
 | **23:00** | 😴 **Slapen Nice** | — |
 
@@ -367,8 +362,10 @@ Default hieronder: strand-ochtend → food-tour → BBQ. Wijn? → [activiteiten
 
 | Situatie | Actie |
 |----------|--------|
-| Trein Overvecht gemist / vertraging | Pak volgende NS · bij te krap: eerder vertrekken (buffer 15–20 min) |
+| Trein Overvecht gemist / vertraging | Pak volgende NS · bij te krap: alsnog 15 min eerder |
+| Te ambitieus / security-rij | Soft deadline: **uiterlijk 15:15** op Schiphol voor vlucht 16:45 |
 | Te laat Cantine 20:00 | +33 4 93 68 33 83 · alsnog komen · dessert skip |
+| Iemand plant 08:00 wekker do | **Coen-veto** — verschuif naar ≥10:00 |
 | Ferry niet betalen vóór 08:45 | Plan B food tour |
 | Douche-file (7 man) | Timer 7 min · volgorde avond ervoor |
 | Coen twijfelt | Dit doc openen · kwartier zoeken · doen |
