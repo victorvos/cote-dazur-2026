@@ -35,7 +35,7 @@ in de Baie de Cannes. Onze avond:
 ## 🍽️ Woensdagavond Cannes — eten, vuurwerk, drankjes
 
 Rond **20:00 eten**, **21:45** lopen naar de **Croisette**, **22:00 vuurwerk**, daarna
-drankjes. Festivalavond → **reserveren voor 7** is essentieel.
+drankjes. Festivalavond — **La Cantine Provençale is gereserveerd** (7 pers.).
 
 **Avondflow:**
 ```
@@ -47,16 +47,15 @@ drankjes. Festivalavond → **reserveren voor 7** is essentieel.
 
 **Kaart:** [📍 Vuurwerk — Croisette](https://www.google.com/maps/search/?api=1&query=Baie+de+Cannes+Croisette+06400)
 
-### ✅ Reserveren: **La Cantine Provençale** — Maurice belt
+### ✅ Gereserveerd: **La Cantine Provençale**
 
 | | |
 |---|---|
 | **Adres** | 9 Rue Bivouac Napoléon, 06400 Cannes |
 | **Maps** | [📍 La Cantine Provençale](https://www.google.com/maps/search/?api=1&query=La+Cantine+Provençale,+9+Rue+Bivouac+Napoléon,+06400+Cannes,+France) |
-| **Tel.** | **Maurice:** +33 4 93 68 33 83 · [lacantineprovencale.com](https://lacantineprovencale.com/) |
-| **Wanneer** | wo **22 juli**, **7 personen**, **~20:00** |
-| **Check** | **Bevestig wo open** (19:00–22:30) + tafel voor **7** (zaal ~40 plaatsen) |
-| **Fallback** | Vol / wo dicht → **Le Caveau 30** (balkon boven) → **Bobo Bistro** |
+| **Tel.** | +33 4 93 68 33 83 · [lacantineprovencale.com](https://lacantineprovencale.com/) |
+| **Wanneer** | wo **22 juli**, **7 personen**, **~20:00** — ✅ **gereserveerd** |
+| **Fallback** | *(niet meer nodig)* Le Caveau 30 / Bobo Bistro |
 
 **Zeg bij reserveren (Frans):**
 > Bonjour, je voudrais réserver pour **sept personnes**, **mercredi 22 juillet**,
@@ -93,7 +92,7 @@ Chic-casual, geen tourist-trap.
 **Caveau — zeg (Frans):** *« sept personnes, mercredi 22 juillet, 20h, à l'étage avec
 balcon / vue mer (Salon Rose) — pas en terrasse en bas. Départ 21h45. »*
 
-> Tip: vandaag/morgen reserveren — festivalavond = vol. Na eten naar
+> Tip: na eten naar
 > [**Bd de la Croisette**](https://www.google.com/maps/search/?api=1&query=Bd+de+la+Croisette+Cannes).
 
 ---

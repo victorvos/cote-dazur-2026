@@ -24,15 +24,9 @@ Zo veel mogelijk vóór vertrek regelen; de rest lekker met de dag.
 
 ### Woensdagavond Cannes (wo 22 jul) — **Maurice**
 
-- [ ] **La Cantine Provençale reserveren** — wo **22 jul**, **7 pers.**, **~20:00**
-  - **Tel.:** +33 4 93 68 33 83 · [lacantineprovencale.com](https://lacantineprovencale.com/) ·
-    [📍 Maps](https://www.google.com/maps/search/?api=1&query=La+Cantine+Provençale,+9+Rue+Bivouac+Napoléon,+06400+Cannes,+France)
-  - **Check:** wo **open?** (19:00–22:30) + tafel voor **7** (kleine zaal ~40)
-  - **Fallback 1:** **Le Caveau 30** (+33 4 93 39 06 33) — **balkon boven**, niet terras
-  - **Fallback 2:** **Bobo Bistro** (+33 4 93 99 97 33)
-  - **Zeg (Frans):** *« sept personnes, mercredi 22 juillet, 20h. Êtes-vous ouverts ?
-    Départ 21h45 pour les feux d'artifice. »*
-  - Volledige avond + backups: [activiteiten.md](activiteiten.md) (sectie *Woensdagavond Cannes*)
+- [x] **La Cantine Provençale** — ✅ **gereserveerd** wo **22 jul**, **7 pers.**, **~20:00**
+  - **Adres:** 9 Rue Bivouac Napoléon · [📍 Maps](https://www.google.com/maps/search/?api=1&query=La+Cantine+Provençale,+9+Rue+Bivouac+Napoléon,+06400+Cannes,+France)
+  - Volledige avond: [activiteiten.md](activiteiten.md) (sectie *Woensdagavond Cannes*)
 
 **Avondflow woensdag:**
 ```
@@ -75,6 +69,7 @@ Zo veel mogelijk vóór vertrek regelen; de rest lekker met de dag.
 ## Bevestigd ✅
 
 - [x] Vuurwerkshow Cannes: woensdag 22 juli, 22:00, gratis, Baie de Cannes.
+- [x] **La Cantine Provençale** gereserveerd: wo 22 jul, 7 pers., ~20:00.
 - [x] Appartement Nice do–zo geregeld (306 Chemin de la Costière).
 - [x] Ferry rijdt op zaterdag (di/do/za) → 25 juli werkt.
 - [x] Ferry Nice → Monaco: **7 plekken gereserveerd** (za 25 jul) — betalen pas 45 min
