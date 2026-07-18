@@ -2,8 +2,9 @@
 
 > Voor **Coen**, omdat “we zien wel” geen planning is.
 >
-> Dit is **jouw** schema (met Floris, Pim, Leander = groep B). Alles op **:00 /
-> :15 / :30 / :45** — douchen, tanden, gangen, bier, slapen.
+> Dit is **jouw** schema (met Floris, Pim, Leander = groep B). Je woont / vertrekt
+> vanuit **Utrecht Overvecht** en gaat **met de trein** naar/van Schiphol.
+> Alles op **:00 / :15 / :30 / :45** — douchen, tanden, gangen, bier, slapen.
 > Theo/Mo/Victor vliegen **andere tijden**; die staan hier niet als jouw acties.
 > Zie [itinerary](itinerary.md) · [vervoer](vervoer.md).
 
@@ -16,12 +17,23 @@
 
 KLM / easyJet · Economy · ~€243 · [screenshot](../assets/vlucht-ams-nce.png)
 
+### 🚆 NL-trein: **Utrecht Overvecht ↔ Schiphol**
+
+Coen komt uit / gaat terug naar **Utrecht Overvecht** — **altijd met de trein** (NS).
+
+| | Traject | Reistijd | Tip |
+|---|---------|----------|-----|
+| **Heen wo** | Utrecht Overvecht → Schiphol Airport | ~**40–50 min** | Check [NS Reisplanner](https://www.ns.nl/reisplanner) ochtend van vertrek |
+| **Terug zo** | Schiphol Airport → Utrecht Overvecht | ~**40–50 min** | Na bagageband; Sprinter/IC via Utrecht |
+
+OV-chip / NS-app klaarzetten. Geen auto/parkeren Schiphol.
+
 **Harde ankers**
 
 | Dag | Anker |
 |-----|--------|
-| **Wo** | Landen **18:40** → Cantine **20:00** → vuurwerk **22:00** *(krap — geen tijd verliezen)* |
-| **Zo** | Wekker **05:45** → NCE ~**07:45** → vertrek **09:40** → AMS **11:45** |
+| **Wo** | Trein Overvecht → Schiphol · landen NCE **18:40** → Cantine **20:00** → vuurwerk **22:00** |
+| **Zo** | Wekker **05:45** → NCE ~**07:45** → vlucht **09:40** → AMS **11:45** → trein → **Overvecht** |
 
 **Legenda:** ✈️ vliegen · 🚿 douchen · 🪥 tanden · 😴 slapen · 🍽️ eten · 🍺 bier · 🍷 wijn · 🚶 verplaatsen · 🗳️ besluit
 
@@ -29,23 +41,24 @@ KLM / easyJet · Economy · ~€243 · [screenshot](../assets/vlucht-ams-nce.png
 
 ## Woensdag 22 juli — Heenvlucht 16:45 + Cannes 🎆
 
-*Huis → Schiphol → **16:45** AMS → **18:40** NCE → Cannes → Cantine → vuurwerk → bier → bed.*
+*Utrecht Overvecht → **trein NS** → Schiphol → **16:45** AMS → **18:40** NCE → Cannes → Cantine → vuurwerk → bier → bed.*
 
 | Tijd | Wat (Coen) | Detail |
 |------|------------|--------|
-| 13:00 | 🧳 Laatste check koffer | Paspoort, EHIC, zonnebrand, zwemspullen, powerbank, lichte outfit Cantine |
-| 13:15 | 🪥 Tanden poetsen (thuis) | — |
-| 13:30 | Vertrek huis → Schiphol | Doel: **±14:45** op Schiphol (~2u vóór **16:45**) |
-| 13:45 | 🚶 Onderweg | Water + snack |
-| 14:00 | 🚶 Onderweg | — |
-| 14:15 | 🚶 Onderweg | — |
-| 14:30 | 🚶 Laatste stuk / OV / parkeren | — |
-| **14:45** | ✈️ **Aankomst Schiphol** | Inchecken / bagage met Floris, Pim, Leander |
-| 15:00 | Security | — |
-| 15:15 | Security → airside | — |
-| 15:30 | Gate zoeken + WC | Telefoon 80%+ |
-| 15:45 | ☕ Wachten bij gate | Koffie/water — **geen** zwaar bier |
-| 16:00 | Gate | Boardinggroep op bord checken |
+| 12:45 | 🧳 Laatste check koffer | Paspoort, EHIC, zonnebrand, zwemspullen, powerbank, lichte outfit Cantine |
+| 13:00 | 🪥 Tanden poetsen (thuis Overvecht) | — |
+| 13:15 | Koffer dicht + NS-app check | [Reisplanner](https://www.ns.nl/reisplanner): **Utrecht Overvecht → Schiphol Airport** |
+| 13:30 | 🚶 Vertrek huis → station **Utrecht Overvecht** | ~10–15 min lopen/fiets (afhankelijk van adres) |
+| 13:45 | Station Overvecht | OV-chip inchecken · perron checken |
+| **14:00** | 🚆 **Trein Overvecht → Schiphol** | ~**40–50 min** NS · pak de trein die je **±14:40–14:50** op Schiphol zet |
+| 14:15 | In de trein | Koffer bij deuren / bagagerek · water |
+| 14:30 | In de trein | — |
+| **14:45** | ✈️ **Aankomst Schiphol** | Uitchecken · naar vertrekhal / inchecken |
+| 15:00 | Inchecken / bagage drop | Met Floris, Pim, Leander |
+| 15:15 | Security | — |
+| 15:30 | Security → airside | — |
+| 15:45 | Gate zoeken + WC | Telefoon 80%+ |
+| 16:00 | ☕ Wachten bij gate | Koffie/water — **geen** zwaar bier |
 | 16:15 | **Boarding** | Zakken onder stoel |
 | 16:30 | Deuren / pushback-buffer | Flight mode, riemen |
 | **16:45** | ✈️ **Vertrek AMS → NCE** | *Jouw heenvlucht* · direct **1u55** |
@@ -302,16 +315,16 @@ Default hieronder: strand-ochtend → food-tour → BBQ. Wijn? → [activiteiten
 
 ---
 
-## Zondag 26 juli — Terugvlucht 09:40 ✈️
+## Zondag 26 juli — Terugvlucht 09:40 + trein Overvecht ✈️🚆
 
-*Jouw vlucht: **09:40** NCE → **11:45** AMS (2u05 direct). Theo/Mo/Victor blijven langer (12:25).*
+*Vlucht **09:40** NCE → **11:45** AMS → bagage → **trein NS** → **Utrecht Overvecht**. Theo/Mo/Victor blijven langer (12:25).*
 
 | Tijd | Wat (Coen) | Detail |
 |------|------------|--------|
 | **05:45** | 😴→👁️ Wekker | Nodig voor **09:40** |
 | 06:00 | 🚿 **Douchen** (kort) | Quiet mode |
 | 06:15 | 🪥 Tanden poetsen | — |
-| 06:30 | Aankleden + koffer dicht | Paspoort **in handtas** |
+| 06:30 | Aankleden + koffer dicht | Paspoort **in handtas** · NS-app klaar |
 | 06:45 | 🍽️ Mini-ontbijt | Banaan / yoghurt / koffie |
 | 07:00 | Uitchecken / sleutel | Soft goodbye aan wie nog slaapt |
 | **07:15** | 🚶 Vertrek → NCE | Taxi/OV — ~2u vóór **09:40** |
@@ -333,17 +346,20 @@ Default hieronder: strand-ochtend → food-tour → BBQ. Wijn? → [activiteiten
 | 11:00 | Naderen AMS | — |
 | 11:15 | Landing / taxiën | — |
 | 11:30 | Taxiën AMS | — |
-| **11:45** | ✈️ **Landen AMS** | *Jouw aankomst NL* |
-| 12:00 | Bagage + exit | — |
-| 12:15 | 🚶 Naar huis / OV | — |
-| 12:30 | Onderweg | — |
-| 12:45 | Thuis *(indicatief)* | — |
-| 13:00 | Koffer open | Wasmand |
-| 13:15 | 🚿 **Douche NL** (lang) | Verdiend |
-| 13:30 | 🪥 Tanden | — |
-| 13:45 | 🍽️ Late lunch | — |
-| 14:00 | 😴 Bank-siësta | Toegestaan |
-| **einde** | ✅ Reis compleet | Coen had een planning |
+| **11:45** | ✈️ **Landen AMS / Schiphol** | *Jouw aankomst NL* |
+| 12:00 | Bagageband + exit | Richting **trein** (niet taxi) |
+| 12:15 | 🚆 NS Reisplanner check | **Schiphol Airport → Utrecht Overvecht** |
+| **12:30** | 🚆 **Trein Schiphol → Overvecht** | ~**40–50 min** · OV-chip inchecken |
+| 12:45 | In de trein | — |
+| 13:00 | In de trein | Via / richting Utrecht |
+| **13:15** | 🚆 **Aankomst Utrecht Overvecht** | Uitchecken |
+| 13:30 | 🚶 Station → huis Overvecht | Koffer slepen / fiets |
+| 13:45 | Thuis | Koffer open, wasmand |
+| 14:00 | 🚿 **Douche NL** (lang) | Verdiend |
+| 14:15 | 🪥 Tanden | — |
+| 14:30 | 🍽️ Late lunch | — |
+| 14:45 | 😴 Bank-siësta | Toegestaan |
+| **einde** | ✅ Reis compleet | Coen: Overvecht → Côte → Overvecht |
 
 ---
 
@@ -351,6 +367,7 @@ Default hieronder: strand-ochtend → food-tour → BBQ. Wijn? → [activiteiten
 
 | Situatie | Actie |
 |----------|--------|
+| Trein Overvecht gemist / vertraging | Pak volgende NS · bij te krap: eerder vertrekken (buffer 15–20 min) |
 | Te laat Cantine 20:00 | +33 4 93 68 33 83 · alsnog komen · dessert skip |
 | Ferry niet betalen vóór 08:45 | Plan B food tour |
 | Douche-file (7 man) | Timer 7 min · volgorde avond ervoor |
