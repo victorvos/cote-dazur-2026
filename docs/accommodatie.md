@@ -12,22 +12,28 @@ Twee verblijven: **Cannes** (alleen woensdagnacht) en **Nice** (do–zo).
   leven we met de dag.
 - Kaart: [Nice · Victor (maps)](https://maps.app.goo.gl/FBopsmM14LR7Jko17)
 
-### 🛒 BBQ & drank — boodschappen dichtbij
+### 🛒 BBQ & drank — boodschappen (vanaf 306 Chem. de la Costière)
 
-Heuvels → met **volle tassen** liever **bus 31/75** of **Uber/taxi** dan lopen.
-Shop bij voorkeur **do/vr/za** (zondag beperkt).
+Heuvels → afstanden **per weg** (Maps), niet hemelsbreed. Met volle tassen:
+**Uber/taxi** of bus. Shop bij voorkeur **do/vr/za** (zondag beperkt).
 
-| | [**Super U Nice Madeleine**](https://www.google.com/maps/search/?api=1&query=Super+U+Nice+Madeleine,+85+Boulevard+de+la+Madeleine,+06000+Nice) ⭐ | [**Lidl Gorbella**](https://www.google.com/maps/search/?api=1&query=Lidl,+17+Boulevard+Gorbella,+06000+Nice) | [**Carrefour Lingostière**](https://www.google.com/maps/search/?api=1&query=Carrefour+Lingosti%C3%A8re,+606+Boulevard+du+Mercantour,+06200+Nice) |
-|---|---|---|---|
-| **Afstand** | ~2 km · ~5–10 min bus/taxi | ~1,2 km · dichtst | ~3,5–4 km · ~8–10 min rijden |
-| **Reviews** | ~**3,9** Google (1300+) | budget, oké | hyper, oké |
-| **BBQ + drank** | ✅ vlees, charcoal, bier, wijn, ijs | ✅ goedkoop bier/basics | ✅ alles in één |
-| **Open** | ma–za 08:30–20:00 · zo 09:00–12:30 | ma–za · **zo vaak dicht** | groot, zo ochtend |
+| | [**Spar St-Pancrace**](https://www.google.com/maps/dir/?api=1&origin=306+Chemin+de+la+Costi%C3%A8re+Nice&destination=Spar+18+Route+de+Saint-Pancrace+Nice&travelmode=driving) | [**Carrefour Market Le Ray**](https://www.google.com/maps/dir/?api=1&origin=306+Chemin+de+la+Costi%C3%A8re+Nice&destination=Carrefour+Market+52+Boulevard+Gorbella+Nice&travelmode=driving) ⭐ | [**Lidl Gorbella**](https://www.google.com/maps/dir/?api=1&origin=306+Chemin+de+la+Costi%C3%A8re+Nice&destination=Lidl+17+Boulevard+Gorbella+Nice&travelmode=driving) | [**Super U Madeleine**](https://www.google.com/maps/dir/?api=1&origin=306+Chemin+de+la+Costi%C3%A8re+Nice&destination=Super+U+85+Boulevard+de+la+Madeleine+Nice&travelmode=driving) |
+|---|---|---|---|---|
+| **Weg** | **~2,3 km · ~5 min** | **~6 km · ~11 min** | ~6,3 km · ~12 min | **~5–6 km · ~11 min** |
+| **Type** | kleine Spar (supérette) | echte supermarket | budget | supermarket |
+| **Reviews** | ~3,8 · handig maar **duur** | goed voor BBQ-assortiment | goedkoop bier/basics | ~3,9 (1300+) |
+| **BBQ + drank** | ⚠️ depannage / last-minute | ✅ vlees, charcoal, bier, wijn, ijs | ✅ budget bier/basics | ✅ breed assortiment |
+| **Open** | ma–za 07:00–19:30 · zo 08:00–13:00 | ma–za 08:00–21:00 · zo 08:00–12:30 | ma–za · **zo vaak dicht** | ma–za 08:30–20:00 · zo 09:00–12:30 |
 
-**Aanrader:** **Super U Madeleine** (85 Bd de la Madeleine) — beste balans dichtbij +
-assortiment voor BBQ. Lidl = budget-bier; Carrefour = één grote stock-up.
+**Aanrader voor volle BBQ-inkoop:** **Carrefour Market Le Ray** (52 Bd Gorbella) —
+~11 min rijden, echt assortiment. **Spar St-Pancrace** alleen als je snel iets
+dichtbij nodig hebt (duurder, kleiner). **Super U Madeleine** is **niet** “om de
+hoek” (~5–6 km per weg) — prima als tweede optie, niet dichter dan Le Ray/Lidl.
 
-> Taken splitsen mag (democratisch): één subgroep booschappen, rest strand/food tour.
+Backup in dezelfde wijk: [Intermarché Express](https://www.google.com/maps/dir/?api=1&origin=306+Chemin+de+la+Costi%C3%A8re+Nice&destination=Intermarch%C3%A9+Express+143+Boulevard+de+Cessole+Nice&travelmode=driving)
+(143 Bd de Cessole, ~6 km). **Carrefour Lingostière** is verder (~9 km) — skip.
+
+> Taken splitsen mag (democratisch): één subgroep boodschappen, rest strand/food tour.
 
 ---
 

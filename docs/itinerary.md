@@ -50,7 +50,7 @@ te verliezen** na landing (18:40). Details vluchten: [vervoer](vervoer.md).
 | ochtend | Uitchecken Cannes, ontbijt / koffie |
 | late ochtend | **Trein Cannes → Nice** (TER, ~30–40 min, ~€10 p.p., rijdt heel vaak) |
 | middag | Inchecken **appartement Nice** — 306 Chemin de la Costière, 06000 Nice |
-| middag | **Strand** & rondlopen · **BBQ-boodschappen** ([Super U Madeleine](accommodatie.md#-bbq--drank--boodschappen-dichtbij)) — *evt. **food tour** Vieux Nice* |
+| middag | **Strand** & rondlopen · **BBQ-boodschappen** ([Carrefour Market Le Ray](accommodatie.md#-bbq--drank--boodschappen-vanaf-306-chem-de-la-costière) ~11 min) — *evt. **food tour** Vieux Nice* |
 | avond | Eten in de stad of eerste **BBQ thuis** |
 
 Appartement in Nice t/m zondag → vanaf nu kunnen we lekker met de dag leven.

@@ -39,9 +39,10 @@ Zo veel mogelijk vóór vertrek regelen; de rest lekker met de dag.
 - [ ] Treintijd Cannes → Nice donderdag prikken (TER, rijdt ~elk half uur).
 - [ ] Vervoer NCE-luchthaven → Cannes woensdag uitzoeken (2 aankomsttijden: **16:10**
   groep A + **18:40** groep B; trein/bus, bagage).
-- [x] **Supermarkt BBQ Nice** — ✅ uitgezocht: **Super U Madeleine** (dichtbij +
-  assortiment); backup Lidl Gorbella / Carrefour Lingostière. Zie
-  [accommodatie.md](accommodatie.md#-bbq--drank--boodschappen-dichtbij).
+- [x] **Supermarkt BBQ Nice** — ✅ uitgezocht (**per weg** vanaf Costière):
+  **Carrefour Market Le Ray** (~6 km) voor volle BBQ; **Spar St-Pancrace** (~2,3 km)
+  voor snel/dichtbij; Super U Madeleine ~5–6 km (niet dichter). Zie
+  [accommodatie.md](accommodatie.md#-bbq--drank--boodschappen-vanaf-306-chem-de-la-costière).
 - [ ] Boodschappenlijst BBQ maken (vlees, charcoal, bier/wijn, water, ijs, salades).
 
 ---
