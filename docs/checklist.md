@@ -39,7 +39,10 @@ Zo veel mogelijk vóór vertrek regelen; de rest lekker met de dag.
 - [ ] Treintijd Cannes → Nice donderdag prikken (TER, rijdt ~elk half uur).
 - [ ] Vervoer NCE-luchthaven → Cannes woensdag uitzoeken (2 aankomsttijden: **16:10**
   groep A + **18:40** groep B; trein/bus, bagage).
-- [ ] Boodschappenlijst BBQ + supermarkt bij appartement Nice checken.
+- [x] **Supermarkt BBQ Nice** — ✅ uitgezocht: **Super U Madeleine** (dichtbij +
+  assortiment); backup Lidl Gorbella / Carrefour Lingostière. Zie
+  [accommodatie.md](accommodatie.md#-bbq--drank--boodschappen-dichtbij).
+- [ ] Boodschappenlijst BBQ maken (vlees, charcoal, bier/wijn, water, ijs, salades).
 
 ---
 

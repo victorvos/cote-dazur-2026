@@ -12,6 +12,23 @@ Twee verblijven: **Cannes** (alleen woensdagnacht) en **Nice** (do–zo).
   leven we met de dag.
 - Kaart: [Nice · Victor (maps)](https://maps.app.goo.gl/FBopsmM14LR7Jko17)
 
+### 🛒 BBQ & drank — boodschappen dichtbij
+
+Heuvels → met **volle tassen** liever **bus 31/75** of **Uber/taxi** dan lopen.
+Shop bij voorkeur **do/vr/za** (zondag beperkt).
+
+| | [**Super U Nice Madeleine**](https://www.google.com/maps/search/?api=1&query=Super+U+Nice+Madeleine,+85+Boulevard+de+la+Madeleine,+06000+Nice) ⭐ | [**Lidl Gorbella**](https://www.google.com/maps/search/?api=1&query=Lidl,+17+Boulevard+Gorbella,+06000+Nice) | [**Carrefour Lingostière**](https://www.google.com/maps/search/?api=1&query=Carrefour+Lingosti%C3%A8re,+606+Boulevard+du+Mercantour,+06200+Nice) |
+|---|---|---|---|
+| **Afstand** | ~2 km · ~5–10 min bus/taxi | ~1,2 km · dichtst | ~3,5–4 km · ~8–10 min rijden |
+| **Reviews** | ~**3,9** Google (1300+) | budget, oké | hyper, oké |
+| **BBQ + drank** | ✅ vlees, charcoal, bier, wijn, ijs | ✅ goedkoop bier/basics | ✅ alles in één |
+| **Open** | ma–za 08:30–20:00 · zo 09:00–12:30 | ma–za · **zo vaak dicht** | groot, zo ochtend |
+
+**Aanrader:** **Super U Madeleine** (85 Bd de la Madeleine) — beste balans dichtbij +
+assortiment voor BBQ. Lidl = budget-bier; Carrefour = één grote stock-up.
+
+> Taken splitsen mag (democratisch): één subgroep booschappen, rest strand/food tour.
+
 ---
 
 ## 🎆 Cannes — 1 nacht (woensdag 22 → do 23 juli) — ✅ GEBOEKT
