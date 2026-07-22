@@ -2,7 +2,8 @@
 
 7 personen · 22–26 juli 2026 · Cannes → Nice · Monaco
 
-> **Keuze activiteiten:** meerderheid stemmen · bij 4–3 mag splitsen — zie
+> **Kernregel:** als iedereen het naar z’n zin heeft → leuke vakantie voor de hele groep.
+> **Keuze activiteiten:** meerderheid stemmen · bij **4–3** mag splitsen — zie
 > [activiteiten.md](activiteiten.md).
 >
 > **Coen heeft een eigen pagina:** kwartier-voor-kwartier inclusief douchen,

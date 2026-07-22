@@ -4,10 +4,13 @@ Niet alles hoeft met z'n 7'en. Rest strand & terras.
 
 ### 🗳️ Democratische regels
 
+> **Kernregel:** als iedereen het naar z’n zin heeft, heeft de hele groep een leuke
+> vakantie. Dat gaat vóór “iedereen moet overal bij zijn”.
+
 - **Meerderheid geldt** — activiteiten kiezen we met **meeste stemmen** (bij 7 personen:
   **4+** = besluit).
-- **4–3 of verdeeld?** → mag **splitsen**: wie wil mee, mee; rest iets anders (strand,
-  terras, thuis chillen).
+- **4–3 of verdeeld?** → **splitsen**: wie wil mee, mee; rest iets anders (strand,
+  terras, thuis chillen). Geen drama.
 - **Praktisch ook zo:** taken verdelen — bv. **boodschappen BBQ** deels vóór vertrek /
   deels ter plekke, of één subgroep inkopen terwijl anderen al bezig zijn met iets anders.
 - Geen schuldgevoel als je ergens **niet** mee wilt — liever eerlijk splitsen dan iedereen
