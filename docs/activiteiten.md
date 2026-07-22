@@ -7,14 +7,23 @@ Niet alles hoeft met z'n 7'en. Rest strand & terras.
 > **Kernregel:** als iedereen het naar z’n zin heeft, heeft de hele groep een leuke
 > vakantie. Dat gaat vóór “iedereen moet overal bij zijn”.
 
-- **Meerderheid geldt** — activiteiten kiezen we met **meeste stemmen** (bij 7 personen:
-  **4+** = besluit).
-- **4–3 of verdeeld?** → **splitsen**: wie wil mee, mee; rest iets anders (strand,
-  terras, thuis chillen). Geen drama.
-- **Praktisch ook zo:** taken verdelen — bv. **boodschappen BBQ** deels vóór vertrek /
-  deels ter plekke, of één subgroep inkopen terwijl anderen al bezig zijn met iets anders.
-- Geen schuldgevoel als je ergens **niet** mee wilt — liever eerlijk splitsen dan iedereen
-  meesleuren.
+**Hoe we kiezen**
+
+1. **Iedereen geeft z’n mening** — kort en eerlijk (ja / liever niet / huisje / …).
+2. **Meegaan met de groep mag** — prima als je flexibel bent, zolang je het écht oké vindt.
+3. **Meerderheid geldt** — bij 7 personen: **4+** = besluit voor de activiteit.
+4. **4–3 of verdeeld?** → **splitsen**. Geen drama.
+
+**Splitsen — wat mag**
+
+| Situatie | Regel |
+|----------|--------|
+| Subgroep op pad (strand, wijn, stad, …) | Prima |
+| **2–3 bij het huisje** blijven | ✅ Mag gewoon |
+| **Solo** alleen thuis / apart | ❌ Alleen met **goede reden** (ziek, migraine, écht nodig) — niet “zin in niks” zonder overleg |
+
+- Geen schuldgevoel als je ergens **niet** mee wilt — liever eerlijk splitsen dan iemand meesleuren.
+- **Praktisch:** taken verdelen (bv. BBQ-boodschappen) terwijl anderen iets anders doen.
 
 ---
 

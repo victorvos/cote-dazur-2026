@@ -9,7 +9,8 @@
 > Zie [itinerary](itinerary.md) · [vervoer](vervoer.md).
 >
 > **Groepsregel:** als jij (en ieder ander) het naar z’n zin heeft → leuke vakantie
-> voor iedereen. Bij **4–3**: splitsen mag, geen schuldgevoel.
+> voor iedereen. Iedereen geeft z’n mening; meegaan mag. Bij **4–3**: splitsen.
+> **2–3 bij het huisje** = oké. **Solo** alleen met goede reden (ziek e.d.).
 
 ## ✈️ Coens vluchten (geboekt)
 
@@ -365,7 +366,7 @@ Default hieronder: late start → food-tour/strand → BBQ. Wijn? → [activitei
 | Ferry niet betalen vóór 08:45 | Plan B food tour |
 | Douche-file (7 man) | Timer 7 min · volgorde avond ervoor |
 | Coen twijfelt | Dit doc openen · kwartier zoeken · doen |
-| Afwijken | 🗳️ Meerderheid · **4–3 splitsen** · iedereen tevreden > iedereen bij elkaar |
+| Afwijken | 🗳️ Mening geven · meerderheid · **4–3 splitsen** · 2–3 huisje oké · solo alleen met goede reden |
 | Heenvlucht vertraging | App groep · Cantine bellen · dessert/shower skip |
 
 ---
