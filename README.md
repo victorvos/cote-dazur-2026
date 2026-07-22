@@ -6,11 +6,14 @@ Reisplanning voor de groep van **7** naar de Franse Rivièra.
 **Repo:** [github.com/victorvos/cote-dazur-2026](https://github.com/victorvos/cote-dazur-2026) (privé — collaborators uitnodigen via GitHub)
 
 > **Belangrijke regel:** als **iedereen het naar z’n zin heeft**, heeft de **hele
-> groep** een leuke vakantie. Liever splitsen dan iemand meesleuren.
+> groep** een leuke vakantie.
+>
+> **Zo werkt het:** iedereen geeft z’n mening · meegaan mag · meerderheid + bij
+> **4–3** splitsen · **2–3 bij het huisje** is oké · **solo** alleen met goede reden
+> (bv. ziek). Details: [activiteiten.md](docs/activiteiten.md).
 >
 > Filosofie: geen schoolreisje. Een paar essentiële dingen wél gefixt (slaapplek,
 > treinen, ferry), de rest lekker met de dag invullen — terrassen, strand, bier en zon.
-> **Activiteiten:** democratisch (**meerderheid**), bij **4–3** mag de groep **splitsen**.
 
 ---
 
